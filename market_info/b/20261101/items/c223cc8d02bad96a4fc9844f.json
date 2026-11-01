@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 10024,
+  "item_key": "7fa095a278e9",
+  "name": "ブロースティック",
+  "display_name": "ブロースティック",
+  "item_type": "杖",
+  "price": {
+    "amount": 1,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "物理ダメージ 100％ 増加"
+        },
+        {
+          "text": "攻撃者の命中率補正値 無視"
+        },
+        {
+          "text": "ターゲットの風の抵抗を 20％ 弱化させる。"
+        },
+        {
+          "text": "力 200 増加"
+        },
+        {
+          "text": "スキルレベル+2"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "c223cc8d02bad96a4fc9844f"
+}

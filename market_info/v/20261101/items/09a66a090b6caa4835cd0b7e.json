@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 14321,
+  "item_key": "4129e284eda3",
+  "name": "マグナムリボルバー",
+  "display_name": "樹木を抜く マグナムリボルバー",
+  "item_type": "双拳銃",
+  "price": {
+    "amount": 200,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": {
+    "opened": 0,
+    "available": 1,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -200",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": {
+    "identified": true,
+    "prefix": "樹木を抜く",
+    "effects": [
+      "限界突破称号の魔法ダメージ制限の超過量適用(％) 増加 4％",
+      "敵物理致命打抵抗 (％) 減少 13％",
+      "風属性攻撃力増加 40％"
+    ]
+  },
+  "complex": true,
+  "groups": [
+    {
+      "name": "非規格オプション",
+      "lines": [
+        {
+          "text": "限界突破称号の魔法ダメージ制限の超過量適用(％) 増加 4％"
+        },
+        {
+          "text": "敵物理致命打抵抗 (％) 減少 13％"
+        },
+        {
+          "text": "風属性攻撃力増加 40％"
+        }
+      ]
+    },
+    {
+      "name": "錬成オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -200",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "09a66a090b6caa4835cd0b7e"
+}

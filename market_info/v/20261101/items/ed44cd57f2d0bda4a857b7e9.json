@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 14239,
+  "item_key": "50739d72992a",
+  "name": "レンジャーボウ",
+  "display_name": "定義できない レンジャーボウ",
+  "item_type": "弓",
+  "price": {
+    "amount": 50,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": {
+    "opened": 0,
+    "available": 1,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -200",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": {
+    "identified": false,
+    "prefix": "定義できない",
+    "effects": [
+      "武器最大攻撃力 +3",
+      "魔法攻撃力増加 34％",
+      "魔法致命打確率(％) +14％",
+      "火属性攻撃力増加 43％"
+    ]
+  },
+  "complex": true,
+  "groups": [
+    {
+      "name": "非規格オプション",
+      "lines": [
+        {
+          "text": "武器最大攻撃力 +3"
+        },
+        {
+          "text": "魔法攻撃力増加 34％"
+        },
+        {
+          "text": "魔法致命打確率(％) +14％"
+        },
+        {
+          "text": "火属性攻撃力増加 43％"
+        }
+      ]
+    },
+    {
+      "name": "錬成オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -200",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "ed44cd57f2d0bda4a857b7e9"
+}

@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 12550,
+  "item_key": "aba8d456fb71",
+  "name": "コラプテッド・フォース・スリング[Nx]",
+  "display_name": "コラプテッド・フォース・スリング[Nx] (+9)",
+  "item_type": "スリング",
+  "price": {
+    "amount": 3500,
+    "currency": "ingot"
+  },
+  "smelting_level": 9,
+  "nx": {
+    "opened": 4,
+    "available": 4,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "知恵 +504",
+        "active": true
+      },
+      {
+        "slot": 2,
+        "text": "敏捷 +1/レベル 2",
+        "active": true
+      },
+      {
+        "slot": 3,
+        "text": "vs 人間魔法ダメージ増加 12％",
+        "active": true
+      },
+      {
+        "slot": 4,
+        "text": "PVPの時にダメージ増加 36％",
+        "active": true
+      }
+    ]
+  },
+  "nonstandard": null,
+  "complex": true,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "大地属性攻撃力増加 65％"
+        },
+        {
+          "text": "知識 2,000 あたりの限界突破称号の魔法ダメージ制限超過量適用(％) 増加 1％ (最大重複数 10回)"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "魔法ダメージを 60％ 強化させる。"
+        },
+        {
+          "text": "魔法致命打12％"
+        },
+        {
+          "text": "知識 240 増加"
+        }
+      ]
+    },
+    {
+      "name": "Nx解放オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "知恵 +504",
+          "active": true
+        },
+        {
+          "slot": 2,
+          "text": "敏捷 +1/レベル 2",
+          "active": true
+        },
+        {
+          "slot": 3,
+          "text": "vs 人間魔法ダメージ増加 12％",
+          "active": true
+        },
+        {
+          "slot": 4,
+          "text": "PVPの時にダメージ増加 36％",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "製錬 +9",
+      "lines": [
+        {
+          "label": "上級",
+          "text": "魔法攻撃力増加 38％"
+        },
+        {
+          "label": "上級",
+          "text": "攻撃速度増加 24％"
+        },
+        {
+          "label": "下級",
+          "text": "物理致命打確率(％) +0％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "604aeced66d0654d46480ec5"
+}

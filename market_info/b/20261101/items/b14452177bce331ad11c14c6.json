@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 9192,
+  "item_key": "ad48b4dffd3d",
+  "name": "ハルテア",
+  "display_name": "[CP変換Lv2]ハルテア",
+  "item_type": "槍",
+  "price": {
+    "amount": 2,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[CP変換Lv2]",
+          "text": "被ダメージをCPへ転換 6％"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "カリスマ 250 増加"
+        },
+        {
+          "text": "ターゲットの魔法の抵抗を 30％ 弱化させる。"
+        },
+        {
+          "text": "移動速度 +20％"
+        },
+        {
+          "text": "25％ の確率で魔法ダメージの 4％ をHP吸収"
+        },
+        {
+          "text": "攻撃速度  +30％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "b14452177bce331ad11c14c6"
+}

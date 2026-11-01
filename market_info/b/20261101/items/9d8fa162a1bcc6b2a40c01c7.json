@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 4784,
+  "item_key": "f5f1d292b1f1",
+  "name": "初回限定版",
+  "display_name": "初回限定版",
+  "item_type": "本",
+  "price": {
+    "amount": 1,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "全スキルレベル +1"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "光属性ダメージを 15％ 強化させる。"
+        },
+        {
+          "text": "最大CP +30％"
+        },
+        {
+          "text": "知識 200 増加"
+        },
+        {
+          "text": "知恵 150 増加"
+        },
+        {
+          "text": "カリスマ 100 増加"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "9d8fa162a1bcc6b2a40c01c7"
+}

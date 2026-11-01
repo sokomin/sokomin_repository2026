@@ -1,0 +1,143 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 12556,
+  "item_key": "a6dd69a04c33",
+  "name": "コラプテッド・フォース・サイズ[Nx]",
+  "display_name": "[攻撃力Lv1 DX][ガイルート][力比率上昇Lv2]コラプテッド・フォース・サイズ[Nx] (+12)",
+  "item_type": "鎌",
+  "price": {
+    "amount": 1850,
+    "currency": "ingot"
+  },
+  "smelting_level": 12,
+  "nx": {
+    "opened": 4,
+    "available": 4,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "カリスマ +420",
+        "active": true
+      },
+      {
+        "slot": 2,
+        "text": "物理攻撃力増加 72％",
+        "active": true
+      },
+      {
+        "slot": 3,
+        "text": "物理致命打ダメージ増加12％",
+        "active": true
+      },
+      {
+        "slot": 4,
+        "text": "最終攻撃力増加 16％",
+        "active": true
+      }
+    ]
+  },
+  "nonstandard": null,
+  "complex": true,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "武器最小攻撃力 +20"
+        },
+        {
+          "text": "武器最大攻撃力 +22"
+        },
+        {
+          "text": "力 2,000 あたりの限界突破称号の物理ダメージ制限超過量適用(％) 増加 1.0％ (最大重複数 10回)"
+        }
+      ]
+    },
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[攻撃力Lv1 DX]",
+          "text": "物理ダメージ 200％ 増加"
+        },
+        {
+          "label": "[ガイルート]",
+          "text": "力 +2/レベル 3"
+        },
+        {
+          "label": "[力比率上昇Lv2]",
+          "text": "力 +1/レベル 2"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "物理ダメージ 240％ 増加"
+        },
+        {
+          "text": "敵物理致命打抵抗 12％ 減少"
+        },
+        {
+          "text": "スキルレベル+10"
+        }
+      ]
+    },
+    {
+      "name": "Nx解放オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "カリスマ +420",
+          "active": true
+        },
+        {
+          "slot": 2,
+          "text": "物理攻撃力増加 72％",
+          "active": true
+        },
+        {
+          "slot": 3,
+          "text": "物理致命打ダメージ増加12％",
+          "active": true
+        },
+        {
+          "slot": 4,
+          "text": "最終攻撃力増加 16％",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "製錬 +12",
+      "lines": [
+        {
+          "label": "上級",
+          "text": "物理攻撃力増加 270％"
+        },
+        {
+          "label": "上級",
+          "text": "武器最大攻撃力 +18"
+        },
+        {
+          "label": "上級",
+          "text": "魔法致命打確率(％) +6％"
+        }
+      ]
+    },
+    {
+      "name": "異界強化",
+      "lines": [
+        {
+          "text": "全てのスキルレベル +5"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "8bcb228fb721e2f8007546ce"
+}

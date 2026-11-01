@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 6294,
+  "item_key": "b72ac1237af9",
+  "name": "インフィニティツインサーベル7",
+  "display_name": "[攻撃Lv10][攻撃Lv10][攻撃Lv10]インフィニティツインサーベル7",
+  "item_type": "双剣",
+  "price": {
+    "amount": 200,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[攻撃Lv10]",
+          "text": "物理ダメージ 148％ 増加"
+        },
+        {
+          "label": "[攻撃Lv10]",
+          "text": "物理ダメージ 143％ 増加"
+        },
+        {
+          "label": "[攻撃Lv10]",
+          "text": "物理ダメージ 148％ 増加"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "物理ダメージ 160％ 増加"
+        },
+        {
+          "text": "魔法ダメージを 25％ 強化させる。"
+        },
+        {
+          "text": "攻撃速度  +25％"
+        },
+        {
+          "text": "致命打発動確率 +8％"
+        },
+        {
+          "text": "スキルレベル+7"
+        }
+      ]
+    },
+    {
+      "name": "異界強化",
+      "lines": [
+        {
+          "text": "敵の魔法の抵抗(％) -10％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "1837b4fef05165a08eda5c1b"
+}

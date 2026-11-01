@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 554,
+  "item_key": "b7e01391c26e",
+  "name": "投げ短剣",
+  "display_name": "[運増強]投げ短剣",
+  "item_type": "短剣",
+  "price": {
+    "amount": 40,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[運増強]",
+          "text": "該当装備の称号の運増加オプション数値50％上昇"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 2,
+  "id": "3cb38268c58f4ade6d7eb198"
+}

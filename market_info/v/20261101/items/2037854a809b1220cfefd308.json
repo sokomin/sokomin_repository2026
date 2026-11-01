@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 9938,
+  "item_key": "684873ebe120",
+  "name": "ロウバストデストロイヤー",
+  "display_name": "[CPボーナスLv1][健康Lv9]ロウバストデストロイヤー",
+  "item_type": "メイス",
+  "price": {
+    "amount": 5,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[CPボーナスLv1]",
+          "text": "CP獲得ボーナス 1％ 増加"
+        },
+        {
+          "label": "[健康Lv9]",
+          "text": "健康 33 増加"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "スキルレベル+5"
+        },
+        {
+          "text": "攻撃速度  +30％"
+        },
+        {
+          "text": "ターゲットの光の抵抗を 40％ 弱化させる。"
+        },
+        {
+          "text": "魔法ダメージを 10％ 強化させる。"
+        },
+        {
+          "text": "健康 150 増加"
+        },
+        {
+          "text": "人間型キャラクターに追加で +100％の魔法ダメージを与える。"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "2037854a809b1220cfefd308"
+}

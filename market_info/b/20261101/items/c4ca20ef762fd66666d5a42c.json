@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 9246,
+  "item_key": "3e691ad0fafc",
+  "name": "太古の記録",
+  "display_name": "[土属性抵抗Lv2][火属性抵抗Lv4]太古の記録",
+  "item_type": "本",
+  "price": {
+    "amount": 2,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[土属性抵抗Lv2]",
+          "text": "大地属性抵抗 11％ 増加"
+        },
+        {
+          "label": "[火属性抵抗Lv4]",
+          "text": "火属性抵抗 27％ 増加"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "物理ダメージ 325％ 増加"
+        },
+        {
+          "text": "致命打発動確率 +19％"
+        },
+        {
+          "text": "力 325 増加"
+        },
+        {
+          "text": "健康 150 増加"
+        },
+        {
+          "text": "限界突破称号の物理効果1.5％、魔法効果1.0％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "c4ca20ef762fd66666d5a42c"
+}

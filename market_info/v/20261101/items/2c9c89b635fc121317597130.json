@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 2186,
+  "item_key": "f15ed073e22c",
+  "name": "銀の牙Ultimate",
+  "display_name": "[攻撃Lv7][攻撃命中Lv2][力比率上昇Lv1]銀の牙Ultimate",
+  "item_type": "牙",
+  "price": {
+    "amount": 1,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[攻撃Lv7]",
+          "text": "物理ダメージ 76％ 増加"
+        },
+        {
+          "label": "[攻撃命中Lv2]",
+          "text": "命中率 +2％"
+        },
+        {
+          "label": "[力比率上昇Lv1]",
+          "text": "力 +1/レベル 10"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "2c9c89b635fc121317597130"
+}

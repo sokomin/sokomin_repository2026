@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 10714,
+  "item_key": "870cf683115b",
+  "name": "光の抱擁",
+  "display_name": "[土属性攻撃Lv8][知識Lv6]光の抱擁",
+  "item_type": "本",
+  "price": {
+    "amount": 2,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[土属性攻撃Lv8]",
+          "text": "15秒間秒当り 16~18の毒ダメージ"
+        },
+        {
+          "label": "[知識Lv6]",
+          "text": "知識 13 増加"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "物理ダメージ 350％ 増加"
+        },
+        {
+          "text": "致命打発動確率 +20％"
+        },
+        {
+          "text": "限界突破称号の物理効果1.5％、魔法効果1.0％"
+        },
+        {
+          "text": "ダブルクリティカルダメージ 3％ 増加"
+        },
+        {
+          "text": "攻撃速度  +40％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "2d4c4d958726635d772981fd"
+}

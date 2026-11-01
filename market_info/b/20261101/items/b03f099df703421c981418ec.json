@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 9182,
+  "item_key": "5ed7cbac35af",
+  "name": "魔界の業火",
+  "display_name": "魔界の業火",
+  "item_type": "両手剣",
+  "price": {
+    "amount": 3,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "物理ダメージ 300％ 増加"
+        },
+        {
+          "text": "最大物理ダメージ +30"
+        },
+        {
+          "text": "強打+15％"
+        },
+        {
+          "text": "力 300 増加"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "b03f099df703421c981418ec"
+}

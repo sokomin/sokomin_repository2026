@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 14245,
+  "item_key": "2d4ff78c1324",
+  "name": "戦闘槍",
+  "display_name": "年季が入った 戦闘槍",
+  "item_type": "槍",
+  "price": {
+    "amount": 1,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": {
+    "opened": 0,
+    "available": 1,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -200",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": {
+    "identified": true,
+    "prefix": "年季が入った",
+    "effects": [
+      "全スキルレベル +5",
+      "物理強打確率(％) +21％",
+      "物理攻撃力増加 68％"
+    ]
+  },
+  "complex": true,
+  "groups": [
+    {
+      "name": "非規格オプション",
+      "lines": [
+        {
+          "text": "全スキルレベル +5"
+        },
+        {
+          "text": "物理強打確率(％) +21％"
+        },
+        {
+          "text": "物理攻撃力増加 68％"
+        }
+      ]
+    },
+    {
+      "name": "錬成オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -200",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "4dfed0f7a124a49a2d882d66"
+}

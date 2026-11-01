@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 9220,
+  "item_key": "9c5071bca70a",
+  "name": "大器晩成",
+  "display_name": "大器晩成",
+  "item_type": "短剣",
+  "price": {
+    "amount": 3,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "無限弾丸"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "知識 +1/レベル 2"
+        },
+        {
+          "text": "移動速度 +20％"
+        },
+        {
+          "text": "スキルレベル+5"
+        },
+        {
+          "text": "ターゲットの火の抵抗を 35％ 弱化させる。"
+        },
+        {
+          "text": "火ダメージ3,650~4,440"
+        },
+        {
+          "text": "限界突破称号の物理効果1.0％、魔法効果6.0％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "0a76b315295fee7a4e61a444"
+}

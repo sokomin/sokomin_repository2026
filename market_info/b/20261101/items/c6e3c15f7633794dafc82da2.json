@@ -1,0 +1,46 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 9236,
+  "item_key": "a91306d3de08",
+  "name": "苦痛と快楽",
+  "display_name": "苦痛と快楽",
+  "item_type": "鞭",
+  "price": {
+    "amount": 10,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "物理ダメージ 300％ 増加"
+        },
+        {
+          "text": "健康 100 増加"
+        },
+        {
+          "text": "CP獲得ボーナス 50％ 増加"
+        },
+        {
+          "text": "命中率 +10％"
+        },
+        {
+          "text": "攻撃速度  +50％"
+        },
+        {
+          "text": "スキルレベル+5(15系列職業)"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "c6e3c15f7633794dafc82da2"
+}

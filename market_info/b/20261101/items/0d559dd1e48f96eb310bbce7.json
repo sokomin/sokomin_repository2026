@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 11912,
+  "item_key": "0599d3e9fb03",
+  "name": "限界解放",
+  "display_name": "限界解放",
+  "item_type": "双剣",
+  "price": {
+    "amount": 1,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "物理ダメージ 200％ 増加"
+        },
+        {
+          "text": "力 +1/レベル 4"
+        },
+        {
+          "text": "攻撃速度  +30％"
+        },
+        {
+          "text": "敵物理致命打抵抗 30％ 減少"
+        },
+        {
+          "text": "全ての 低下系 状態異常のうち、1つ以上の状態異常にかかった敵を攻撃すると、物理0％ / 魔法50％ 増加"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "0d559dd1e48f96eb310bbce7"
+}

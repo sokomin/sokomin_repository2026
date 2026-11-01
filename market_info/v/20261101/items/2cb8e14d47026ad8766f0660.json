@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 9248,
+  "item_key": "5f9add64bf37",
+  "name": "オーバーテクノロジー",
+  "display_name": "[力Lv5]オーバーテクノロジー",
+  "item_type": "本",
+  "price": {
+    "amount": 5,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[力Lv5]",
+          "text": "力 8 増加"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "スキルレベル+13"
+        },
+        {
+          "text": "魔法ダメージを 65％ 強化させる。"
+        },
+        {
+          "text": "知識 325 増加"
+        },
+        {
+          "text": "攻撃速度  +65％"
+        },
+        {
+          "text": "移動速度 +30％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "2cb8e14d47026ad8766f0660"
+}

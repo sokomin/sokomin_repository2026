@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 2531,
+  "item_key": "63a5368344b2",
+  "name": "ホバーピラー",
+  "display_name": "[攻撃回避Lv5][最大HP効率Lv6]ホバーピラー",
+  "item_type": "共用鎧",
+  "price": {
+    "amount": 200,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "防御力 +32"
+        }
+      ]
+    },
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[攻撃回避Lv5]",
+          "text": "回避率 +8％"
+        },
+        {
+          "label": "[最大HP効率Lv6]",
+          "text": "最大HP +83％"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "移動速度 +40％"
+        },
+        {
+          "text": "ブロッキング速度 +60％"
+        },
+        {
+          "text": "空中浮遊"
+        },
+        {
+          "text": "攻撃者の命中率補正値 無視"
+        },
+        {
+          "text": "大地属性抵抗 50％ 増加"
+        },
+        {
+          "text": "決定打 抵抗 50％ 増加"
+        }
+      ]
+    },
+    {
+      "name": "異界強化",
+      "lines": [
+        {
+          "text": "被ダメージCP変換 +3％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "d414f733b07d971a68f480d3"
+}

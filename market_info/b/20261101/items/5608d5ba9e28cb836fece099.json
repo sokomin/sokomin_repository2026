@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 14248,
+  "item_key": "c2614cc4af96",
+  "name": "パイプ",
+  "display_name": "心を壊す パイプ",
+  "item_type": "笛",
+  "price": {
+    "amount": 5,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": {
+    "opened": 0,
+    "available": 2,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -200",
+        "active": false
+      },
+      {
+        "slot": 2,
+        "text": "攻撃速度  +10％",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": {
+    "identified": true,
+    "prefix": "心を壊す",
+    "effects": [
+      "攻撃速度増加 23％",
+      "物理攻撃力増加 74％",
+      "知識 +290",
+      "同伴者の異常抵抗(％) +42％"
+    ]
+  },
+  "complex": true,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "カリスマ +15"
+        }
+      ]
+    },
+    {
+      "name": "非規格オプション",
+      "lines": [
+        {
+          "text": "攻撃速度増加 23％"
+        },
+        {
+          "text": "物理攻撃力増加 74％"
+        },
+        {
+          "text": "知識 +290"
+        },
+        {
+          "text": "同伴者の異常抵抗(％) +42％"
+        }
+      ]
+    },
+    {
+      "name": "錬成オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -200",
+          "active": false
+        },
+        {
+          "slot": 2,
+          "text": "攻撃速度  +10％",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "5608d5ba9e28cb836fece099"
+}

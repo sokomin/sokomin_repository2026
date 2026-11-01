@@ -1,0 +1,81 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 14267,
+  "item_key": "d6c4fcb91818",
+  "name": "スプリットウィップ",
+  "display_name": "激烈に憤怒する スプリットウィップ",
+  "item_type": "鞭",
+  "price": {
+    "amount": 1,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": {
+    "opened": 0,
+    "available": 1,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -200",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": {
+    "identified": true,
+    "prefix": "激烈に憤怒する",
+    "effects": [
+      "敵物理致命打抵抗 (％) 減少 19％",
+      "攻撃速度増加 34％",
+      "同伴者の魔法攻撃力増加 42％",
+      "限界突破称号の魔法ダメージ制限の超過量適用(％) 増加 5％",
+      "魔法強打ダメージ増加 2％"
+    ]
+  },
+  "complex": true,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "攻撃速度増加 3％"
+        }
+      ]
+    },
+    {
+      "name": "非規格オプション",
+      "lines": [
+        {
+          "text": "敵物理致命打抵抗 (％) 減少 19％"
+        },
+        {
+          "text": "攻撃速度増加 34％"
+        },
+        {
+          "text": "同伴者の魔法攻撃力増加 42％"
+        },
+        {
+          "text": "限界突破称号の魔法ダメージ制限の超過量適用(％) 増加 5％"
+        },
+        {
+          "text": "魔法強打ダメージ増加 2％"
+        }
+      ]
+    },
+    {
+      "name": "錬成オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -200",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "af318042ed74439b3470ac6b"
+}

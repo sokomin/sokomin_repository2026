@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 14321,
+  "item_key": "4129e284eda3",
+  "name": "マグナムリボルバー",
+  "display_name": "灰で覆われた マグナムリボルバー",
+  "item_type": "双拳銃",
+  "price": {
+    "amount": 300,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": {
+    "opened": 0,
+    "available": 1,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -200",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": {
+    "identified": true,
+    "prefix": "灰で覆われた",
+    "effects": [
+      "限界突破称号の魔法ダメージ制限の超過量適用(％) 増加 5％",
+      "知識 +380",
+      "武器最小攻撃力 +3",
+      "全スキルレベル +7"
+    ]
+  },
+  "complex": true,
+  "groups": [
+    {
+      "name": "非規格オプション",
+      "lines": [
+        {
+          "text": "限界突破称号の魔法ダメージ制限の超過量適用(％) 増加 5％"
+        },
+        {
+          "text": "知識 +380"
+        },
+        {
+          "text": "武器最小攻撃力 +3"
+        },
+        {
+          "text": "全スキルレベル +7"
+        }
+      ]
+    },
+    {
+      "name": "錬成オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -200",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "ea7fb8427eb04dd84f3f9141"
+}

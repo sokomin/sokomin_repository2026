@@ -1,0 +1,34 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 3828,
+  "item_key": "9db697b3f302",
+  "name": "結晶石",
+  "display_name": "結晶石",
+  "item_type": "お菓子",
+  "price": {
+    "amount": 1000,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "クリーチャー経験値"
+        },
+        {
+          "text": "促進剤 1個消費"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 26,
+  "id": "052f50085c24f91a700d0a47"
+}

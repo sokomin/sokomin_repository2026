@@ -1,0 +1,132 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 12574,
+  "item_key": "f1b2b677f414",
+  "name": "コラプテッド・フォース・ダークコア[Nx]",
+  "display_name": "[力比率上昇Lv2][力比率上昇Lv2][力比率上昇Lv2]コラプテッド・フォース・ダークコア[Nx] (+10)",
+  "item_type": "ダークコア",
+  "price": {
+    "amount": 5000,
+    "currency": "ingot"
+  },
+  "smelting_level": 10,
+  "nx": {
+    "opened": 4,
+    "available": 4,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "知識 +420",
+        "active": true
+      },
+      {
+        "slot": 2,
+        "text": "カリスマ +1/レベル 3",
+        "active": true
+      },
+      {
+        "slot": 3,
+        "text": "魔法致命打確率(％) +22％",
+        "active": true
+      },
+      {
+        "slot": 4,
+        "text": "最終攻撃力増加 16％",
+        "active": true
+      }
+    ]
+  },
+  "nonstandard": null,
+  "complex": true,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "闇属性攻撃力増加 66％"
+        },
+        {
+          "text": "知識 2,000 あたりの限界突破称号の魔法ダメージ制限超過量適用(％) 増加 1％ (最大重複数 10回)"
+        }
+      ]
+    },
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[力比率上昇Lv2]",
+          "text": "力 +1/レベル 2"
+        },
+        {
+          "label": "[力比率上昇Lv2]",
+          "text": "力 +1/レベル 2"
+        },
+        {
+          "label": "[力比率上昇Lv2]",
+          "text": "力 +1/レベル 2"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "魔法ダメージを 60％ 強化させる。"
+        },
+        {
+          "text": "魔法致命打12％"
+        },
+        {
+          "text": "最大CP +60％"
+        }
+      ]
+    },
+    {
+      "name": "Nx解放オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "知識 +420",
+          "active": true
+        },
+        {
+          "slot": 2,
+          "text": "カリスマ +1/レベル 3",
+          "active": true
+        },
+        {
+          "slot": 3,
+          "text": "魔法致命打確率(％) +22％",
+          "active": true
+        },
+        {
+          "slot": 4,
+          "text": "最終攻撃力増加 16％",
+          "active": true
+        }
+      ]
+    },
+    {
+      "name": "製錬 +10",
+      "lines": [
+        {
+          "label": "上級",
+          "text": "魔法攻撃力増加 44％"
+        },
+        {
+          "label": "中級",
+          "text": "攻撃速度増加 20％"
+        },
+        {
+          "label": "中級",
+          "text": "物理致命打確率(％) +6％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "72d325019ae3ac7eb63ecb8e"
+}

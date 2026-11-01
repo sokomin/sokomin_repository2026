@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 291,
+  "item_key": "82e7238a41f3",
+  "name": "フォームガード",
+  "display_name": "フォームガード",
+  "item_type": "グローブ",
+  "price": {
+    "amount": 1,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "防御力 +1"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "最大CP +40％"
+        },
+        {
+          "text": "CP獲得ボーナス 25％ 増加"
+        },
+        {
+          "text": "攻撃速度  +30％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "5c45f3d0ce3793c3d52709b7"
+}

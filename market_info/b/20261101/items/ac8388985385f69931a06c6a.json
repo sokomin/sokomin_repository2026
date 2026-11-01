@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 3079,
+  "item_key": "82e564b0ff56",
+  "name": "カドゥケウス",
+  "display_name": "カドゥケウス",
+  "item_type": "杖",
+  "price": {
+    "amount": 1,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "全スキルレベル +2"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "知識 120 増加"
+        },
+        {
+          "text": "減少限界CP +20"
+        },
+        {
+          "text": "攻撃速度  +30％"
+        },
+        {
+          "text": "光ダメージ 1~125"
+        },
+        {
+          "text": "大地属性抵抗 75％ 増加"
+        },
+        {
+          "text": "スキルレベル+1"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "ac8388985385f69931a06c6a"
+}

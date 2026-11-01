@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261101",
+  "item_id": 9206,
+  "item_key": "60fc5d3d78fa",
+  "name": "無限の絆",
+  "display_name": "[威厳Lv2]無限の絆",
+  "item_type": "笛",
+  "price": {
+    "amount": 5,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[威厳Lv2]",
+          "text": "カリスマ 2 増加"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "スキルレベル+15"
+        },
+        {
+          "text": "(召喚獣、ペット) 異常状態抵抗 10％ 増加"
+        },
+        {
+          "text": "召喚獣の全てのステータス +350"
+        },
+        {
+          "text": "ペットの全てのステータス +350"
+        },
+        {
+          "text": "(召喚獣、ペット) 攻撃速度 30％ 増加"
+        },
+        {
+          "text": "同伴者の物理攻撃力増加 30％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "2ecf30ba19fb9f18a3b96d17"
+}

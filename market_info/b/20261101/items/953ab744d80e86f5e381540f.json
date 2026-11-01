@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 14221,
+  "item_key": "791a10e7d23b",
+  "name": "ラスティーファング",
+  "display_name": "復讐を求める ラスティーファング",
+  "item_type": "牙",
+  "price": {
+    "amount": 80,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": {
+    "opened": 0,
+    "available": 2,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -200",
+        "active": false
+      },
+      {
+        "slot": 2,
+        "text": "攻撃速度  +10％",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": {
+    "identified": true,
+    "prefix": "復讐を求める",
+    "effects": [
+      "物理強打確率(％) +26％",
+      "武器最大攻撃力 +5"
+    ]
+  },
+  "complex": true,
+  "groups": [
+    {
+      "name": "非規格オプション",
+      "lines": [
+        {
+          "text": "物理強打確率(％) +26％"
+        },
+        {
+          "text": "武器最大攻撃力 +5"
+        }
+      ]
+    },
+    {
+      "name": "錬成オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -200",
+          "active": false
+        },
+        {
+          "slot": 2,
+          "text": "攻撃速度  +10％",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "953ab744d80e86f5e381540f"
+}

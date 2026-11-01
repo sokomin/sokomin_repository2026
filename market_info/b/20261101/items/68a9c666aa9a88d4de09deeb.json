@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 13292,
+  "item_key": "618711d74576",
+  "name": "熱風のリング",
+  "display_name": "[RED STONE][防御力効率Lv5][運比率上昇Lv2]熱風のリング",
+  "item_type": "リング",
+  "price": {
+    "amount": 700,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": null,
+  "nonstandard": null,
+  "complex": false,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "風属性抵抗(％) +5％"
+        }
+      ]
+    },
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[RED STONE]",
+          "text": "スキルレベル+5"
+        },
+        {
+          "label": "[防御力効率Lv5]",
+          "text": "防御力 +40％"
+        },
+        {
+          "label": "[運比率上昇Lv2]",
+          "text": "運 +1/レベル 2"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "9番目のスロットにのみ着用可"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "68a9c666aa9a88d4de09deeb"
+}

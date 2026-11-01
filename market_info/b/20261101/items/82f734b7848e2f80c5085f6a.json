@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 14218,
+  "item_key": "a41ac40ed839",
+  "name": "ギザギザの牙",
+  "display_name": "切り裂く ギザギザの牙",
+  "item_type": "牙",
+  "price": {
+    "amount": 10,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": {
+    "opened": 0,
+    "available": 1,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -200",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": {
+    "identified": true,
+    "prefix": "切り裂く",
+    "effects": [
+      "物理攻撃力増加 137％",
+      "知識 +330",
+      "武器最大攻撃力 +1"
+    ]
+  },
+  "complex": true,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "物理致命打確率(％) +3％"
+        }
+      ]
+    },
+    {
+      "name": "非規格オプション",
+      "lines": [
+        {
+          "text": "物理攻撃力増加 137％"
+        },
+        {
+          "text": "知識 +330"
+        },
+        {
+          "text": "武器最大攻撃力 +1"
+        }
+      ]
+    },
+    {
+      "name": "錬成オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -200",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "82f734b7848e2f80c5085f6a"
+}

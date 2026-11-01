@@ -1,0 +1,128 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 9185,
+  "item_key": "fbec85a90d2d",
+  "name": "ヘルグリム[Nx]",
+  "display_name": "[攻撃Lv10][攻撃Lv10][攻撃Lv10]ヘルグリム[Nx] (+7)",
+  "item_type": "両手剣",
+  "price": {
+    "amount": 200,
+    "currency": "ingot"
+  },
+  "smelting_level": 7,
+  "nx": {
+    "opened": 3,
+    "available": 4,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -150",
+        "active": true
+      },
+      {
+        "slot": 2,
+        "text": "知識 200 増加",
+        "active": true
+      },
+      {
+        "slot": 3,
+        "text": "魔法致命打20％",
+        "active": true
+      },
+      {
+        "slot": 4,
+        "text": "最終攻撃力10％増加",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": null,
+  "complex": true,
+  "groups": [
+    {
+      "name": "称号オプション",
+      "lines": [
+        {
+          "label": "[攻撃Lv10]",
+          "text": "物理ダメージ 143％ 増加"
+        },
+        {
+          "label": "[攻撃Lv10]",
+          "text": "物理ダメージ 145％ 増加"
+        },
+        {
+          "label": "[攻撃Lv10]",
+          "text": "物理ダメージ 146％ 増加"
+        }
+      ]
+    },
+    {
+      "name": "固有オプション",
+      "lines": [
+        {
+          "text": "ターゲットの風の抵抗を 100％ 弱化させる。"
+        },
+        {
+          "text": "ターゲットの水の抵抗を 100％ 弱化させる。"
+        },
+        {
+          "text": "ターゲットの闇の抵抗を 100％ 弱化させる。"
+        },
+        {
+          "text": "ターゲットの魔法の抵抗を 100％ 弱化させる。"
+        }
+      ]
+    },
+    {
+      "name": "Nx解放オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -150",
+          "active": true
+        },
+        {
+          "slot": 2,
+          "text": "知識 200 増加",
+          "active": true
+        },
+        {
+          "slot": 3,
+          "text": "魔法致命打20％",
+          "active": true
+        },
+        {
+          "slot": 4,
+          "text": "最終攻撃力10％増加",
+          "active": false
+        }
+      ]
+    },
+    {
+      "name": "製錬 +7",
+      "lines": [
+        {
+          "label": "上級",
+          "text": "物理攻撃力増加 120％"
+        },
+        {
+          "label": "中級",
+          "text": "攻撃速度増加 17％"
+        }
+      ]
+    },
+    {
+      "name": "異界強化",
+      "lines": [
+        {
+          "text": "物理攻撃力増加 39％"
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "c1bfc946fb5ec86399ff5b0c"
+}

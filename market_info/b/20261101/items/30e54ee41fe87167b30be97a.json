@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261101",
+  "item_id": 14343,
+  "item_key": "82f1df025ef5",
+  "name": "キャッスルブレイカー",
+  "display_name": "山を分かつ キャッスルブレイカー",
+  "item_type": "大砲",
+  "price": {
+    "amount": 1,
+    "currency": "ingot"
+  },
+  "smelting_level": 0,
+  "nx": {
+    "opened": 0,
+    "available": 3,
+    "slots": [
+      {
+        "slot": 1,
+        "text": "このアイテムの着用レベル -200",
+        "active": false
+      },
+      {
+        "slot": 2,
+        "text": "攻撃速度  +10％",
+        "active": false
+      },
+      {
+        "slot": 3,
+        "text": "スキルレベル+5",
+        "active": false
+      }
+    ]
+  },
+  "nonstandard": {
+    "identified": true,
+    "prefix": "山を分かつ",
+    "effects": []
+  },
+  "complex": true,
+  "groups": [
+    {
+      "name": "基本オプション",
+      "lines": [
+        {
+          "text": "物理攻撃力増加 54％"
+        }
+      ]
+    },
+    {
+      "name": "錬成オプション",
+      "lines": [
+        {
+          "slot": 1,
+          "text": "このアイテムの着用レベル -200",
+          "active": false
+        },
+        {
+          "slot": 2,
+          "text": "攻撃速度  +10％",
+          "active": false
+        },
+        {
+          "slot": 3,
+          "text": "スキルレベル+5",
+          "active": false
+        }
+      ]
+    }
+  ],
+  "notes": [],
+  "quantity": 1,
+  "id": "30e54ee41fe87167b30be97a"
+}
