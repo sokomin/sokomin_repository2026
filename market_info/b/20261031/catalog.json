@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261031",
+  "items": [
+    {
+      "id": "3e1f423eab3d668712d2c709",
+      "item_key": "f1b2b677f414",
+      "item_id": 12574,
+      "name": "コラプテッド・フォース・ダークコア[Nx]",
+      "display_name": "[力比率上昇Lv2][力比率上昇Lv2][力比率上昇Lv2]コラプテッド・フォース・ダークコア[Nx] (+10)",
+      "item_type": "ダークコア",
+      "price": {
+        "amount": 5000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "4f076ebf5e690cd9a80d2b8491c6bda6e77d06171f2bbcd7da67c38d84502588"
+    },
+    {
+      "id": "694805563bc4f537a68c4e90",
+      "item_key": "39d2967daf88",
+      "item_id": 14460,
+      "name": "蠍王の指輪",
+      "display_name": "蠍王の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 250,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "36d1a8f76683e9d6f4c4f7f0d69a5b8e19841ea351f77411c241aa95dfa4ce2a"
+    },
+    {
+      "id": "b1890987cff0e95001b5dfc2",
+      "item_key": "39d2967daf88",
+      "item_id": 14460,
+      "name": "蠍王の指輪",
+      "display_name": "蠍王の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2e2312d801a13173f7d22c4f061d269bf5f2bc93814acb723f9c23c726d4826f"
+    }
+  ]
+}
