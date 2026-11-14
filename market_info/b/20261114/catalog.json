@@ -1,0 +1,3967 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261114",
+  "items": [
+    {
+      "id": "eb8ed8f6debe18e38710dd6b",
+      "item_key": "1fd411192be2",
+      "item_id": 11157,
+      "name": "くびれた腰",
+      "display_name": "くびれた腰",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "870d4bbc722b076bd4666880b6dbb92edbde3bd449ae6947db6bca7b83ec5521"
+    },
+    {
+      "id": "1c9e8d550ab1e78ff240eae2",
+      "item_key": "218ad490079a",
+      "item_id": 14240,
+      "name": "アサシンボウ",
+      "display_name": "[最高攻撃Lv1 ULT][攻撃力Lv1 ULT][攻撃力Lv1 ULT]静寂に響く アサシンボウ (+10)",
+      "item_type": "弓",
+      "price": {
+        "amount": 1300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "6adff3cb3a2cde8e48f85b98fa10f9fcfcbf34403f7910f37685c269cfd98eb7"
+    },
+    {
+      "id": "345a3d3bd7ef276860fa9e7e",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "36329741b5947cc725074f8b1bd3f0d7868f083d8db04623be432b0fc91f90b2"
+    },
+    {
+      "id": "6ed530c4f15af04bc685017f",
+      "item_key": "2063e7416ce0",
+      "item_id": 339,
+      "name": "アンクイヤリング",
+      "display_name": "[防御力効率Lv3][攻撃Lv4][狂暴の]アンクイヤリング",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fa512bad7bc1496f552dfb9eb5cd09a6ba17a13dd7b7d5e86b8af4e646e455eb"
+    },
+    {
+      "id": "f77b211fdcd238393fc9d165",
+      "item_key": "b7c04ee8ae64",
+      "item_id": 1463,
+      "name": "イフリィト装飾の十字架 XLS",
+      "display_name": "[水属性抵抗Lv6][致命打抵抗 ULT][リラ]イフリィト装飾の十字架 XLS",
+      "item_type": "十字架",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3e39bc999582c2bc5b3066ace94b02cd7a13128f60dc324af23218977bb913d1"
+    },
+    {
+      "id": "fdb01923d44138de7f0899a1",
+      "item_key": "484a119f1ea1",
+      "item_id": 12851,
+      "name": "ウインドジャンパー[Nx]",
+      "display_name": "[移動速度Lv1 ULT][ニケ][浮遊]ウインドジャンパー[Nx] (+10)",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 6800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "5b6df768754530892f4f52466589966e3e17c684f3c17ad7134ca1aa4a020e16"
+    },
+    {
+      "id": "3e6de2f3daa8e3f6757be573",
+      "item_key": "97930d0710e5",
+      "item_id": 11862,
+      "name": "ウォーターフレイム",
+      "display_name": "[威厳Lv7]ウォーターフレイム",
+      "item_type": "杖",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5aa8348d3d4d1f011c2fb4cf33d0033da58f570987b975f74ff069ef94e24428"
+    },
+    {
+      "id": "11ff90066c71d9603c3fd490",
+      "item_key": "ac4f0f521e74",
+      "item_id": 11862,
+      "name": "ウォーターフレイム",
+      "display_name": "[健康Lv4][敏捷比率上昇Lv1][知識Lv8]ウォーターフレイム",
+      "item_type": "杖",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9621c85c00ce76c0463cb1530276c55434ddf3ae2c8411cc1c87f5d7742b7363"
+    },
+    {
+      "id": "144151c11880384d962eae2c",
+      "item_key": "882096293c1b",
+      "item_id": 10094,
+      "name": "ウロボロス",
+      "display_name": "ウロボロス",
+      "item_type": "リング",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a72e518163b88588ae053bc8dcc49da8c28558de682bc13f64fb1edaa8fbc62c"
+    },
+    {
+      "id": "0ef54a143fd3a6bfa63c6814",
+      "item_key": "d7f8d48e5554",
+      "item_id": 419,
+      "name": "エア・ウェイダー",
+      "display_name": "[闇属性攻撃Lv7][堕天使]エア・ウェイダー",
+      "item_type": "翼",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4f4f388309c161f2eb16bc3f126140b35b7274135ac336579e7053f1045e6d54"
+    },
+    {
+      "id": "4b7eb96f5cd800c20df9abde",
+      "item_key": "78824d17ad6e",
+      "item_id": 4962,
+      "name": "エーデルゴンド[Nx]",
+      "display_name": "[攻撃速度Lv3][攻撃速度Lv3][力比率上昇Lv2]エーデルゴンド[Nx]",
+      "item_type": "リング",
+      "price": {
+        "amount": 150,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": 0,
+      "available": 0,
+      "variant_key": "28c0326be6fb294f42fa3d80431c7467b426facad06eb3aa2313dd90d95c5811"
+    },
+    {
+      "id": "2f7a9b660f62b039d8a3a8a0",
+      "item_key": "6b5037fd1b09",
+      "item_id": 9130,
+      "name": "オッドアイ",
+      "display_name": "[知能低下]オッドアイ",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4661629794c5e6dd1c8942060b834e07a4b404bcb76c7bc6db7bee6c1f8188fd"
+    },
+    {
+      "id": "8c480c0d895f408bb45e6f5f",
+      "item_key": "08a3a532356b",
+      "item_id": 11870,
+      "name": "オフェンシブチューン",
+      "display_name": "オフェンシブチューン",
+      "item_type": "笛",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3a6bbffdff34776e2bf0fb2d71b13c68e5b650874f981222375c33f37c0eeb35"
+    },
+    {
+      "id": "8256582e492cd85e8dd70801",
+      "item_key": "b710e405cce4",
+      "item_id": 10753,
+      "name": "オラクルサークレット",
+      "display_name": "[最大CP効率Lv3][火属性抵抗Lv5]オラクルサークレット",
+      "item_type": "冠",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "177a291648930cc747aed6177b934aaadb89398476973afb86959e4b07a3530f"
+    },
+    {
+      "id": "cb975c3bf42c3bfbd8c14d98",
+      "item_key": "d19bd010ed36",
+      "item_id": 10753,
+      "name": "オラクルサークレット",
+      "display_name": "[威厳Lv3][知恵固定]オラクルサークレット",
+      "item_type": "冠",
+      "price": {
+        "amount": 12,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "116b42cd566326b04f1c97eecaa72d0e98e5ad2fa032515c4eb7a8f3b262b3d2"
+    },
+    {
+      "id": "e01882b01ac08991dad64bbc",
+      "item_key": "56fc9c3fbe91",
+      "item_id": 12837,
+      "name": "オーバーフロー[Nx]",
+      "display_name": "[知識比率上昇Lv2][知識比率上昇Lv2][知識比率上昇Lv2]オーバーフロー[Nx] (+7)",
+      "item_type": "マント",
+      "price": {
+        "amount": 8000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 7,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "e9784e0d10d8181b29e8f0cff27736ea1f7cea9cd933fab6eb0f7fa6860c637a"
+    },
+    {
+      "id": "c341e1bf59f230e7f5f662bc",
+      "item_key": "61c1076938f6",
+      "item_id": 9173,
+      "name": "カスタムオーダー[Nx]",
+      "display_name": "[応急処置 ULT][応急処置 ULT][RED STONE DX]カスタムオーダー[Nx] (+10)",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 1200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "f1cd24f1ec811edfd79ad509bd83264e56c593f7b2f88d9fbed73254db850e52"
+    },
+    {
+      "id": "68fc904c6ef144395466dc2c",
+      "item_key": "6ca2a75df123",
+      "item_id": 5217,
+      "name": "カンニバリスター[Nx]",
+      "display_name": "[ランディス][回避補正無視][ランディス]カンニバリスター[Nx] (+11)",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 2000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 11,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "29f032e506350d3a3dc389d2727d6f31deeb1d0c49232ed7b4016956f1ed298b"
+    },
+    {
+      "id": "fd08b724e150a326a08f842c",
+      "item_key": "91bd93950cf8",
+      "item_id": 5217,
+      "name": "カンニバリスター[Nx]",
+      "display_name": "[回避補正無視][攻撃力Lv1 DX][攻撃力Lv1 DX]カンニバリスター[Nx] (+10)",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 1300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "30e14e1dc7364074dadc3e80aaaba137638a1411f7d62214b3b19988583a92c3"
+    },
+    {
+      "id": "a073ff2d4c336cee0076e816",
+      "item_key": "62481fc3e91b",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "dbf3642dbdb141dd07782788c7642dd631ef2d9d246679801c40904df4089b16"
+    },
+    {
+      "id": "d6b370bd0e71846ac03a91e2",
+      "item_key": "850280d7195b",
+      "item_id": 11944,
+      "name": "キュリアスバイオレットイヤリング",
+      "display_name": "キュリアスバイオレットイヤリング",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8db63382df6ba210c9909c751c02f9729b89bacd324cfb601d8908ac87af7ca5"
+    },
+    {
+      "id": "d4f88af36c1f890d2b54c44f",
+      "item_key": "a41ac40ed839",
+      "item_id": 14218,
+      "name": "ギザギザの牙",
+      "display_name": "真理に辿り着いた ギザギザの牙",
+      "item_type": "牙",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 2,
+      "variant_key": "5b926e26b14da203a587e2d21149283d16aac19d6fd21bb55684100c1dc9d3d1"
+    },
+    {
+      "id": "7b4be56b58bc818648038b34",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "008493a9c00abcb6212537d9d39db49cc9826a46a2c8c3a108dbd3c5979000a8"
+    },
+    {
+      "id": "9e4ed9f3a660fded60e20ae7",
+      "item_key": "d9c364dd008a",
+      "item_id": 94,
+      "name": "クロスシューズ",
+      "display_name": "[浮遊][浮遊][浮遊]クロスシューズ",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 900,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "444413030cd655b8f209996102c4974ee1e9dbe344dfd2d58cd45c43a284675e"
+    },
+    {
+      "id": "29878b99879fa3a300875bf3",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "de465cea03086f2efabd9c388b6ad8759fe8840c0a08d6f3124935b105b56080"
+    },
+    {
+      "id": "5725375d55e9714ffd102f1a",
+      "item_key": "d850fca3da7c",
+      "item_id": 6125,
+      "name": "グラウンドグラフィティ",
+      "display_name": "[力比率上昇Lv1][闇属性攻撃Lv4][回避補正無視]グラウンドグラフィティ",
+      "item_type": "ほうき",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0f2f88cb436a27ec7b469bf747c7cdc2e4d34cb78079113fe9f364d9d9407b0b"
+    },
+    {
+      "id": "dca474e345bbb26793913f93",
+      "item_key": "97f653c9cc42",
+      "item_id": 14360,
+      "name": "グラディエーターアーマー",
+      "display_name": "描写できない グラディエーターアーマー",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 3,
+      "variant_key": "f140fee28e90e606b68c8110939da025a9f01d31ab2f4845f152bcf06dcdb1dc"
+    },
+    {
+      "id": "3a30a899953c37be521b2427",
+      "item_key": "e1796c8f6ba1",
+      "item_id": 14360,
+      "name": "グラディエーターアーマー",
+      "display_name": "[防御効率Lv1 ULT][防御効率Lv1 ULT][防御効率Lv1 ULT]復讐を求める グラディエーターアーマー (+12)",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 6100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 12,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "85ed91e9341c9ecae1f801ead6bc1f4a5c14659be547f37ef71ebf15845e600b"
+    },
+    {
+      "id": "b43754075477fbd13fcaabbc",
+      "item_key": "af2f9f2d903d",
+      "item_id": 12833,
+      "name": "グランドフィナーレ[Nx]",
+      "display_name": "[知識比率上昇Lv2][知識比率上昇Lv2][知識比率上昇Lv2]グランドフィナーレ[Nx] (+8)",
+      "item_type": "冠",
+      "price": {
+        "amount": 4800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 8,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "0a3c1a5e4ba033a0402b124708b9f2277540f39cca7eb6f3cfd15b6f3ea7dfc2"
+    },
+    {
+      "id": "5794b6389c21ef0916839001",
+      "item_key": "b0692d74da41",
+      "item_id": 11942,
+      "name": "グルーミングブルーイヤリング",
+      "display_name": "[知恵Lv6][攻撃Lv4]グルーミングブルーイヤリング",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "db5527059624d2c5b852841fbc03aeab4848da1f06753b10b5723d4fc6e4214f"
+    },
+    {
+      "id": "69c16476ef5b91d2099fac04",
+      "item_key": "272d938db492",
+      "item_id": 10773,
+      "name": "ゲージングジュエル",
+      "display_name": "[光属性攻撃Lv4][最大CPLv2]ゲージングジュエル",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c06b7f83637cba12428b33aeea8245a7ebfc7ab684be91324f00d3ec96fd92ab"
+    },
+    {
+      "id": "f1b9ac6a1e5f35297d8c1c2e",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 70,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b44ca9eda09589714ec1232a4af33b30e456249e23bd9c1918f55d1b3da7dc7e"
+    },
+    {
+      "id": "c6df3fc3ead257c0cb8314e6",
+      "item_key": "eb8177228b36",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイド長][メイド見習い]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c118162b09790f66020f59535256c72105caba6bcb24a22fa90b54b24a106b93"
+    },
+    {
+      "id": "e575503c8a86c63086f0d1ef",
+      "item_key": "3fc7da24c428",
+      "item_id": 5024,
+      "name": "コスウェール[Nx]",
+      "display_name": "[風攻撃Lv1 ULT][風攻撃Lv1 ULT][風攻撃Lv1 ULT]コスウェール[Nx]",
+      "item_type": "両手剣",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": 0,
+      "available": 0,
+      "variant_key": "20d090a8ec5d8a64bf782e73f19da50ba3250af9975f0536e3764c59609a846f"
+    },
+    {
+      "id": "1b4653c3df761718374d41e6",
+      "item_key": "27506b2beca2",
+      "item_id": 14200,
+      "name": "コモンソード",
+      "display_name": "岩を誘惑する コモンソード",
+      "item_type": "片手剣",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 1,
+      "variant_key": "bb81df6baa3ef513dd208decb0c8250f33c09a296cf1397c210c741f6777753c"
+    },
+    {
+      "id": "136ca760b086cdae1f37f627",
+      "item_key": "d0b4a7132a37",
+      "item_id": 12556,
+      "name": "コラプテッド・フォース・サイズ[Nx]",
+      "display_name": "[力比率上昇Lv2][力比率上昇Lv2][力比率上昇Lv2]コラプテッド・フォース・サイズ[Nx] (+9)",
+      "item_type": "鎌",
+      "price": {
+        "amount": 1111,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 9,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "a794bcb2702920407677ebae71a83b28873b7c5d72f8837dbe8f1a787f66246f"
+    },
+    {
+      "id": "3b9bf03f42f4fae8c5d44d08",
+      "item_key": "cef55bedcae5",
+      "item_id": 12530,
+      "name": "コラプテッド・フォース・ランス",
+      "display_name": "[打撃家の][一撃の][一撃の]コラプテッド・フォース・ランス",
+      "item_type": "槍",
+      "price": {
+        "amount": 250,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4e8d5709b9dd7d9ee18c75931d0da736a5fd5e00228a7af65e10ce114eda0951"
+    },
+    {
+      "id": "fbbe0615f9775c068957345b",
+      "item_key": "a7ce0d479329",
+      "item_id": 325,
+      "name": "ゴーストアンブル",
+      "display_name": "[全属性抵抗Lv1][水属性攻撃Lv3]ゴーストアンブル",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 5550000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "35547d16f994e421add03cb8324d0150dbede2d8ab709d36765f513d5e3540f7"
+    },
+    {
+      "id": "7c9f438a9f33b83068110024",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "84eea35c22e66efbe446cdbd9c00085fa4ed5a8447392c5dd248ff5c268ee2cf"
+    },
+    {
+      "id": "aa91b97ab31d360983e03089",
+      "item_key": "6c8e3b6d3619",
+      "item_id": 10532,
+      "name": "シャイエン・アストラ",
+      "display_name": "シャイエン・アストラ",
+      "item_type": "弓",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "36043f5223a95d396dd00c00c903890b8014a39a7a1b69b945a09e0a4133421c"
+    },
+    {
+      "id": "507b108a92d809ced6400905",
+      "item_key": "80018df60dbb",
+      "item_id": 10562,
+      "name": "シャイエン・グリムリーパー",
+      "display_name": "シャイエン・グリムリーパー",
+      "item_type": "鎌",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "167ac0fd45af74be7b7bbd9de2adc337ad4842ef7858f00045c6a0ad36537fe5"
+    },
+    {
+      "id": "2be32771bfb40ba6dd4e9546",
+      "item_key": "7bc7e9f9cceb",
+      "item_id": 10568,
+      "name": "シャイエン・モルダバイトの原石",
+      "display_name": "シャイエン・モルダバイトの原石",
+      "item_type": "錬金石",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "02ef34b178c3cfe974311af23bc4dadb8de53541086ee78eef08f74c57a9d5d6"
+    },
+    {
+      "id": "69cd772962a0673248442380",
+      "item_key": "7d54b43a2e00",
+      "item_id": 12164,
+      "name": "シングルモルトウイスキー[ロペス]",
+      "display_name": "[若船長]シングルモルトウイスキー[ロペス]",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "53f49f423b8512baaa3048e8587e3e86e849251fa9c09ad92de77e21143f48bb"
+    },
+    {
+      "id": "6fae250f02ae28c59929dbba",
+      "item_key": "45118de4c39f",
+      "item_id": 11894,
+      "name": "シークレットチョイス",
+      "display_name": "シークレットチョイス",
+      "item_type": "鞭",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b3a58dcf8d2060ff94db2f1941234191f8590fc701adee26e87a4d3d1a2e7cec"
+    },
+    {
+      "id": "d053d3900cb34a29b2b0d78c",
+      "item_key": "4bed67afd24d",
+      "item_id": 14242,
+      "name": "ジャベリン",
+      "display_name": "静寂に響く ジャベリン",
+      "item_type": "槍",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 2,
+      "variant_key": "78f14cf3e39ea58d3df1ed395a5183b5f02dc2f9e45f88116849d83ff495e77b"
+    },
+    {
+      "id": "3805d34fb3d4d524389c5c43",
+      "item_key": "4a68dda5e58b",
+      "item_id": 304,
+      "name": "ジャンクケース",
+      "display_name": "ジャンクケース",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 50000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b619c4f67fee6a998ac1fc6432793a6da1d8a19aba2c846994e486606dd6e266"
+    },
+    {
+      "id": "75e6d563ebeb64be4716d3c8",
+      "item_key": "4a68dda5e58b",
+      "item_id": 304,
+      "name": "ジャンクケース",
+      "display_name": "ジャンクケース",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 50000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b619c4f67fee6a998ac1fc6432793a6da1d8a19aba2c846994e486606dd6e266"
+    },
+    {
+      "id": "8672c1b34d8c308eb1682b96",
+      "item_key": "4a68dda5e58b",
+      "item_id": 304,
+      "name": "ジャンクケース",
+      "display_name": "ジャンクケース",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 50000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b619c4f67fee6a998ac1fc6432793a6da1d8a19aba2c846994e486606dd6e266"
+    },
+    {
+      "id": "a2a2364da373b6d0edeef2b2",
+      "item_key": "4a68dda5e58b",
+      "item_id": 304,
+      "name": "ジャンクケース",
+      "display_name": "ジャンクケース",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 50000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b619c4f67fee6a998ac1fc6432793a6da1d8a19aba2c846994e486606dd6e266"
+    },
+    {
+      "id": "b0cbc0cf2e9dd76238af8886",
+      "item_key": "4a68dda5e58b",
+      "item_id": 304,
+      "name": "ジャンクケース",
+      "display_name": "ジャンクケース",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 50000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b619c4f67fee6a998ac1fc6432793a6da1d8a19aba2c846994e486606dd6e266"
+    },
+    {
+      "id": "dad048456af3bb01c31b373f",
+      "item_key": "4a68dda5e58b",
+      "item_id": 304,
+      "name": "ジャンクケース",
+      "display_name": "ジャンクケース",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 50000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b619c4f67fee6a998ac1fc6432793a6da1d8a19aba2c846994e486606dd6e266"
+    },
+    {
+      "id": "a15d3845df65b27408ed2da6",
+      "item_key": "7eba83ad3db0",
+      "item_id": 10783,
+      "name": "スターウェーブ",
+      "display_name": "[スタン抵抗][知恵Lv1]スターウェーブ",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d83743054f0841d79a33d0ecc872cc020f16ee6422ccab8a9f60c83c031f1f7b"
+    },
+    {
+      "id": "8a2be2ac43f1c5d06d84c63c",
+      "item_key": "d807baa5f218",
+      "item_id": 10783,
+      "name": "スターウェーブ",
+      "display_name": "スターウェーブ",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3e7433d43bc2448819c9162c2a2404ae1b4cd905b3ed6b248d2993fc65bb8b1f"
+    },
+    {
+      "id": "2dcdb77f9b33d37846d2ece0",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 35,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fd1fcfc7d4c0f0650d54ce97489e1e1f86764bb7da694eafdd97c791ef7d5e57"
+    },
+    {
+      "id": "6b29c3d7680f0a2f28ef0593",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fd1fcfc7d4c0f0650d54ce97489e1e1f86764bb7da694eafdd97c791ef7d5e57"
+    },
+    {
+      "id": "a97192ba762e5cd4acc951fe",
+      "item_key": "f2d964bcfdd9",
+      "item_id": 11892,
+      "name": "スターライトダンス",
+      "display_name": "[健康Lv5][闇属性抵抗Lv2][力Lv7]スターライトダンス",
+      "item_type": "ワンド",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d9e0e4a59c3674bb32c9bbca7e6d73f8e7a1285eb7dd06edf0ecc1b712c560fd"
+    },
+    {
+      "id": "e093d66f198ae947af20fa42",
+      "item_key": "c6db74255eb9",
+      "item_id": 14323,
+      "name": "スピーディーリボルバー",
+      "display_name": "本質を見抜く スピーディーリボルバー",
+      "item_type": "双拳銃",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 1,
+      "variant_key": "79e6e80099f63fb3fddcc7f4ae750f6928d38baa9e994a1036a2f678737d444b"
+    },
+    {
+      "id": "44a428ffac2f3ac271780b69",
+      "item_key": "8f348add5dca",
+      "item_id": 10098,
+      "name": "セイレーンの尻尾",
+      "display_name": "セイレーンの尻尾",
+      "item_type": "リング",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "814af2e121e11d40a8f43c1426aec738727cc98a9f829e4aebb666b5272f69a0"
+    },
+    {
+      "id": "ad0ea6e29d8198f327c4b84c",
+      "item_key": "e3444204edb4",
+      "item_id": 353,
+      "name": "セーフケージ",
+      "display_name": "[堂々たる][堂々たる]セーフケージ",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "751aeb1f0ebadc451af0d25b0006ac9580d2ffcc138da1c8f8c2b1673a593847"
+    },
+    {
+      "id": "0fa9a7cc65031b726722dea0",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "48c57e1f74a359cf87b41cf08d784846f784b82c47bf312cf286460e6d67c0c5"
+    },
+    {
+      "id": "73e08fecefc8e5fc5357378e",
+      "item_key": "fb10a24a6938",
+      "item_id": 10764,
+      "name": "ソウルリンク[Nx]",
+      "display_name": "[健康比率上昇Lv2][健康比率上昇Lv2][恩寵の]ソウルリンク[Nx] (+10)",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 1800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "c1dc3d5997fffa202e23f412c65fa35f9f5f6fe6b5079584c02b43f1377b9996"
+    },
+    {
+      "id": "61cc9dca418f586f9987b960",
+      "item_key": "34bb01120b6f",
+      "item_id": 14363,
+      "name": "タリスマン",
+      "display_name": "心を壊す タリスマン",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 7000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "1e5ecd94f7c45407ded41f646a4405334cf9be7a3abcda7edb0e02237928be31"
+    },
+    {
+      "id": "9ed8226d51154ea9ca6cfd2f",
+      "item_key": "34bb01120b6f",
+      "item_id": 14363,
+      "name": "タリスマン",
+      "display_name": "永劫を見届ける タリスマン",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 400,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 1,
+      "variant_key": "3021240e3937af43b2e9ea9130ca630bdcb402adee5cf2eaa7c997995d580f6c"
+    },
+    {
+      "id": "300cee0c188160095f4b2ae9",
+      "item_key": "fb7f18ac602b",
+      "item_id": 10213,
+      "name": "タルタスの懲罰[Nx]",
+      "display_name": "[力比率上昇Lv2][力比率上昇Lv2][恩寵の]タルタスの懲罰[Nx] (+10)",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "23e9079385838f9ba84d9cd2438409b4578dc74699a2c847602e71f131de045a"
+    },
+    {
+      "id": "74a2a3d3e0bd67250bf468eb",
+      "item_key": "7f5afa9cc90c",
+      "item_id": 4965,
+      "name": "タートクラフトの婚約指輪[Nx]",
+      "display_name": "[RED STONE][RED STONE][RED STONE]タートクラフトの婚約指輪[Nx]",
+      "item_type": "リング",
+      "price": {
+        "amount": 400,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 4,
+      "variant_key": "37634f1e8941e29491cf15825b4982c0b9f441d838c311d4a3c9f3c49adbeb5f"
+    },
+    {
+      "id": "e9d813fd4e89711534df535b",
+      "item_key": "7f5afa9cc90c",
+      "item_id": 4965,
+      "name": "タートクラフトの婚約指輪[Nx]",
+      "display_name": "[RED STONE][RED STONE][RED STONE]タートクラフトの婚約指輪[Nx]",
+      "item_type": "リング",
+      "price": {
+        "amount": 400,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 2,
+      "variant_key": "3a1578fc8d88f6b36f7b7600d72e0e71e5fe92bbd87e7876d37c6b721fa30e1c"
+    },
+    {
+      "id": "b941c79cde34ae53c3704b3e",
+      "item_key": "f45145b0477c",
+      "item_id": 10759,
+      "name": "ダブルハーモニー",
+      "display_name": "[致命打抵抗][知識Lv3][水属性攻撃Lv1]ダブルハーモニー",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "11d3ceb39777b9cb7ee5ffb1350113666e6065f6590882002744004d4766cb81"
+    },
+    {
+      "id": "172587903e9e69d540eddc05",
+      "item_key": "be9e0502d695",
+      "item_id": 2549,
+      "name": "ダマテルの肋骨",
+      "display_name": "[CP減少速度Lv1][風属性抵抗Lv4]ダマテルの肋骨",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "68f586e82615f459595b1868319e06db88b502f0c95eecdd07eac6f75bba7caf"
+    },
+    {
+      "id": "47f11409952a01cdce9bd27f",
+      "item_key": "19879787e4f3",
+      "item_id": 2047,
+      "name": "チェーンベルトUltimate",
+      "display_name": "[応急処置 ULT][応急処置 ULT]チェーンベルトUltimate",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9cd5bcc766a36c6248606887b7413680e4f76a9023efd5a5fd40258bf8f1ceee"
+    },
+    {
+      "id": "242449f2eed9d2830502ffe3",
+      "item_key": "1c954501f775",
+      "item_id": 3212,
+      "name": "チリペッパー",
+      "display_name": "チリペッパー",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "48af1831585919fe9b58f7fa969d6a5dc527080f8c97723538d97c703e5bf1b0"
+    },
+    {
+      "id": "2c2b21c47e8bff2f52a376b4",
+      "item_key": "201c11f52b26",
+      "item_id": 12003,
+      "name": "デビュタント[Nx]",
+      "display_name": "[応急処置 ULT][応急処置 ULT][応急処置 ULT]デビュタント[Nx] (+10)",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 6000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "e582bb570b784e117968e40069f173d495b3f84877fa7ec9f0b962a39b03df1e"
+    },
+    {
+      "id": "4d2ecff4d0b045e4a5971729",
+      "item_key": "3a173276371f",
+      "item_id": 14357,
+      "name": "デモニックスキン",
+      "display_name": "明滅する デモニックスキン",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 1,
+      "variant_key": "92eb7723076e1abe5e9eef63367e9988d20eb285428fe28faba5870c4b932e04"
+    },
+    {
+      "id": "2237436ed317fe0872716873",
+      "item_key": "31eb3b625ef2",
+      "item_id": 13638,
+      "name": "トレーニングキャノン",
+      "display_name": "[攻撃力Lv1 ULT][最高攻撃Lv1 ULT]トレーニングキャノン",
+      "item_type": "大砲",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "392f229b9f1c8902bbaf36513e4fd81d7718a1f5154b28a137f6c90ad761bf64"
+    },
+    {
+      "id": "507f2b3fb9c93fc9d17583ad",
+      "item_key": "10cc7eb49674",
+      "item_id": 3097,
+      "name": "トーチングソーン",
+      "display_name": "[CP減少速度Lv2]トーチングソーン",
+      "item_type": "メイス",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fb6b7fce8111d42700b1f01850334af200d2b23f73bbc22e362a55c0a95eb5ef"
+    },
+    {
+      "id": "e3ee4ad75cef3bb0cbe590d2",
+      "item_key": "c53fc3cdc57c",
+      "item_id": 5267,
+      "name": "ドレイクプルーム[Nx]",
+      "display_name": "[最大HP効率Lv6][最大HP効率Lv6][防御力効率Lv10]ドレイクプルーム[Nx] (+7)",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 40,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 7,
+      "complex": true,
+      "opened": 0,
+      "available": 1,
+      "variant_key": "36f1e5287f720424f9f0b0c6d54dc93f7bf9e46aebca3d811d675aef5e9b1490"
+    },
+    {
+      "id": "be80328d47fbc1747dfa1742",
+      "item_key": "77299ebd7fea",
+      "item_id": 10102,
+      "name": "ドワーフの産物[Nx]",
+      "display_name": "[最大HP効率Lv6][最大HP効率Lv6][防御力効率Lv10]ドワーフの産物[Nx] (+7)",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 90,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 7,
+      "complex": true,
+      "opened": 1,
+      "available": 3,
+      "variant_key": "f490f089b556c9911351695e366c7d3284e08f86a8cb7a02f444ab20b29a2cbd"
+    },
+    {
+      "id": "a75ffcdd0388d6becf0bc090",
+      "item_key": "4c72ee45266b",
+      "item_id": 336,
+      "name": "ハードフィスト",
+      "display_name": "[眠り抵抗]ハードフィスト",
+      "item_type": "リング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5b85b906f97b5885c7423fd92d0812f7c0f88157302f1b2bfc8d8caf450caf34"
+    },
+    {
+      "id": "a090022db1b54afc2d66aa68",
+      "item_key": "fe6f5b32d71f",
+      "item_id": 1043,
+      "name": "バスタードソードDX",
+      "display_name": "[攻撃力Lv1 ULT]バスタードソードDX",
+      "item_type": "両手剣",
+      "price": {
+        "amount": 7,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3662fc2013bc9d11bf36b86b1e72432572f1419e5592c1a2d9929f5c3d2edd87"
+    },
+    {
+      "id": "5f5bfb9aebf01d842747a032",
+      "item_key": "46879bc2a54b",
+      "item_id": 296,
+      "name": "バタフライスティング",
+      "display_name": "バタフライスティング",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0b13b168fa1f62b759bb7909ccd1236b6704c2d9106ed18702edab4b9de44a50"
+    },
+    {
+      "id": "953f4f8756ffc908980a6e88",
+      "item_key": "746740f23817",
+      "item_id": 2490,
+      "name": "バッサドラッヘ",
+      "display_name": "[運Lv7]バッサドラッヘ",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "febaa0cb87abd2d3bcfe3e18356439e46dd1ffa59b38b9a182de3e1c9592915c"
+    },
+    {
+      "id": "d3477bb2735f43cfcf8b04ea",
+      "item_key": "f48aa81a9a15",
+      "item_id": 2490,
+      "name": "バッサドラッヘ",
+      "display_name": "[攻撃回避Lv1][移動速度Lv2]バッサドラッヘ",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ea482153b78919028b335267b3f02294207dc2c96955806eb01da0f2b1daadfc"
+    },
+    {
+      "id": "6ff42c66105c29a7f445d691",
+      "item_key": "bd2023592165",
+      "item_id": 5232,
+      "name": "バッサドラッヘ[Nx]",
+      "display_name": "[敏捷比率上昇Lv2][敏捷比率上昇Lv2][敏捷比率上昇Lv2]バッサドラッヘ[Nx] (+9)",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 9,
+      "complex": true,
+      "opened": 0,
+      "available": 4,
+      "variant_key": "63510f9708a869f8517ecdf9c9299ae586440a34762ed3ffb8842e38a99afb3a"
+    },
+    {
+      "id": "163417f42adaf360e249ad47",
+      "item_key": "fdf6065a3c6e",
+      "item_id": 9262,
+      "name": "パーティクルジェネレーター",
+      "display_name": "[最高攻撃Lv1]パーティクルジェネレーター",
+      "item_type": "双拳銃",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b1751b37add8677ca01573ea40648c7059dee010bc8e7d1fb20996073e656e69"
+    },
+    {
+      "id": "5c43113c31182ca30821a2aa",
+      "item_key": "ebbd2f09be40",
+      "item_id": 343,
+      "name": "ヒーローズプルーフ",
+      "display_name": "[忍耐の][忍耐の][忍耐の]ヒーローズプルーフ",
+      "item_type": "マント",
+      "price": {
+        "amount": 1550,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1d64b0096a4d21cc66a0d6026edb20527d1c9da4b252bca0c650174305861bce"
+    },
+    {
+      "id": "6e882167fe7105fd6b67639e",
+      "item_key": "9676f5adfe8c",
+      "item_id": 14372,
+      "name": "ピクシーイヤリング",
+      "display_name": "止まらない ピクシーイヤリング",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 1,
+      "variant_key": "d76b548ae24ed7303c931403530c48b4eac70651988738e532b9c12782c37ff3"
+    },
+    {
+      "id": "8a7293c3ed24c8b382b4f29c",
+      "item_key": "9676f5adfe8c",
+      "item_id": 14372,
+      "name": "ピクシーイヤリング",
+      "display_name": "苦痛な ピクシーイヤリング",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 2,
+      "variant_key": "8f2d17951733483ab6865782b3352e6c2b5939492ae2592529eee7364c079638"
+    },
+    {
+      "id": "a9a430fb0a5e868279f809ad",
+      "item_key": "9734bdbc8cd4",
+      "item_id": 9133,
+      "name": "ピースアンドレスト[Nx]",
+      "display_name": "[運比率上昇Lv2][運比率上昇Lv2][運比率上昇Lv2]ピースアンドレスト[Nx] (+12)",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 2500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 12,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "a6c86f1069b401d75d923c2337c5371f8139340d461edd0cb014650068de78a5"
+    },
+    {
+      "id": "2b2a9a53a7614ca0b707d79c",
+      "item_key": "84502d128717",
+      "item_id": 13651,
+      "name": "ファルコネットキャノンDX",
+      "display_name": "[魔神の][魔神の]ファルコネットキャノンDX",
+      "item_type": "大砲",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5c6c6628a90f8b8787cefca6ca5572ba5b03cdd0c4ea20adbf3332389e433d66"
+    },
+    {
+      "id": "f68727d414dc567dee6bccaf",
+      "item_key": "e210748ef011",
+      "item_id": 3225,
+      "name": "ファンタスティッカー",
+      "display_name": "[水属性攻撃Lv7][浮遊]ファンタスティッカー",
+      "item_type": "ワンド",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f51fd5f98d7070d09df3d84786d94c99e575527dcc76aa40ea95232f35611873"
+    },
+    {
+      "id": "e9d1af378c8b6b36a4cfa761",
+      "item_key": "82e7238a41f3",
+      "item_id": 291,
+      "name": "フォームガード",
+      "display_name": "フォームガード",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1c8702cb23ce248c0c2691695f90501aa432d7f4d2dbfd16f0d9ad6c3f470b65"
+    },
+    {
+      "id": "0a0aa850e4bc0d5c7ba66730",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 70,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f36b77641ab3f043082a12e456bac2aba7d735eb26fce918d864344e11d2fa0e"
+    },
+    {
+      "id": "24131c0dff24d53d21e29fe4",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 35,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f36b77641ab3f043082a12e456bac2aba7d735eb26fce918d864344e11d2fa0e"
+    },
+    {
+      "id": "620bfce555e7e6464e52a581",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f36b77641ab3f043082a12e456bac2aba7d735eb26fce918d864344e11d2fa0e"
+    },
+    {
+      "id": "e37b2fdee2afe3a72a3503f8",
+      "item_key": "c88aa61189e0",
+      "item_id": 3053,
+      "name": "フラッシュスパイク",
+      "display_name": "[火属性攻撃Lv3][光属性吸収Lv1]フラッシュスパイク",
+      "item_type": "盾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b41a56f4b6cf4e12a5cceee9c7589b244c03e2e75e3bc33e7cdc5ef22441b416"
+    },
+    {
+      "id": "72481ca6d2eb3073dacdb83c",
+      "item_key": "1f7086c14645",
+      "item_id": 10749,
+      "name": "フロントライン",
+      "display_name": "[防御力Lv5][運Lv6]フロントライン",
+      "item_type": "ヘルメット",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9fb49e6ab203af05c2f51b2668b8482934661c8b8dfb06d70e76ca23e0f2ae9e"
+    },
+    {
+      "id": "564d968880518db0ac69b5c1",
+      "item_key": "a01acf9c6c6a",
+      "item_id": 10750,
+      "name": "フロントライン[Nx]",
+      "display_name": "[健康比率上昇Lv2][健康比率上昇Lv2][健康比率上昇Lv2]フロントライン[Nx] (+10)",
+      "item_type": "ヘルメット",
+      "price": {
+        "amount": 1800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "6e155873826acdc33d618a6d35951bf62a82af5e955d2409d486ea91ed157103"
+    },
+    {
+      "id": "c58dcc6c4d35e0175cfe3390",
+      "item_key": "06df18de72d5",
+      "item_id": 12012,
+      "name": "ブライトニング",
+      "display_name": "ブライトニング",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 70,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5b26a84e2afbd7c49757181ed77100897c8099344844aef78850b8ba84483235"
+    },
+    {
+      "id": "de3b1cc43e1163eaef0d6398",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0aa544efca7cda938910c1bcdec99a95ca0f061110bf7abf7a5d050a804ab57f"
+    },
+    {
+      "id": "f9d737a430539a348bc694e2",
+      "item_key": "5aadc6d59256",
+      "item_id": 8287,
+      "name": "ヘクターの誇り",
+      "display_name": "[力比率上昇Lv2][力比率上昇Lv2][力比率上昇Lv2]ヘクターの誇り",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 1500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1f3fc27093c0aeaddad93bb3b734852bf230ae3e935089d174dfb10cd3cbd230"
+    },
+    {
+      "id": "b5cd8cc3a0238c9944142fc4",
+      "item_key": "5610b34a0722",
+      "item_id": 8376,
+      "name": "ホルンマスケット",
+      "display_name": "[攻撃力Lv1 ULT]ホルンマスケット",
+      "item_type": "双拳銃",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f54295df397d5b734ed5086ec75f27de11e8449bef74d36939e953b5046df6eb"
+    },
+    {
+      "id": "ad90b172e3e4283df9713ee8",
+      "item_key": "4129e284eda3",
+      "item_id": 14321,
+      "name": "マグナムリボルバー",
+      "display_name": "苦痛な マグナムリボルバー",
+      "item_type": "双拳銃",
+      "price": {
+        "amount": 600,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 1,
+      "variant_key": "9443cb49a6d6eb9f755de3111856cc04705b3d8c15b2f9bbaf57ac3e61e374bf"
+    },
+    {
+      "id": "999482806ed4b41b27f920d1",
+      "item_key": "4d7f0e4fdc0e",
+      "item_id": 10769,
+      "name": "マナウォーカー",
+      "display_name": "[火属性抵抗Lv4][盗人]マナウォーカー",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4bda32946d92e8ce9f83d460336d9dd80d7208d613bbf7abba9d010ac7826340"
+    },
+    {
+      "id": "ed502502664bd16e1776d619",
+      "item_key": "4e614ab71a80",
+      "item_id": 10770,
+      "name": "マナウォーカー[Nx]",
+      "display_name": "[知識比率上昇Lv2][知識比率上昇Lv2][知識比率上昇Lv2]マナウォーカー[Nx] (+12)",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 2500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 12,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "7a264febb4d1f8e58212517d83b235db16015bdfb992d52ecd009fcd6690fa05"
+    },
+    {
+      "id": "ca69ace54bcc329cb74c59d9",
+      "item_key": "a010504759d6",
+      "item_id": 2536,
+      "name": "マルダの葉",
+      "display_name": "[土属性抵抗Lv4][最大CPLv2][最大CP効率Lv2]マルダの葉",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "48950106b4b157b6277f1914cc87e59332a3d0c1bc8de92fbca34407400e22e3"
+    },
+    {
+      "id": "4eaa0100bd44b7473c02ba7d",
+      "item_key": "4df55c308cd5",
+      "item_id": 10781,
+      "name": "ムーンシャイン",
+      "display_name": "ムーンシャイン",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4419bcd204988bf354ea0fc09c88eea1758bdf17f7ca7a9fa49e78fc3a19f2bf"
+    },
+    {
+      "id": "d5ae0461c117ad686fa15d20",
+      "item_key": "4df55c308cd5",
+      "item_id": 10781,
+      "name": "ムーンシャイン",
+      "display_name": "ムーンシャイン",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4419bcd204988bf354ea0fc09c88eea1758bdf17f7ca7a9fa49e78fc3a19f2bf"
+    },
+    {
+      "id": "37e440894aa88fefc1e1f79e",
+      "item_key": "cd96e47f7be1",
+      "item_id": 10781,
+      "name": "ムーンシャイン",
+      "display_name": "[知識Lv2]ムーンシャイン",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2545a091d6a3486c3f1e3878c0a92eeea67717b5f222f73bde5baf956e526747"
+    },
+    {
+      "id": "f78d49ee2aefa7bf3465d519",
+      "item_key": "905211e82b56",
+      "item_id": 6067,
+      "name": "メイドスカート型モップ DX",
+      "display_name": "[最高攻撃Lv1 ULT]メイドスカート型モップ DX",
+      "item_type": "ほうき",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6b441b59cc3c8ac350fd312e002d86c782c0e7293d7d45c53bd66303c636c0f2"
+    },
+    {
+      "id": "951a047f9b6b0a9244ac2673",
+      "item_key": "11d719871f6a",
+      "item_id": 98,
+      "name": "メタルシューズ",
+      "display_name": "[堅実な]メタルシューズ",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1d94431c893651a36f1478535b342536259cd9b5df6a7f271fc7265fd5685d91"
+    },
+    {
+      "id": "ab8f64db98ac1865e5b95203",
+      "item_key": "e026c6705d9e",
+      "item_id": 10131,
+      "name": "ライダーシューズ",
+      "display_name": "[敏捷比率上昇Lv2][敏捷比率上昇Lv2][敏捷比率上昇Lv2]ライダーシューズ",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1d5bdeaf7d0f1f4b840337c2932c14a5f6b9038b35e5639d02ee1b4ed7e6976b"
+    },
+    {
+      "id": "2557ea0e5bae49900c204dd5",
+      "item_key": "8b9426e3ed8c",
+      "item_id": 11918,
+      "name": "ライラの瞳",
+      "display_name": "[最低攻撃Lv3]ライラの瞳",
+      "item_type": "ダークコア",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b7080157377d5e280ce6fbb241c5245f55fd1cd0e9500a1f6d410769563cd033"
+    },
+    {
+      "id": "fccbc5a626c140c6d3d8e05d",
+      "item_key": "4ee7b68202fc",
+      "item_id": 4342,
+      "name": "レザースカートDX",
+      "display_name": "[命中補正無視]レザースカートDX",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0c75bb91e3027e8252ded4a7a3327881c3b84a7303772b10f1e4a8ae143043cf"
+    },
+    {
+      "id": "c8a9d5a0b1085f6f7b2bcd34",
+      "item_key": "d94fd2e02cc2",
+      "item_id": 11938,
+      "name": "ロスメルアーマー",
+      "display_name": "[健康Lv5][防御力効率Lv1][最大HPLv10]ロスメルアーマー",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0769765ce20f26d0a4488d94e8213b7e1369a779773b8ae3441ac14c3fc0d13f"
+    },
+    {
+      "id": "750b9e5de24f4dafef6667f1",
+      "item_key": "ac004ec3e87d",
+      "item_id": 147,
+      "name": "ロマアーマー",
+      "display_name": "[命中補正無視][最大CPLv4]ロマアーマー",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 90,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e060e0f15d416ff243cedf6b6dde7162300e089377786bf5763566128a8b8318"
+    },
+    {
+      "id": "ebf5b0b2985dccdd2a1e4a5f",
+      "item_key": "0befe7f5d19e",
+      "item_id": 2468,
+      "name": "ロングビル",
+      "display_name": "[追跡者の][追跡者の]ロングビル",
+      "item_type": "投擲機",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d8bb3a4c1fc793d709190e0202e47372fdd0a2f94553faa768482570a24d6552"
+    },
+    {
+      "id": "3f52017862f65dd8281661ed",
+      "item_key": "ff8277d137a5",
+      "item_id": 307,
+      "name": "ワイドロープ",
+      "display_name": "[水属性抵抗Lv5][魔具入手Lv2][力Lv7]ワイドロープ",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ee90813099dfc0a9c4f5c197b66f331be6dd339885499db39cdd9efeea9349e4"
+    },
+    {
+      "id": "b63ced1c0c4893983d25c2d2",
+      "item_key": "1fd36dcc8dd0",
+      "item_id": 6244,
+      "name": "ワーストパートナー",
+      "display_name": "[回避補正無視][フリーズ抵抗][火属性攻撃Lv1]ワーストパートナー",
+      "item_type": "双剣",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e121364b2821d4faa79441b2899de524e4b921bdcaed25ef70c51b173e76840f"
+    },
+    {
+      "id": "7fb2a1220c96fc587399d680",
+      "item_key": "88c7d60a0e45",
+      "item_id": 12839,
+      "name": "一時の不滅[Nx]",
+      "display_name": "[健康比率上昇Lv2][健康比率上昇Lv2][交感の]一時の不滅[Nx] (+11)",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 4500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 11,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "f5fd1567a70dd2e829bcf8a45659d76b260c8cc3620e6b32944a29610738e783"
+    },
+    {
+      "id": "6b66dcbaa8f0e5818419751c",
+      "item_key": "97290f5ae5ad",
+      "item_id": 11235,
+      "name": "一滴の静けさ",
+      "display_name": "[火属性攻撃Lv1]一滴の静けさ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "dafd6f240cf0f766674eff91764249811fce7e6a2253dccc533ce7162cb621d4"
+    },
+    {
+      "id": "4c87dddca2c3f95155e83e04",
+      "item_key": "5e523abe65e9",
+      "item_id": 9147,
+      "name": "予知の棺[Nx]",
+      "display_name": "[全吸収Lv1 ULT][全吸収Lv1 ULT][全吸収Lv1 ULT]予知の棺[Nx] (+10)",
+      "item_type": "冠",
+      "price": {
+        "amount": 1400,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "bb59d0781bdb9e8335c62d1a1b0e9f82c9791e7be04686acea000439e9ed0269"
+    },
+    {
+      "id": "26e6800fd315d3663dd34849",
+      "item_key": "cfb7046aeaad",
+      "item_id": 2548,
+      "name": "五月の女王",
+      "display_name": "五月の女王",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e3a64484a10be0d9d7fd8a50aedc2471155fd910f8a7dfd420f7b83fb5568b28"
+    },
+    {
+      "id": "9c27d8812069d1822d4e43ee",
+      "item_key": "6dba8f13f996",
+      "item_id": 10698,
+      "name": "使命",
+      "display_name": "[運Lv1]使命",
+      "item_type": "翼",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "da16422824170c0e36a693467ec97729a67223007516e507e76481db1e994dcb"
+    },
+    {
+      "id": "4c7811570c8e545b6188abdf",
+      "item_key": "9fac03e993f0",
+      "item_id": 6911,
+      "name": "健康の超級クレストⅠ",
+      "display_name": "健康の超級クレストⅠ",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 340,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2fd216754ed32aa9b0a343a84afc37793148332f39ecef2f5820a985d3f00e81"
+    },
+    {
+      "id": "74be35df80e992cfadce8deb",
+      "item_key": "9fac03e993f0",
+      "item_id": 6911,
+      "name": "健康の超級クレストⅠ",
+      "display_name": "健康の超級クレストⅠ",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2fd216754ed32aa9b0a343a84afc37793148332f39ecef2f5820a985d3f00e81"
+    },
+    {
+      "id": "ea4c03ae0ca199e1775164bc",
+      "item_key": "333ce36c9f1c",
+      "item_id": 6912,
+      "name": "健康の超級クレストⅡ",
+      "display_name": "健康の超級クレストⅡ",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2c18bcbd117281308855c4b6e28735236414b2dfa2bde0b8025ef6be81ce8844"
+    },
+    {
+      "id": "05d70ebf43a29335f9ed68d9",
+      "item_key": "1dc0b9e81892",
+      "item_id": 3171,
+      "name": "兵卒用三枝槍",
+      "display_name": "[威厳固定]兵卒用三枝槍",
+      "item_type": "槍",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3c2e137c4652108b6674a61924f5110e6abaca6f14fe73f9b935ecf506ec97f0"
+    },
+    {
+      "id": "171fd973fd154bb7e5558a9f",
+      "item_key": "bfe9fb009b66",
+      "item_id": 8949,
+      "name": "凛のペンダント [",
+      "display_name": "凛のペンダント [",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5dbb72d03cb435a4f93a5b2b2117d9a96b126be89332dcaa2acda6671edfd9c9"
+    },
+    {
+      "id": "9a421ca975ff8390a67c0395",
+      "item_key": "5265882e28c8",
+      "item_id": 6697,
+      "name": "凝縮気功波",
+      "display_name": "[攻撃Lv4][健康Lv1][浮遊]凝縮気功波",
+      "item_type": "ダークコア",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "630dc47ebfefad2f2eec471f2be69ca46d3462f92286add9e9f044568ca9b79c"
+    },
+    {
+      "id": "ea86a626b9dc500339a5567d",
+      "item_key": "011aa02bba2f",
+      "item_id": 10666,
+      "name": "刑場の露",
+      "display_name": "[力比率上昇Lv2][力比率上昇Lv2][力比率上昇Lv2]刑場の露 (+7)",
+      "item_type": "弓",
+      "price": {
+        "amount": 120,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 7,
+      "complex": true,
+      "opened": null,
+      "available": null,
+      "variant_key": "aaa860625a4dfbcc70e783a1c620a49ebb80826cddaec1ac1b87f80b1c6b05e3"
+    },
+    {
+      "id": "0f97d6772251169be270fc38",
+      "item_key": "ad946bfffc9b",
+      "item_id": 10777,
+      "name": "北風の叫び",
+      "display_name": "[知識Lv7][敏捷Lv4]北風の叫び",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 4,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1eb20c784c1244d2cb6015973ffb6db429e0f85beb813b26a91314008cba43dd"
+    },
+    {
+      "id": "4db855d2ad3def5f3caf9a87",
+      "item_key": "19ef21ecf7d8",
+      "item_id": 14393,
+      "name": "厚いベルト",
+      "display_name": "うごめく 厚いベルト",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 1,
+      "variant_key": "f985ffab94c90c31b1fe30505ba412361063d7c3a74251a9652f0b57483e4a03"
+    },
+    {
+      "id": "c34cf0fd3218a22d393ee52a",
+      "item_key": "8e46e56e5a4f",
+      "item_id": 9186,
+      "name": "嘆きの弓",
+      "display_name": "[健康Lv7]嘆きの弓",
+      "item_type": "弓",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e4f895e67ba9e74621a7c241bbb001861f6b65fa743cd1c022439abf95a96e59"
+    },
+    {
+      "id": "2b472452c9a93929780d08b0",
+      "item_key": "d96b16a824a7",
+      "item_id": 11896,
+      "name": "夜の女王",
+      "display_name": "[レア入手Lv1]夜の女王",
+      "item_type": "鞭",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bf5abd639869f464d9cc6e2c3163b80997dbd94bc06d2156cba0729a5084fc3f"
+    },
+    {
+      "id": "3de60cb4246b7e400241a5b5",
+      "item_key": "4fd53bb927f9",
+      "item_id": 2504,
+      "name": "太極リング",
+      "display_name": "[知識比率上昇Lv2][知識比率上昇Lv2][知識比率上昇Lv2]太極リング",
+      "item_type": "リング",
+      "price": {
+        "amount": 600,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a14e3376deba5704e6140e12abba29baaa6f310da1f89f702eb6d8c2191a3a4b"
+    },
+    {
+      "id": "8fb93ca5eaaea996a6a8c428",
+      "item_key": "4fd53bb927f9",
+      "item_id": 2504,
+      "name": "太極リング",
+      "display_name": "[知識比率上昇Lv2][知識比率上昇Lv2][知識比率上昇Lv2]太極リング",
+      "item_type": "リング",
+      "price": {
+        "amount": 700,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1bd6c5bf4c3c3bbefedb5d920417bff3e791e31f454c4db93601eddca0ad1359"
+    },
+    {
+      "id": "f725589bbf37c93d04a0de1c",
+      "item_key": "4fd53bb927f9",
+      "item_id": 2504,
+      "name": "太極リング",
+      "display_name": "[知識比率上昇Lv2][知識比率上昇Lv2][知識比率上昇Lv2]太極リング",
+      "item_type": "リング",
+      "price": {
+        "amount": 600,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "7180d7b466db27318d80d35ab82c19a401c2a75f8ac840575eaed61cb3dbe029"
+    },
+    {
+      "id": "3475711f38937f1930e2d28a",
+      "item_key": "776fe6e3b114",
+      "item_id": 2504,
+      "name": "太極リング",
+      "display_name": "[攻撃速度Lv3][攻撃速度Lv3][攻撃速度Lv3]太極リング",
+      "item_type": "リング",
+      "price": {
+        "amount": 1300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d4ca9431d6cc3103c08affff5e685710bf42553742f7531ac9a9a30cbc87eecc"
+    },
+    {
+      "id": "42d076c6022c505c065de11c",
+      "item_key": "ef2344f7d870",
+      "item_id": 5248,
+      "name": "太極リング[Nx]",
+      "display_name": "[知識比率上昇Lv2][知識比率上昇Lv2][知識比率上昇Lv2]太極リング[Nx]",
+      "item_type": "リング",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "643fbbd85dc3a270b6df3824b3fd7624b6469e2398bdc42e0ea6b2d4e614762c"
+    },
+    {
+      "id": "8bf4ccd07a5223006deb5cb3",
+      "item_key": "ef2344f7d870",
+      "item_id": 5248,
+      "name": "太極リング[Nx]",
+      "display_name": "[知識比率上昇Lv2][知識比率上昇Lv2][知識比率上昇Lv2]太極リング[Nx]",
+      "item_type": "リング",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "643fbbd85dc3a270b6df3824b3fd7624b6469e2398bdc42e0ea6b2d4e614762c"
+    },
+    {
+      "id": "1c13d5fb3901dfb06949a5a7",
+      "item_key": "561fb7661c1e",
+      "item_id": 9156,
+      "name": "女帝のストール",
+      "display_name": "女帝のストール",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8a0b1fe83f5c500d4491002ce027c30faff13da508695994ae0ba3e3309e8c0c"
+    },
+    {
+      "id": "1017e54323839e0e02b2c94a",
+      "item_key": "4d38b0deafef",
+      "item_id": 12835,
+      "name": "封印された禁忌[Nx]",
+      "display_name": "[攻撃速度Lv3][攻撃速度Lv3][攻撃速度Lv3]封印された禁忌[Nx] (+10)",
+      "item_type": "イヤリング",
+      "price": {
+        "amount": 4500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "8f5759ed4b78a5d27af934f7b437d5a3bfc4820b22581bc0a602efb032698fd5"
+    },
+    {
+      "id": "c4ed94ee35c4f815278b213c",
+      "item_key": "8276ca1a9b28",
+      "item_id": 10660,
+      "name": "嵐の目",
+      "display_name": "嵐の目",
+      "item_type": "片手剣",
+      "price": {
+        "amount": 4,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "95d5bfc08d14120a54c6e7b182cc58f12f5ed093814c8ed6371a0abeb8a2f3f2"
+    },
+    {
+      "id": "6d30eeec6b49db54e0e40023",
+      "item_key": "a3ca6d8de534",
+      "item_id": 11928,
+      "name": "巧みな囁き",
+      "display_name": "[健康Lv10]巧みな囁き",
+      "item_type": "錬金石",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a679786de3c9fb5da139b2fdae476093eca3dfa54e2c241e719c0e4036775a75"
+    },
+    {
+      "id": "7898afaef9eaef21588c84e4",
+      "item_key": "245e48fef98f",
+      "item_id": 4532,
+      "name": "希望の指輪[シールド]",
+      "display_name": "[RED STONE DX][RED STONE DX][RED STONE DX]希望の指輪[シールド]",
+      "item_type": "リング",
+      "price": {
+        "amount": 1300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "7b8793c1c8d4772d7a5f8ca1f0482717f21203c013a427a9733e055e21c64468"
+    },
+    {
+      "id": "be729301f8c7104efdec35d0",
+      "item_key": "f84cb030ee84",
+      "item_id": 4497,
+      "name": "希望の指輪[ファイア]",
+      "display_name": "希望の指輪[ファイア]",
+      "item_type": "リング",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ae0457cc96ea24eb6aaaa08b9e62b94b6f52f8a296a5eeef105bc77444a6bdc1"
+    },
+    {
+      "id": "de0ff99b6fd5c32643d7e55f",
+      "item_key": "4197a01e719a",
+      "item_id": 10694,
+      "name": "平穏な眠り",
+      "display_name": "平穏な眠り",
+      "item_type": "メイス",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ee8448cfb3793b4094c603efb71117cbc243e9cffff0c884956d8a2f725be8e4"
+    },
+    {
+      "id": "8b65794294f4869331307272",
+      "item_key": "c5cee4be0317",
+      "item_id": 96,
+      "name": "強化シューズ",
+      "display_name": "[移動速度Lv1 ULT]強化シューズ",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1b4de78754b0c7cfca3e9b5bc91a91d4aeb7b23a2fb9316e36bc4a9a310da41b"
+    },
+    {
+      "id": "fe93d1f3fe3f381008ecbde7",
+      "item_key": "7d8a8e242a20",
+      "item_id": 940,
+      "name": "強化シューズDX",
+      "display_name": "[剛断の]強化シューズDX",
+      "item_type": "ブーツ",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "48bdc2f2f491b620535b76d71c7f01f1cf3a28388b9774783bf3aab67c1830e1"
+    },
+    {
+      "id": "0b53a19389a29b68bef7fc9f",
+      "item_key": "90624cbc94a7",
+      "item_id": 4538,
+      "name": "思い出の指輪[ソウルガード]",
+      "display_name": "[知識比率上昇Lv2][知識比率上昇Lv2][知識比率上昇Lv2]思い出の指輪[ソウルガード]",
+      "item_type": "リング",
+      "price": {
+        "amount": 2800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5c8eb320321829d800bc23bd5f49aa0f0a79fad329fd899a4668f88882304718"
+    },
+    {
+      "id": "99f11f0bea815e0e0e6fe2d6",
+      "item_key": "212859f6e7fa",
+      "item_id": 12843,
+      "name": "戦場の重さ[Nx]",
+      "display_name": "[シュルト][防御効率Lv1 DX][防御効率増強]戦場の重さ[Nx] (+9)",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 3500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 9,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "e091aeb4af695803baae5af8a95d0e871659a92e139f66a4162b3bab80cd2090"
+    },
+    {
+      "id": "23d36a79fbdaabcf0e6bbf4c",
+      "item_key": "3609d32316ea",
+      "item_id": 12843,
+      "name": "戦場の重さ[Nx]",
+      "display_name": "[シュルト][防御効率Lv1 ULT][防御効率Lv1 ULT]戦場の重さ[Nx] (+10)",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 4000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "9dbafcd586a7e7a43d9a79266d27ea36ee90f0bd83f590d0eb09189233c19e89"
+    },
+    {
+      "id": "42e8b83e6711354fe54133c5",
+      "item_key": "38db2832fb7d",
+      "item_id": 6909,
+      "name": "最大体力の超級クレストⅠ",
+      "display_name": "最大体力の超級クレストⅠ",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 340,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "dd51e8bfd1648de423eaffc846ac2557615ddbcbb0aa00918586620218d6e5b8"
+    },
+    {
+      "id": "2a57d040756a4cb50d876fbc",
+      "item_key": "17d52231249b",
+      "item_id": 6910,
+      "name": "最大体力の超級クレストⅡ",
+      "display_name": "最大体力の超級クレストⅡ",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f7ffa1d2848361ab7c430fcdb233c91b705095de5a124ba5d65cc9f8489dd3ba"
+    },
+    {
+      "id": "388b1e88661ee175b509900c",
+      "item_key": "a5e3760266e0",
+      "item_id": 14347,
+      "name": "木の枝の冠",
+      "display_name": "時を止める 木の枝の冠",
+      "item_type": "冠",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 3,
+      "variant_key": "b3036fd32c6551bb10978c39edc618557056a24e21f22d319f4cb4b9ae4217bc"
+    },
+    {
+      "id": "39adc528920d5141886ea5b7",
+      "item_key": "2d2db93e1df0",
+      "item_id": 9139,
+      "name": "栄光の手袋[Nx]",
+      "display_name": "[攻撃速度Lv3][攻撃速度Lv3][攻撃速度Lv3]栄光の手袋[Nx] (+10)",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 6000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "1ebf84bc551ec7ca44ed167ff85339c46c771528eac0573eae8878e3f8974a82"
+    },
+    {
+      "id": "69e4617a92e3ffcacdd6e89d",
+      "item_key": "c393a9dac37c",
+      "item_id": 9139,
+      "name": "栄光の手袋[Nx]",
+      "display_name": "[運比率上昇Lv2][運比率上昇Lv2][運比率上昇Lv2]栄光の手袋[Nx] (+8)",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 8,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "54568e6f020020058a07be070977d9da5576932bd76250f19c5484886c5953a0"
+    },
+    {
+      "id": "0f81f12c59ea9d645465add9",
+      "item_key": "59027d90105b",
+      "item_id": 11237,
+      "name": "死に飲み込まれた生",
+      "display_name": "[敏捷Lv2]死に飲み込まれた生",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d062685784edb04e47e4f2e48085a2a70359712b2a1ffd04193698bd09ad7f69"
+    },
+    {
+      "id": "6d6ba2690500902ebf559c3c",
+      "item_key": "29869284a467",
+      "item_id": 13718,
+      "name": "決戦兵器",
+      "display_name": "[最低攻撃Lv3]決戦兵器",
+      "item_type": "大砲",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2f3b2a66162d63108f2b81d8b39410b6ae26347084298f93c0f2787a2a422b48"
+    },
+    {
+      "id": "568902b1dc9a66619e4910b2",
+      "item_key": "548b622dc467",
+      "item_id": 9166,
+      "name": "淑女の作法",
+      "display_name": "淑女の作法",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fc92f3e7958393f6299f0aa2aceacec5704006e68370ccf5d6af8ed8c6143c78"
+    },
+    {
+      "id": "0974fc6fea8e57e7aa96654c",
+      "item_key": "553da720c50d",
+      "item_id": 10362,
+      "name": "混沌 [刻印]",
+      "display_name": "混沌 [刻印]",
+      "item_type": "リング",
+      "price": {
+        "amount": 60,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "da3cf8ba7fb0c06dbdb267613a7bddec5c648cee7cb4630b6d21224f1ae9d3ad"
+    },
+    {
+      "id": "cb8d1bb4ce5d86d35e800740",
+      "item_key": "6670a8584a2a",
+      "item_id": 11868,
+      "name": "火の息吹",
+      "display_name": "[水属性攻撃Lv2]火の息吹",
+      "item_type": "牙",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "50dbba75f9aa19853833e12842644eb221c89c4353b264682b8d2a4ba757c146"
+    },
+    {
+      "id": "afa15dc33abc3671cd7797ac",
+      "item_key": "3c66e4fcc8d9",
+      "item_id": 10742,
+      "name": "無敗行進",
+      "display_name": "[闇属性攻撃Lv2][攻撃命中Lv1]無敗行進",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ca57f383a8219a8bc32152d748df731ba6dd43ef399d4b67b895e54da4750285"
+    },
+    {
+      "id": "f35908e623a5927cf14fa3dd",
+      "item_key": "503f0c31c28d",
+      "item_id": 9207,
+      "name": "無限の絆[Nx]",
+      "display_name": "[力比率上昇Lv2][極意の][指揮者の]無限の絆[Nx] (+8)",
+      "item_type": "笛",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 8,
+      "complex": true,
+      "opened": 0,
+      "available": 4,
+      "variant_key": "c214e3d4de58483a4b3aab569a5058f3daec70ba48637e2e72c5524c4a259398"
+    },
+    {
+      "id": "288a92029cc4954a81e5aa85",
+      "item_key": "8b1177d274ca",
+      "item_id": 13292,
+      "name": "熱風のリング",
+      "display_name": "[力比率上昇Lv2][力比率上昇Lv2][力比率上昇Lv2]熱風のリング",
+      "item_type": "リング",
+      "price": {
+        "amount": 1580,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "eae45c329673ad87cb7800d736f52b2687cda5929ce8995f66e0275df9e499cc"
+    },
+    {
+      "id": "1e019f6cf96f7707b6d2240a",
+      "item_key": "ada144c50865",
+      "item_id": 13292,
+      "name": "熱風のリング",
+      "display_name": "熱風のリング",
+      "item_type": "リング",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fe466dbc7af8701430b66e4923f88aff3fa7b95ed701ab5847f0a28aabd726c5"
+    },
+    {
+      "id": "ca5b9c7210b9781ec5fa943b",
+      "item_key": "ada144c50865",
+      "item_id": 13292,
+      "name": "熱風のリング",
+      "display_name": "熱風のリング",
+      "item_type": "リング",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "36eaa7d98b844d1c9245ac7fe426db66d18c6f44a7d52cdc36aa4b515c257640"
+    },
+    {
+      "id": "2ae0a113eaf7bce214e114aa",
+      "item_key": "96b6c9a7461c",
+      "item_id": 14388,
+      "name": "燦爛なブレスレット",
+      "display_name": "歓喜に満ちた 燦爛なブレスレット",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 2,
+      "variant_key": "85c4a7afaeb4d5200b91eac2c0b823e4b122b61c4488a2a42d8ff2e9793b5842"
+    },
+    {
+      "id": "789fef55d7c5119243bd8955",
+      "item_key": "351f83f6e5aa",
+      "item_id": 3161,
+      "name": "片箭",
+      "display_name": "[光属性攻撃Lv2]片箭",
+      "item_type": "矢",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "093c1e210bfd9d466e6ee46b49491ccb90d81e50c94b50365fcc7c1a459607a4"
+    },
+    {
+      "id": "e33a47bcde67b1de74bb74bf",
+      "item_key": "f98b4c1424f6",
+      "item_id": 3161,
+      "name": "片箭",
+      "display_name": "[攻撃Lv4][攻撃Lv4][攻撃Lv4]片箭",
+      "item_type": "矢",
+      "price": {
+        "amount": 70,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "dabe9e82c1a167ad7cf26405981a33a57c184326e23b64299214cefd71e588b4"
+    },
+    {
+      "id": "9287f7cb0b83e14e8389e568",
+      "item_key": "37d53be0bc34",
+      "item_id": 10795,
+      "name": "狂戦士の怨念",
+      "display_name": "[火属性抵抗Lv3]狂戦士の怨念",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a2f64d1efeb62aeff1b0b44404581efe93e3e8c43eaefc76663e0811ea737761"
+    },
+    {
+      "id": "e2a4dfd215172f5599bc6219",
+      "item_key": "2b3de74ee0d5",
+      "item_id": 11952,
+      "name": "真珠のブレスレット",
+      "display_name": "[光属性攻撃Lv2]真珠のブレスレット",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2c12e6c63a92739c2c8e4dfb7ea8972663601837e81bfe27cf9e0999abf7df21"
+    },
+    {
+      "id": "c679ada64578a6f342f6e9d4",
+      "item_key": "77d2cfeca669",
+      "item_id": 528,
+      "name": "短い杖",
+      "display_name": "[火属性抵抗Lv2][魔力増強][知恵Lv3]短い杖",
+      "item_type": "杖",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "026a336d9cc53fc689052d13f98fb6cfa17957c30e4ea4dcc700f87825420e84"
+    },
+    {
+      "id": "633dfa98cf740cb20579f6ec",
+      "item_key": "b0d2f6f47f09",
+      "item_id": 10676,
+      "name": "竜の髭",
+      "display_name": "[魅了抵抗]竜の髭",
+      "item_type": "スリング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "661d568c217efefcd5d4b1a500f9729e13cddd2b0ec6a8d9dc15b34ee2429992"
+    },
+    {
+      "id": "0e76f9efa8e03d31b158a84b",
+      "item_key": "986abbd83ea2",
+      "item_id": 11864,
+      "name": "精進の道",
+      "display_name": "[CPボーナスLv1][回避補正無視][運Lv7]精進の道",
+      "item_type": "杖",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f4a5b9e5cf2d9699e4782ded8045829bff1004867d95483506821cf63ab56a66"
+    },
+    {
+      "id": "de30f59f14ce2b05bca205a2",
+      "item_key": "6c96d18029f7",
+      "item_id": 2458,
+      "name": "精霊王の冠",
+      "display_name": "[探求的な][探求的な][探求的な]精霊王の冠",
+      "item_type": "冠",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3dc82c9fa69f594ea7f46213fdf3cca029b9715c1e4394d9a7f8abda8930edba"
+    },
+    {
+      "id": "d98b8df01c8874b260d9bb98",
+      "item_key": "846d9be4542b",
+      "item_id": 2458,
+      "name": "精霊王の冠",
+      "display_name": "[光属性抵抗Lv4]精霊王の冠",
+      "item_type": "冠",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a5bb403e43c4ab623b1f9b200fcba9f3511ed858d3b0df307d0b9c53692d1c16"
+    },
+    {
+      "id": "64f16ff78f8ec483eed7e8b6",
+      "item_key": "3b180545b55b",
+      "item_id": 14392,
+      "name": "細いベルト",
+      "display_name": "山を分かつ 細いベルト",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 0,
+      "available": 2,
+      "variant_key": "3a52c7800f1cdf49eb683dd655fee229674de5f6401e4c6a60cd9af3305c8c6d"
+    },
+    {
+      "id": "8f647657558e4c7ddb17bd24",
+      "item_key": "61dc790b9944",
+      "item_id": 14150,
+      "name": "終焉の指輪",
+      "display_name": "終焉の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 5800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c72c90c579abd389af5fa2fc048308fab549c1f71a64dc454992bbbfb44fa161"
+    },
+    {
+      "id": "905cf861691369f2203bb446",
+      "item_key": "61dc790b9944",
+      "item_id": 14150,
+      "name": "終焉の指輪",
+      "display_name": "終焉の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 6100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3038ac30d5a741f351c08617c442f06a724834087ca3e66a9c525534a1b74a51"
+    },
+    {
+      "id": "8c750f53e5fc687503cc9be8",
+      "item_key": "e500c698bb19",
+      "item_id": 11962,
+      "name": "綿密な予防",
+      "display_name": "[考古学の]綿密な予防",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 9,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "09aa7655647d65179c66bd80920e9eab7a6b2f942abf268d2cbf6bf93b39b455"
+    },
+    {
+      "id": "8e64ca6dc1760b0ac74a6415",
+      "item_key": "a01d4b373a49",
+      "item_id": 925,
+      "name": "腕輪LX",
+      "display_name": "[達人]腕輪LX",
+      "item_type": "ブレスレット",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c1644b5388f8cf5083edd1468f0e8d23cce1937bccb56c33039b072d9e8c149c"
+    },
+    {
+      "id": "86ea80945c7ba2b3aa5cfa95",
+      "item_key": "2d6793c0deb2",
+      "item_id": 10746,
+      "name": "落花",
+      "display_name": "[水属性抵抗Lv4]落花",
+      "item_type": "格闘武器",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6a9f3e6d7a6f9925412c5db1cf9ff535f3d9f73a588fe599886f21386385d2d6"
+    },
+    {
+      "id": "447fcd4393ff56c9210cadf8",
+      "item_key": "27bf4cacff78",
+      "item_id": 14460,
+      "name": "蠍王の指輪",
+      "display_name": "[攻撃力Lv1][土属性抵抗Lv1][健康比率上昇Lv2]蠍王の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4dbbd5ac55a381a39a2c3a120c490003d8c203c542ee823fe7c299ef0d1e6660"
+    },
+    {
+      "id": "078dd9248f07ef2dfcc59a25",
+      "item_key": "39d2967daf88",
+      "item_id": 14460,
+      "name": "蠍王の指輪",
+      "display_name": "蠍王の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "16c1d93a8d6bdfdff1b788e17210f1dc42d9fef2a8a253b782dbe93522bdd77c"
+    },
+    {
+      "id": "9a0b95469895411352334900",
+      "item_key": "39d2967daf88",
+      "item_id": 14460,
+      "name": "蠍王の指輪",
+      "display_name": "蠍王の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "44e935a75dce1cce38ecf3d0f694af6b0e950c79ba6b6dabaeadeb5ea5a9b703"
+    },
+    {
+      "id": "c9517e2346ed8bdfd54b5223",
+      "item_key": "39d2967daf88",
+      "item_id": 14460,
+      "name": "蠍王の指輪",
+      "display_name": "蠍王の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d50da1b70cc8c9d15ba21f35cf192adc77dd0c588cf824e5be5073956f1229ea"
+    },
+    {
+      "id": "cc486f286ce6207816360d21",
+      "item_key": "39d2967daf88",
+      "item_id": 14460,
+      "name": "蠍王の指輪",
+      "display_name": "蠍王の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1c1bced94f574d6e212f981b6f12732652c86c5caa47c99ec15f87012800c19b"
+    },
+    {
+      "id": "f5db9ff81b373e1d330b7847",
+      "item_key": "39d2967daf88",
+      "item_id": 14460,
+      "name": "蠍王の指輪",
+      "display_name": "蠍王の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4dcf2bca45788fbc1ff4252fb578bf309e2b649744abdc4a02fbf72e407af688"
+    },
+    {
+      "id": "71e441572e6df6e3d761093c",
+      "item_key": "4e01687a7cb2",
+      "item_id": 14460,
+      "name": "蠍王の指輪",
+      "display_name": "[RED STONE][最大CP効率Lv2][力比率上昇Lv2]蠍王の指輪",
+      "item_type": "リング",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8dbb746fe87012abc4d8595e43d37d60c6963005d88780eee870a5d55f918ff9"
+    },
+    {
+      "id": "41775baa1c3cdf204776f8af",
+      "item_key": "0198433e45df",
+      "item_id": 11995,
+      "name": "裏側の存在[Nx]",
+      "display_name": "[武装の]裏側の存在[Nx] (+8)",
+      "item_type": "専用鎧",
+      "price": {
+        "amount": 2000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 8,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "ec598bccfc5c7883bf30a212fd66f6b8269caa43d2a8082f8b826fded468499c"
+    },
+    {
+      "id": "f8a14b84ffd1860a12e034cd",
+      "item_key": "1b65d63f78c2",
+      "item_id": 2497,
+      "name": "見張り人の目",
+      "display_name": "[最低攻撃Lv1][移動速度Lv1]見張り人の目",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9a46cde6baafa9fba38a84ef2e494503f40e9f6da900c5cf76f9437d8766ce37"
+    },
+    {
+      "id": "829c727dbd6ab54096238376",
+      "item_key": "9a1d7175d680",
+      "item_id": 10757,
+      "name": "超新星",
+      "display_name": "[防御力Lv4][水属性抵抗Lv4][火属性抵抗Lv1]超新星",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 35,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "254b0a9d4a4e109013ccaed7c685c43422543c5df4d9524315fd63e32403d4df"
+    },
+    {
+      "id": "17c52660efad5178b829e4f6",
+      "item_key": "d01515f299a9",
+      "item_id": 10757,
+      "name": "超新星",
+      "display_name": "[闇属性抵抗Lv1][健康Lv5]超新星",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5811c2ebed4b8051338e1406f57647b3918147a77f4201d2d617bde75bedb00f"
+    },
+    {
+      "id": "099033f3b76176b0cf7dcc15",
+      "item_key": "edf40beb3a53",
+      "item_id": 10757,
+      "name": "超新星",
+      "display_name": "[防御速度Lv1]超新星",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "24b5fe3ce651edd7d21d94148d4f0aeb1f4224f2e61af2c705663d3c4af1c448"
+    },
+    {
+      "id": "4247f2ea9f3ff1967cf3e596",
+      "item_key": "795052e98e42",
+      "item_id": 12847,
+      "name": "転換点[Nx]",
+      "display_name": "[応急処置 ULT][応急処置 ULT][交感の]転換点[Nx] (+11)",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 6000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 11,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "7979c06d3ad4aab4b2fbf4ec14b6df98c26dfe6be8e7be85127b3441e71122aa"
+    },
+    {
+      "id": "9ac2dd7e881a4c2fd23ffc0c",
+      "item_key": "e9681e2d2076",
+      "item_id": 12847,
+      "name": "転換点[Nx]",
+      "display_name": "[応急処置 ULT][応急処置 ULT][応急処置 ULT]転換点[Nx] (+5)",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 5800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 5,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "d1c84499fce3c67782c626fdc466981518f9feb3bfbf822dbb53c8a2412594f2"
+    },
+    {
+      "id": "6ecffb7346d92f30a32575ce",
+      "item_key": "647e1361db7b",
+      "item_id": 10775,
+      "name": "輝かしい光輝",
+      "display_name": "輝かしい光輝",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3e7bfe27a16f73b106c984a7de45f79bbd27fa3c6f2c073a8305b1c24f48637b"
+    },
+    {
+      "id": "051411c891873ee0257a4227",
+      "item_key": "727d7eceaa0f",
+      "item_id": 9126,
+      "name": "辛苦の果実",
+      "display_name": "[攻撃速度Lv1][HP効率Lv1 DX][RED STONE]辛苦の果実",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 80,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e9edd43d193bf0213faa076d4c7e23f967cb168e1029767f5d2195af7dda3cdd"
+    },
+    {
+      "id": "49a88a76de65404791fc62b9",
+      "item_key": "d19d8d5b4f45",
+      "item_id": 9126,
+      "name": "辛苦の果実",
+      "display_name": "[RED STONE][RED STONE]辛苦の果実",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 45,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2505777cdb91c3b0fe1de7d35783516900dc0e305a24ed9bc3725a1599221f0d"
+    },
+    {
+      "id": "ae4a5ad68e92d10aacb91242",
+      "item_key": "36d018f96603",
+      "item_id": 9127,
+      "name": "辛苦の果実[Nx]",
+      "display_name": "[運比率上昇Lv2][運比率上昇Lv2][運比率上昇Lv2]辛苦の果実[Nx] (+10)",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "c661436ead83af074150e4113ec03ae74d930397de85e8e6858db28c8fba793c"
+    },
+    {
+      "id": "1a39447b3fd13c7fca6d7d4c",
+      "item_key": "a89b7a43f56f",
+      "item_id": 10721,
+      "name": "金銀双星[Nx]",
+      "display_name": "[攻撃速度Lv1 DX][敏捷比率上昇Lv2][攻撃Lv2]金銀双星[Nx]",
+      "item_type": "双剣",
+      "price": {
+        "amount": 45,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": true,
+      "opened": 3,
+      "available": 4,
+      "variant_key": "32f39efe79db1108bfa4c7dc2105d6dc217ae7f4efbdeb0bb394b57809cd4691"
+    },
+    {
+      "id": "750a0caa1a1361f916c25ba0",
+      "item_key": "0076d94ab696",
+      "item_id": 6548,
+      "name": "闇抵抗弱化の中級クレスト",
+      "display_name": "闇抵抗弱化の中級クレスト",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4851c60c4ef91bf43c3fff4a4a398dda4b7aa31086e30d370755464d4127ed82"
+    },
+    {
+      "id": "3615cec4eea4d5f7a8c739f4",
+      "item_key": "cf161bd7a76e",
+      "item_id": 9210,
+      "name": "闘神の鉄槌",
+      "display_name": "闘神の鉄槌",
+      "item_type": "メイス",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8564e33050efad51f10168d52c4f09a15f3596607123c55d847130246ad564aa"
+    },
+    {
+      "id": "621334c4849b31d2d139b2f1",
+      "item_key": "a3ff4e37a727",
+      "item_id": 6554,
+      "name": "防御力の中級クレスト",
+      "display_name": "防御力の中級クレスト",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a3d99490cc86e20f3bcd585383cefabdec0afe00d7994a9fc9e42dbb60c62a5f"
+    },
+    {
+      "id": "30e103916746c3ba92ec1f3c",
+      "item_key": "c00251da3789",
+      "item_id": 13208,
+      "name": "限界突破称号の魔法効果増加の最上級クレスト",
+      "display_name": "限界突破称号の魔法効果増加の最上級クレスト",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 400,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cd483859f841a444e7d031f01b1de7010397426b3ab1745e2a3db826d314ba09"
+    },
+    {
+      "id": "b35e39da929da425060d1209",
+      "item_key": "4bf60cc4b71f",
+      "item_id": 14172,
+      "name": "雷神の鎧",
+      "display_name": "雷神の鎧",
+      "item_type": "共用鎧",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4d1e883eb66ac6a9a417437ca40246a1ae137ff037bd5bc1b3270f07d6f4d914"
+    },
+    {
+      "id": "0856695478fe2f14c80a4bb8",
+      "item_key": "2fbec1ba0d00",
+      "item_id": 13116,
+      "name": "電鱗のリング",
+      "display_name": "電鱗のリング",
+      "item_type": "リング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9f506fbc7d6261aca120916965cb40cf958c3cfdbf12e621a4d398bd83998b9a"
+    },
+    {
+      "id": "9b2c6c9153a68cabea9b7fd4",
+      "item_key": "2fbec1ba0d00",
+      "item_id": 13116,
+      "name": "電鱗のリング",
+      "display_name": "電鱗のリング",
+      "item_type": "リング",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cb0b21c4244dad7c72c89f9f6ed9b6fb3da2bfffcc80446ad7853621762a3e3e"
+    },
+    {
+      "id": "4414d2ed9f7f2da450beacf2",
+      "item_key": "58ec8f66518e",
+      "item_id": 13116,
+      "name": "電鱗のリング",
+      "display_name": "[攻撃Lv10][攻撃Lv10][力比率上昇Lv2]電鱗のリング",
+      "item_type": "リング",
+      "price": {
+        "amount": 150,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c1114f174d3cb3c2cc623a532023ffe2115a5b5b45cada3d48d11708283c328e"
+    },
+    {
+      "id": "4e3a27fbfb6815d711868e49",
+      "item_key": "89fad5316c76",
+      "item_id": 4843,
+      "name": "願いの指輪[フォーチュン]",
+      "display_name": "願いの指輪[フォーチュン]",
+      "item_type": "リング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6f9ac1da172ee03596a6dc89111e48dbd45c23acfd11492f83693758e9e424f8"
+    },
+    {
+      "id": "8ff11c09846bcd611aa84c4f",
+      "item_key": "89fad5316c76",
+      "item_id": 4843,
+      "name": "願いの指輪[フォーチュン]",
+      "display_name": "願いの指輪[フォーチュン]",
+      "item_type": "リング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6f9ac1da172ee03596a6dc89111e48dbd45c23acfd11492f83693758e9e424f8"
+    },
+    {
+      "id": "9edfeebdbe4547aba36d52a3",
+      "item_key": "eef87d4f9284",
+      "item_id": 4842,
+      "name": "願いの指輪[ヘラクレス]",
+      "display_name": "願いの指輪[ヘラクレス]",
+      "item_type": "リング",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b06088792a33e0bdfe5cca8d65f0ea7697da84838e6c0d5a1683f36ee387b9b9"
+    },
+    {
+      "id": "2f09556041ed7f5a57ce4536",
+      "item_key": "c85bead5730f",
+      "item_id": 6584,
+      "name": "風抵抗の中級クレスト",
+      "display_name": "風抵抗の中級クレスト",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "05bcc96f356e04242fc71d11334dc89f3b17552b6ad52aef5d5b629f8dce7a7d"
+    },
+    {
+      "id": "bc36fb9823f92ba365a6b35a",
+      "item_key": "dd80871612d7",
+      "item_id": 9140,
+      "name": "騎士の誓い",
+      "display_name": "騎士の誓い",
+      "item_type": "グローブ",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cf3445e4d0722c3ca2f621265e75d1f9e1d2459a48ac2ae2d1ff111166079da6"
+    },
+    {
+      "id": "976cee30e052a4d94dd9d2e1",
+      "item_key": "b5db013fbc49",
+      "item_id": 12894,
+      "name": "魔法致命打発動確率と魔法致命打のデュアルクレスト",
+      "display_name": "魔法致命打発動確率と魔法致命打のデュアルクレスト",
+      "item_type": "クレスト",
+      "price": {
+        "amount": 900,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3baa4ee0978d5b7c6ac0c198fd45f7163db0a804de874dbb2f7fd7feba9607b9"
+    },
+    {
+      "id": "d5ce43fefc3879fb4d6bbacb",
+      "item_key": "ce38636fb627",
+      "item_id": 11960,
+      "name": "魔道戦士",
+      "display_name": "[最大CPLv8]魔道戦士",
+      "item_type": "冠",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6991b79eabd6cf666e5c8fa3b32666e1ca3eb4e2767fa7f394c2b696c06b5308"
+    },
+    {
+      "id": "7911312c0b1b1344f8a6f6b5",
+      "item_key": "80831f6da01e",
+      "item_id": 10765,
+      "name": "魔除け",
+      "display_name": "[敏捷Lv6]魔除け",
+      "item_type": "ベルト",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1219eec5e610ab097345383e6dbff66b2544c703c58f7be9cd158de19c09a6cc"
+    },
+    {
+      "id": "91cffa91a4e1ef2536bffa1b",
+      "item_key": "547a6a53ef65",
+      "item_id": 323,
+      "name": "鳳凰章",
+      "display_name": "[最大CPLv10][運比率上昇Lv1][健康Lv7]鳳凰章",
+      "item_type": "ネックレス",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "571a04ea4388dc3d3ea3a67084e923b45b9b56c07414ca9c8a5bd7bc0f3be7f0"
+    },
+    {
+      "id": "2ed14e8db1d71c598b33cec6",
+      "item_key": "65215274f448",
+      "item_id": 10724,
+      "name": "黒夜",
+      "display_name": "[健康Lv4][闇属性攻撃Lv1]黒夜",
+      "item_type": "鞭",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "efd1181876aa6f16d636edd08b0354aa5a1b8aaebb4729ab034132eec757a3fc"
+    },
+    {
+      "id": "3cf2755e8c85e154dafa10ca",
+      "item_key": "3d6c09b63d58",
+      "item_id": 10725,
+      "name": "黒夜[Nx]",
+      "display_name": "[回避補正無視][オニトルロ][攻撃力Lv1 DX]黒夜[Nx] (+10)",
+      "item_type": "鞭",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 10,
+      "complex": true,
+      "opened": 4,
+      "available": 4,
+      "variant_key": "539cfcabce021b551056b528c76482b2d8c2e53e26453cd77abcbd09bdef953e"
+    }
+  ]
+}
