@@ -1,0 +1,385 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261115",
+  "items": [
+    {
+      "id": "33f5a6352821deadf328a647",
+      "item_key": "ff9637aa4dd6",
+      "item_id": 3055,
+      "name": "M.P.D.F.",
+      "display_name": "M.P.D.F.",
+      "item_type": "盾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "97f72ee8b1c7a69f9a138cddda59dd1cf8d0fac56f8ac83a1503595ec6d95c0e"
+    },
+    {
+      "id": "57e936de2f96cc6ae8de0ec3",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "36329741b5947cc725074f8b1bd3f0d7868f083d8db04623be432b0fc91f90b2"
+    },
+    {
+      "id": "ab43c85a80d4d871469d96f0",
+      "item_key": "2a9eda8537ba",
+      "item_id": 13848,
+      "name": "イーサーヘイロー",
+      "display_name": "[新兵]イーサーヘイロー",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "208a19fc768ba00e851b1dc98a0801257090e165674287c0de723f2dfd080466"
+    },
+    {
+      "id": "0bba0bb4001c0fc985cd960f",
+      "item_key": "811368608a43",
+      "item_id": 1633,
+      "name": "オプシディアンガーゴイル紋様の肩刺青XLS",
+      "display_name": "[神獣使い][神獣使い]オプシディアンガーゴイル紋様の肩刺青XLS",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 35,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f102d2d9bab4bd1fbb33d346db09aafa31235300eb47867279a9f7995b737a57"
+    },
+    {
+      "id": "8bf965605a0f74f161136dec",
+      "item_key": "3a6b3cf66ca7",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8fd5a2b060149ccc27aa310148618efc7586c29b766013ab75b326aea2b7fe50"
+    },
+    {
+      "id": "a1e799bc26f016b8bc4e66e4",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "de465cea03086f2efabd9c388b6ad8759fe8840c0a08d6f3124935b105b56080"
+    },
+    {
+      "id": "684992c628bc753f8b685531",
+      "item_key": "9df8fbedeb17",
+      "item_id": 12164,
+      "name": "シングルモルトウイスキー[ロペス]",
+      "display_name": "シングルモルトウイスキー[ロペス]",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6a015453be6ad2a3ff3c4660a32a7bc982d2286e3da35b82b502b9703ee26b69"
+    },
+    {
+      "id": "4417a15b15fcbaade7a090a9",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fd1fcfc7d4c0f0650d54ce97489e1e1f86764bb7da694eafdd97c791ef7d5e57"
+    },
+    {
+      "id": "6ab95162b6d4c7676d1169fc",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 35,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fd1fcfc7d4c0f0650d54ce97489e1e1f86764bb7da694eafdd97c791ef7d5e57"
+    },
+    {
+      "id": "0481c32d90303c63ce0ec679",
+      "item_key": "1c954501f775",
+      "item_id": 3212,
+      "name": "チリペッパー",
+      "display_name": "チリペッパー",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "48af1831585919fe9b58f7fa969d6a5dc527080f8c97723538d97c703e5bf1b0"
+    },
+    {
+      "id": "0a439ff9c51e4317368544c1",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 35,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f36b77641ab3f043082a12e456bac2aba7d735eb26fce918d864344e11d2fa0e"
+    },
+    {
+      "id": "47a5476c84f6b65e06d30a1d",
+      "item_key": "c88aa61189e0",
+      "item_id": 3053,
+      "name": "フラッシュスパイク",
+      "display_name": "[火属性攻撃Lv3][光属性吸収Lv1]フラッシュスパイク",
+      "item_type": "盾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b41a56f4b6cf4e12a5cceee9c7589b244c03e2e75e3bc33e7cdc5ef22441b416"
+    },
+    {
+      "id": "9dabf8a991637c5b9448cac2",
+      "item_key": "7bb536d293b6",
+      "item_id": 11143,
+      "name": "彗星",
+      "display_name": "[最大HP効率Lv2]彗星",
+      "item_type": "星群",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2918a40b9e8d168bcdb44d459ba33ca92a5849d09863900230ac5231304b71c1"
+    },
+    {
+      "id": "e84ac9e4ee32004668de6289",
+      "item_key": "ef9cd882d1a0",
+      "item_id": 11143,
+      "name": "彗星",
+      "display_name": "[大スター][アイドル][修行中]彗星",
+      "item_type": "星群",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b2e37dc284d10388afbe7f1ab87c24386bdf561d8fe04267390a6c66da407531"
+    },
+    {
+      "id": "a986a05563161b7c822803cf",
+      "item_key": "59027d90105b",
+      "item_id": 11237,
+      "name": "死に飲み込まれた生",
+      "display_name": "[敏捷Lv2]死に飲み込まれた生",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d062685784edb04e47e4f2e48085a2a70359712b2a1ffd04193698bd09ad7f69"
+    },
+    {
+      "id": "4e0d52426ef4c423aa57ae2f",
+      "item_key": "00743ff70247",
+      "item_id": 11129,
+      "name": "残影",
+      "display_name": "[最低攻撃Lv2]残影",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 15000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4bebeff84e4f6e4f0a5f47794541c71018604e6c237293782833924e76d82144"
+    },
+    {
+      "id": "a914f0290a818fa8b86f7bce",
+      "item_key": "c063f5fab10b",
+      "item_id": 11115,
+      "name": "深海の鞘",
+      "display_name": "[火属性攻撃Lv3][最高攻撃Lv1]深海の鞘",
+      "item_type": "鞘",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "206407bb91883bd3a90f9cb2b3589d35baa93c841ac35be484164a631c9e92b0"
+    },
+    {
+      "id": "695f94d4c47b59b8ac2d4f28",
+      "item_key": "c98d9bc21051",
+      "item_id": 11153,
+      "name": "牛の力",
+      "display_name": "[光属性抵抗Lv1]牛の力",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "06893626943663630fd08c09d30573f806df6acee07785ad9a296d57de4b8e37"
+    },
+    {
+      "id": "4aa72a4bfa4e89a176d4e6c1",
+      "item_key": "1a882d0c3d87",
+      "item_id": 3058,
+      "name": "発掘ナイフ",
+      "display_name": "発掘ナイフ",
+      "item_type": "盾",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6354ff57eae090f980741c0ee42ef7977f771117c4134309db09fac18c0e89cd"
+    },
+    {
+      "id": "e1a0df299165efdf33abd7d7",
+      "item_key": "aec409f71a4e",
+      "item_id": 11120,
+      "name": "素早い手さばき",
+      "display_name": "[光属性攻撃Lv2]素早い手さばき",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "14f07e8cfa2135272b620ffc42f8ef51497efe29ed3989b0bfd21dcf74d787ea"
+    },
+    {
+      "id": "7e3c212d8d297f1a8af9eaa2",
+      "item_key": "69b7e8b68b71",
+      "item_id": 11122,
+      "name": "鋭いテクニック",
+      "display_name": "鋭いテクニック",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "938936de0ed58375e3483d37d9a3b4488c37cbf512ed5722ed32a162fdea45cf"
+    }
+  ]
+}
