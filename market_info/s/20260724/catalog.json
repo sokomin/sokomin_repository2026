@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260724",
+  "items": [
+    {
+      "id": "b58d1ee4addf7ded92221812",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 8,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "583cea4c81d6f638bec6e00c808e22aa8a51e567771864de3ef2f9f49633d274"
+    },
+    {
+      "id": "57313c1881c789b7eaff650d",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "22b9d3aea07d59662275f8633a101d3fbab5626d00f48d1ede308acee6f3dbf4"
+    },
+    {
+      "id": "2401ac6e135c5dcc3ffcd398",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c1557940c4922daf99e3225fce996f4d1693b40bcb0b94c02beca93c15091472"
+    },
+    {
+      "id": "b9f13bb28c1ff81fbc78f0ff",
+      "item_key": "963a94cfe64c",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[全属性吸収Lv1][全属性吸収Lv1][恩寵の]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 1200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bfec4ea471965f547fc1fe323ea24d6090d69dce251aa1f4cf8f46faaafe7557"
+    }
+  ]
+}

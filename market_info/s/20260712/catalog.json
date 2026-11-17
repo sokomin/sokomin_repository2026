@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260712",
+  "items": [
+    {
+      "id": "c3d514a8485623e6ce58e602",
+      "item_key": "d58a8d0649eb",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "[攻撃Lv4][攻撃Lv4][攻撃Lv4]クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0b0c175cd1c81190563569da71e78887ebec34130f8dd7c4c2c14c606255da62"
+    },
+    {
+      "id": "c26ea6906579dc0a7e3510ce",
+      "item_key": "ed9de7d132fd",
+      "item_id": 13355,
+      "name": "クロスオブアルカナ",
+      "display_name": "クロスオブアルカナ",
+      "item_type": "十字架",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1a7b777809150767e35354f12907f09bc42a02f663479a72651d47841fb5f3ea"
+    },
+    {
+      "id": "571c0057ae2df5ac24d2341a",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "963cf61bab5610f19b439182dcad6c0bed662163692f1ca6cb7eb30d602d825f"
+    },
+    {
+      "id": "821e08a1ed3057968b609dfc",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 80,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "df25655d98ff58500a4bf58d964190800c9e56000e94b6afb90fff8b4b52f315"
+    },
+    {
+      "id": "c4c6ec4b09bb2483d79f6eff",
+      "item_key": "963a94cfe64c",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[全属性吸収Lv1][全属性吸収Lv1][恩寵の]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 1200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bfec4ea471965f547fc1fe323ea24d6090d69dce251aa1f4cf8f46faaafe7557"
+    }
+  ]
+}

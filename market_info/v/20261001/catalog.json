@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261001",
+  "items": [
+    {
+      "id": "b0bb937d675e9b4da5142a47",
+      "item_key": "06e57cd0a679",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "[司教][司祭]ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 120,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c7450bd7597aba7ea2ff9a772c1c852e17188fd2326cc894b0ee9954aa572bc7"
+    },
+    {
+      "id": "49611abc8a584ae01335a60e",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4a86e2174b31f93946820e810a3ca8039f192a53215216d1cc73da1695d0284d"
+    },
+    {
+      "id": "5ca15268e9429f5bb8d249b6",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "791c930d1ccbca1c97ed0b2ad855843411497c576f7f183f700971abe5332f0e"
+    },
+    {
+      "id": "8478e35a1a7059882bac516e",
+      "item_key": "41b02eea83f6",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "[獣王][獣王][熱狂的な]ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 45,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "de8a8735eb55de38a288d5b39189de9d14b63fbeb2c245cc1c66045304782a88"
+    },
+    {
+      "id": "c8026e39777d5baadea43628",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 11,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8588f1f8c6f747ab51b5305a775119ab9b625e7ea9ecfdd838123abcba6c9ac3"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260728",
+  "items": [
+    {
+      "id": "fae7ab1c060849d968b47343",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "649c386b1dfd749e8cd662563e932b0c3a42f0e350a97bc8a0d66d72f5419c61"
+    },
+    {
+      "id": "1fc0eba9b4c78eaf11f199b0",
+      "item_key": "bc89ed54d219",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "[団長][団長][恩寵の]クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 1000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "42d3252cd6bca3dbaa4f139e1b229d2edf5d1e6d482326abe21fc9785f4d44ec"
+    },
+    {
+      "id": "d32a30c59a2cf3f2c260f944",
+      "item_key": "c6a609a210dd",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "[団長][団長]クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "377d2b0ce620b0a6d25e691c58b849bd98462f84fc613a203d34a6ab0f913ff7"
+    },
+    {
+      "id": "50900d7fd2d65da2efe5de67",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1d91b541de6d4a69cf6d74ec0a7b4cd93f131619817e77163413f21ff1599a9f"
+    }
+  ]
+}

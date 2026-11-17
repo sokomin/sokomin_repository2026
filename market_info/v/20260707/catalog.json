@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260707",
+  "items": [
+    {
+      "id": "c85a376106773116dea1b461",
+      "item_key": "62481fc3e91b",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ad4fedf2c2a14dab393b31e399b3dbe158fe0a37e7cca1c2595104b827f9123d"
+    },
+    {
+      "id": "6f3a1d4351c2ae642646c60f",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "389fa48adf5dd176d700caf375be0dc091147fe4e03a718d291f1561d98c37c6"
+    }
+  ]
+}

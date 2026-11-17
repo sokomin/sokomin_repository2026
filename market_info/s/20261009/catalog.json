@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261009",
+  "items": [
+    {
+      "id": "22293b0134cc43cff871f999",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "7e2d985d4f1b795bf96def1f2896efe8804fa7ae96d3afbb72f3481060dd4984"
+    },
+    {
+      "id": "0f286e77a7dc3301f1e1ed0f",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "00f00f7ac67e7e6d7b55f1d8536773cdb84f69d5be33e983702468691e76185f"
+    },
+    {
+      "id": "b0f6088d1e425e29ea8b1a98",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9cbc9d1fa174c325f5d5d1f624229f4104c4e1a5aa3e681a3b884885b42fb6d7"
+    },
+    {
+      "id": "7d1a5cee2495620420db5328",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ad689320b0ac451eb3feedbcd097fe0751db672a6d1d104e195f5508adc67b56"
+    }
+  ]
+}

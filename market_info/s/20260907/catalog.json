@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260907",
+  "items": [
+    {
+      "id": "d9f67859c7e96067af5ee420",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e45541f3928bf054200023f4eaff2417ac0b8c7996153431affe9a453ae77aeb"
+    },
+    {
+      "id": "c440c1c1e928329cb3f4cdea",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ad4440a7c9dcc190e9075ea0f665c1657b6e46a390ee7ad2cf0cbe1ddcc36daa"
+    },
+    {
+      "id": "eaae70a497a4b41d46f3f72f",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5a3b5366336033daeb14fd0a1206556f7207380a515f09a9543931a8a4963980"
+    }
+  ]
+}

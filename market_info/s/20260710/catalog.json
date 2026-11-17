@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260710",
+  "items": [
+    {
+      "id": "1874ffbf3e1120ab4553a34b",
+      "item_key": "3a6b3cf66ca7",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2a0ca5435ae2a3a87de487a359f1992d309742a9db08041c23c1c1b33efe6213"
+    },
+    {
+      "id": "79a35d7216aa55574cd9d853",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "af825b2830088b3caf0b47adda37bd57f273091a3f3695ea103b7466bcb13636"
+    },
+    {
+      "id": "8168f53574b828cf850ad0ed",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1cc43679528a90875d73ffb0c5dcbd2c5d0f5f2fd23a8abea637e2d207d08550"
+    },
+    {
+      "id": "8b463daa2ff402662982ed34",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2ae506d17f931aeac6bc13479b07c6673cc8608689836f0b6df9ef66f49db3d7"
+    },
+    {
+      "id": "ef00cb175c1ea44b61edb16b",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "aec1aaff70274bec494b05ffd8bbb134324de118b85d6ae8b664ca7d9e2c5c12"
+    },
+    {
+      "id": "40b0f41844775c8985e50336",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0da22759289e372ccfae18663c55476da6a0d34253f37a5294f9e330eae6ef9e"
+    }
+  ]
+}

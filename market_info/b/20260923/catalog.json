@@ -4,6 +4,222 @@
   "date": "20260923",
   "items": [
     {
+      "id": "ee15984f89f944157b825b9b",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d9d52dac878da9aa66d4d2d1e8fe24d95993b89382780d1e9bed001b9c4ff7df"
+    },
+    {
+      "id": "15058b97c7b624cd76beffd5",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "dcb3bc58845e7734b24c5ddb2a7615719998629c140b9d43b73f29e8fc3cafd8"
+    },
+    {
+      "id": "6ea2d5a87e99a6d6690d885b",
+      "item_key": "413740e871a3",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "[極意の]カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b7ebd6f42aa18e580f054ec8c7b5c95bd434557f1ecc50e5ba2c67b9cb4f6172"
+    },
+    {
+      "id": "b74312004c98be0b00cafaa9",
+      "item_key": "62481fc3e91b",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3bf153a119f557291fe8e5864a2785452e09a39dd0071cf3c8347bf96d35d07c"
+    },
+    {
+      "id": "ae4c10fd384c10dc3bbd9c9b",
+      "item_key": "debdde165ec5",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "[恩寵の]クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 90,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1a873ee83c2160d0d3d26c69a4f78fb1260ae6db0b99206c17ae4c59321039d6"
+    },
+    {
+      "id": "7aa891a1d26f67be44cdfe20",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "918cd55330e0d72dd534d8a5511aa3983bbb6babd9718bc1ac3efb5757fd3519"
+    },
+    {
+      "id": "2fdbf67b01d9337f0ad23820",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2fb06104888c68650a85dfb7046be18b6653667e08dfabd106d7170a81ed6800"
+    },
+    {
+      "id": "043dd48483006a969fa05d49",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "73db20ee2e9e51190ee47ec096233e7a30b576f6d4bed7719c7ddc5fa9be094d"
+    },
+    {
+      "id": "cd0c992b01b1ce1872f623b2",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "acd1cf83e27dd4cd092023b2b5d3cc900071ed272949ee5b7593d3953d7d2fe0"
+    },
+    {
+      "id": "ba22372f2d685bdd9cfa1b33",
+      "item_key": "ffcaff55ac34",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "[大スター]スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 60,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1837f1f339946afd0839c2cabaee7cb62e04f656c2b24c7c5280df49000ac679"
+    },
+    {
+      "id": "7c32a95248a034c7df09f0a9",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "40b86032f8c726ca78c3c2e613dd0ff96a6aa30be5a7db89ba48ff8f44c64c35"
+    },
+    {
+      "id": "c8afc4bd89b73259e5dc32b6",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a86cdc96ae77b24b90392e677fe3cd4cba91ee18707ab0e1326a0cb84fc67c67"
+    },
+    {
       "id": "8bd11491f5cb49fe3dfaa461",
       "item_key": "c5ae2a202f6d",
       "item_id": 13310,

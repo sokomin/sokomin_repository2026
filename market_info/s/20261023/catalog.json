@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261023",
+  "items": [
+    {
+      "id": "9063790ef9abc43e9cce8900",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2810839154d995f0c08e08afc6580735f30b8db05c100486ee3282fae8908f7a"
+    },
+    {
+      "id": "e9d7d208d521d7b987e73bb2",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a2fad226db7d87b2838f3f6d338ea1be3bc2e0db9653f73ae392ed6192a947f6"
+    },
+    {
+      "id": "3dc435e316b91f49daaaeaf6",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2fb06104888c68650a85dfb7046be18b6653667e08dfabd106d7170a81ed6800"
+    }
+  ]
+}

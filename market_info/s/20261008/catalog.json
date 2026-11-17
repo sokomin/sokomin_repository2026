@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261008",
+  "items": [
+    {
+      "id": "14c61b8c1f0710dc8847607f",
+      "item_key": "11c62019bdf9",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "[恩寵の]アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d855a73b4ead83fc5480ef671747bf19ede5ff7bd7c2a190e91bcf93c6249ed0"
+    },
+    {
+      "id": "026ded5651a031123e92e378",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 120,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8293df5dbabe08c6298049a4cb2e2bf9b34669d79e9b57b3e2426cfac28be5bb"
+    },
+    {
+      "id": "285c4584a2bd9d02ae2e9176",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c149df744aed3e2e0f6c92e5873c0f8f93dfac857bc1277cff60c1e1289f1c6b"
+    },
+    {
+      "id": "d915d192e13ad0e1d3fdae81",
+      "item_key": "e904ebe7d1d9",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "[拳聖]ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "29c1ec732bea52466f4d73ab52d102c29013ef2cf1726d48b13456b81175d8be"
+    }
+  ]
+}

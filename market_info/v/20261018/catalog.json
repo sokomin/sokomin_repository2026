@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261018",
+  "items": [
+    {
+      "id": "d2da5c3d853bf7925fc59f47",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c041e5fffc4029c45715c4e239bc4a5ebf2ec975cf081256e548b858efd73514"
+    },
+    {
+      "id": "272c62cc084866f97e2fa679",
+      "item_key": "3a6b3cf66ca7",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "30eb8bdb6e4cb5d70e63d50e3a9b4746ca1126b90beeefeb84117cddf62f4674"
+    },
+    {
+      "id": "65e544fbdbaada8cb701178d",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0a2656dac260c24c08f223c2af742e8de0d0c74451ae7fb08d52905cfbac329f"
+    },
+    {
+      "id": "d7f992426276b20d05bfd298",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ada60087ee02ddd6feee624d10d9f8ea9fc52473226370b221690cd29b782f18"
+    },
+    {
+      "id": "d51c64112ddd144c97512659",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 250,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d2925b2b235e16d74db968c93ee9dce5084d3c8c178f9424ddb8e30f9f771065"
+    },
+    {
+      "id": "0fab77e2187e5d1a8a7c1570",
+      "item_key": "bf4693ea6dca",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[船長][船長]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 9,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d9e6a6f3cbbf194217663df4df51e19558d2897cf11f0bc437fbf819179ad7df"
+    }
+  ]
+}

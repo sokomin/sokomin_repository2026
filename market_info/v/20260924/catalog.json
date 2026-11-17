@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260924",
+  "items": [
+    {
+      "id": "bd64805e6cb3e1b17b043cbb",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 29,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "640f4988459e6a5f318c9ff51815ce945d5dcf4b4471325760c728ec16e9fb5f"
+    },
+    {
+      "id": "fb93893afa53bcb6dd201f24",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 7,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ea504cbf1150574357b48ff421ddbd39433246d870368cdc4f5764c693fbff58"
+    },
+    {
+      "id": "2f3ee49645342fb6a36a41d4",
+      "item_key": "e310dc1fae97",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "[致命打抵抗 DX][団長][団長]クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 999,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "963b24049efeb2fb01afecb1e8f182e5e999e8ab08f1092cce44d1373bc46240"
+    },
+    {
+      "id": "51255f0767cc41ea74c22861",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a9d0a5b5240e3eabd57436e6a30e8fd40d9a06a0f0b7a5582a35d04dee4db06d"
+    },
+    {
+      "id": "f367f5e395f53d1cc388cf62",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6eeff7dbfd4f844de5ec9e95251dec8550c613fca7a388b6fe065d175453361f"
+    },
+    {
+      "id": "eda3f7dcb92be31ec01d598a",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 29,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "59fe7f3f19679d15de5842f7c26c6e37491007932b041fa2e083daa7da715301"
+    },
+    {
+      "id": "ab0faaf4ee2b2003e6240cf3",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 7,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "beca61ad1d171f7e5d6e72e6cda0c53e066442a9ca89c8a21aa27f43663adbb4"
+    },
+    {
+      "id": "8f6a199cd78dfe5dc70071c4",
+      "item_key": "bf4693ea6dca",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[船長][船長]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d9e6a6f3cbbf194217663df4df51e19558d2897cf11f0bc437fbf819179ad7df"
+    }
+  ]
+}

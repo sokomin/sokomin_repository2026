@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260802",
+  "items": [
+    {
+      "id": "4bf1e404fd4b0aee473e2871",
+      "item_key": "bc89ed54d219",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "[団長][団長][恩寵の]クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 150,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "26ce65b965e992d32c36d2c643026e46c006d95023426cf8d6ec896a5575a1f4"
+    },
+    {
+      "id": "dc6343a0e0f63d06959934a7",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c1557940c4922daf99e3225fce996f4d1693b40bcb0b94c02beca93c15091472"
+    },
+    {
+      "id": "bf70d006eb2d2a66ce86f743",
+      "item_key": "963a94cfe64c",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[全属性吸収Lv1][全属性吸収Lv1][恩寵の]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 1200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bfec4ea471965f547fc1fe323ea24d6090d69dce251aa1f4cf8f46faaafe7557"
+    },
+    {
+      "id": "311101c49d362cde26cf5a52",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8d2082664b8d2e015201c0aec3064ec3d594f2f5455a403ef3eb322623a75cab"
+    }
+  ]
+}

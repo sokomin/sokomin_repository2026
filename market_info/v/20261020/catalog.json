@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261020",
+  "items": [
+    {
+      "id": "eb36ccd59a76bce77ada1010",
+      "item_key": "9ed2d2c77648",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "[致命打抵抗 DX][武装の][火属性抵抗Lv6]カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 400,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "770643cc348a7c5a7b415377edfd0d297556d3e5242b8de23d83acf35d4fd70b"
+    },
+    {
+      "id": "4a2e79129cf4f65cc53d869f",
+      "item_key": "b333f31f2885",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "[団長][団長][団長]クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f17a56258c92cdf308794a8e0d081fa7194764049ec6bb9df8336fdbea7ff8be"
+    },
+    {
+      "id": "577f4a118b0608d39e2ea43b",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "04951ab9c1a0183b20097cf7aaf49364bf83d54bdbb758a7c377030ba076e70a"
+    },
+    {
+      "id": "b643afe65062925cebb3553f",
+      "item_key": "bf4693ea6dca",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[船長][船長]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 9,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d9e6a6f3cbbf194217663df4df51e19558d2897cf11f0bc437fbf819179ad7df"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20260805",
+  "items": [
+    {
+      "id": "6179fa9607bf1c17b10f6187",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4a86e2174b31f93946820e810a3ca8039f192a53215216d1cc73da1695d0284d"
+    },
+    {
+      "id": "56b2e1eb870b80bfd0bab625",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2fe9c7803fb9fcd0caf3832ab6b72d8c023051d61061ee0071cefe0b34285ebc"
+    },
+    {
+      "id": "7aa19a3553d304054005dd8f",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 70,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8293df5dbabe08c6298049a4cb2e2bf9b34669d79e9b57b3e2426cfac28be5bb"
+    },
+    {
+      "id": "e396af8902ce488001ca1ade",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 70,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "17432f752b2dc4d035c3f2e17914649a6a9615c75e8b7a0bb84621b664b015d5"
+    }
+  ]
+}

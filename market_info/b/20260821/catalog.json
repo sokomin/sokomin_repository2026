@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20260821",
+  "items": [
+    {
+      "id": "a2f288e4136692fd13f2659a",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0d49cf48db1c2ca268f01866e4a3a440142855fc806f648e3924d65e085778d7"
+    },
+    {
+      "id": "85107e96ea037a9fa1bf1c66",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bde73ee5ac44033b89dd173c15a1ca825733f9febac5053271673361b8f1b44b"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260802",
+  "items": [
+    {
+      "id": "62a4dd912c5bcf0b29dec912",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "de52f40273d6af99543f412149c5332bcfbe2aacbc215b081720c818f4dc998e"
+    },
+    {
+      "id": "a78ba1b31c8ac640374363d6",
+      "item_key": "2817ed061254",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "[恩寵の]フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "356099c609c95d0140eb18b6cb71336b4d2449e061b926190a9fb88bb512aa1b"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260923",
+  "items": [
+    {
+      "id": "18f9b1a7a0943e5042b415a3",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f4456ec9cb141432a1711c7a7f016637d794aa12d1f0dbd68a8aff49a359f1ef"
+    },
+    {
+      "id": "8e71a5e91af6b209985269e2",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c149df744aed3e2e0f6c92e5873c0f8f93dfac857bc1277cff60c1e1289f1c6b"
+    },
+    {
+      "id": "c39bf34c5cc7879532412db8",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "89a61048e9790c79795ac8ec13f0550225c8b15f88a11e16f1be0c3a58cc6939"
+    },
+    {
+      "id": "8b42036217cdadaf7b7b960c",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "963cf61bab5610f19b439182dcad6c0bed662163692f1ca6cb7eb30d602d825f"
+    },
+    {
+      "id": "6811d69b2dfd14eb0ee2dad5",
+      "item_key": "cf8971dfe49e",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "[銀狼][銀狼][銀狼]シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4a81d6ad88934ebaef2f664b9966ac35a3d907c3981455911720ce21017340da"
+    },
+    {
+      "id": "085f1605e27f63a42e1ec8e8",
+      "item_key": "307a68fab3df",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "[浮遊]ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "205d7954ce5a14814356372cf7bb0b960050f1ebb0b75d771e8ed75c884fa66b"
+    }
+  ]
+}

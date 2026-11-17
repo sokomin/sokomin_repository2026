@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260904",
+  "items": [
+    {
+      "id": "3824f0695b74986ed4c150e4",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e45541f3928bf054200023f4eaff2417ac0b8c7996153431affe9a453ae77aeb"
+    },
+    {
+      "id": "49c6bd38682f8a91b5e7a80b",
+      "item_key": "a32933369415",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "[狙撃砲兵][致命打抵抗 DX][新兵]グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8a73583a79a82ea88ca3ccc793573714d20a8c86aec5472131c2b89d3882d759"
+    },
+    {
+      "id": "4a1fd9995c60f22dabd22a67",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0fec984ceb157a6b2793471803ed9dcf5a3890a3671dd2dd38c9c6935f23747b"
+    },
+    {
+      "id": "3fb5fb4825076e7740b90e98",
+      "item_key": "fa856460ccdf",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[致命打抵抗 DX][致命打抵抗 DX][恩寵の]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 1000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2e41edf0ce3101b448b48de08aef029cfb3c6ea258b61b50a32dae4c3830d80b"
+    }
+  ]
+}

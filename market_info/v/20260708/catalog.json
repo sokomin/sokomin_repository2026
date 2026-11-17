@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260708",
+  "items": [
+    {
+      "id": "e68dfc9688dd5a8a0bf7345a",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 40,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "389fa48adf5dd176d700caf375be0dc091147fe4e03a718d291f1561d98c37c6"
+    },
+    {
+      "id": "6d0f4370f93c849762bdda8c",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8d2082664b8d2e015201c0aec3064ec3d594f2f5455a403ef3eb322623a75cab"
+    }
+  ]
+}

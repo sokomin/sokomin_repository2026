@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260815",
+  "items": [
+    {
+      "id": "60df0fe40f81ed29e397b30b",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "649c386b1dfd749e8cd662563e932b0c3a42f0e350a97bc8a0d66d72f5419c61"
+    },
+    {
+      "id": "0036ade2bbf50956c982ab33",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4a86e2174b31f93946820e810a3ca8039f192a53215216d1cc73da1695d0284d"
+    },
+    {
+      "id": "dd4114f58e40a8484864af72",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 150,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8a19723b86c991196048a2c5bbdd90ac56cdd1bf701da43d67f1620b46ca3616"
+    },
+    {
+      "id": "f816b82d61a7c47f4734459e",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5f9ed4feb2dd537d8907cc4fb6f66f182c50a34b2e7bd39d915531bc2f003e4b"
+    },
+    {
+      "id": "9a2f77556720cab02c6417df",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "89a61048e9790c79795ac8ec13f0550225c8b15f88a11e16f1be0c3a58cc6939"
+    },
+    {
+      "id": "3fb49703436e2e350d4927a4",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "63e2570a994f6d091bce2be86f41140aca0bd4a41cdf3a054843e46ff41e46e0"
+    },
+    {
+      "id": "c2b10ceabf68773a7dd3bfe3",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "17432f752b2dc4d035c3f2e17914649a6a9615c75e8b7a0bb84621b664b015d5"
+    },
+    {
+      "id": "2d9f9201045398be47594ed9",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e1d11298149c225f7beca69185103be13f339dc4debfe0ae104086aeb6e68d34"
+    }
+  ]
+}

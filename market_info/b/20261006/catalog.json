@@ -1,0 +1,169 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261006",
+  "items": [
+    {
+      "id": "42c2bbcecc05024c18bb5354",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "71fc4e9127eb0c196032f424c17e3fb3f86d6c577dfbed77d5777087ca405b06"
+    },
+    {
+      "id": "efd5e6284c71642247fd90f4",
+      "item_key": "62481fc3e91b",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3bf153a119f557291fe8e5864a2785452e09a39dd0071cf3c8347bf96d35d07c"
+    },
+    {
+      "id": "1c5181d8b8ff77ec9fadd6e2",
+      "item_key": "debdde165ec5",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "[恩寵の]クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1a873ee83c2160d0d3d26c69a4f78fb1260ae6db0b99206c17ae4c59321039d6"
+    },
+    {
+      "id": "90659149b3a08b8fe2db2de1",
+      "item_key": "e4971b26ece0",
+      "item_id": 13355,
+      "name": "クロスオブアルカナ",
+      "display_name": "[水属性抵抗Lv6][致命打抵抗 DX][リラ]クロスオブアルカナ",
+      "item_type": "十字架",
+      "price": {
+        "amount": 180,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "67e5fa33c541abd8df3ffea2cb1da9f5455a38e56d9e9c332f0f306c953e6bf6"
+    },
+    {
+      "id": "fea8e924dfb62ff67fd24b0c",
+      "item_key": "379edf222e11",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "[銀狼]シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 6,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "88b3168d39b57831dc7ef4d942214df898f75bac42d83cedb741810a7dd85f40"
+    },
+    {
+      "id": "acb713d4652bd461fc4cb175",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ac6e33a7acf7580fccb64ada3b56619bd01975a9022a65993c194d44135524fb"
+    },
+    {
+      "id": "965cc286e884d0debd095389",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cb171b1222cfc88f27ecb71d593097fa1004fdaf9a3a3575a3ad4e65aec6b74e"
+    },
+    {
+      "id": "2337d7e55cf5c1ece9e4f731",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "548eb1729a8ccb3b5d335a669e3b612f073840c29c575842c4a5a1ca2e505df2"
+    },
+    {
+      "id": "9481d8746a26df4e7955d570",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c9523b63486d30747db77491caafedbf4260b8906103ede1c468b23198e6e0c8"
+    }
+  ]
+}

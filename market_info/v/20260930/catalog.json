@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260930",
+  "items": [
+    {
+      "id": "0b920066a926c32943341ef4",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "640f4988459e6a5f318c9ff51815ce945d5dcf4b4471325760c728ec16e9fb5f"
+    },
+    {
+      "id": "2b50ebf8cd3111629b36aafe",
+      "item_key": "e310dc1fae97",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "[致命打抵抗 DX][団長][団長]クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "963b24049efeb2fb01afecb1e8f182e5e999e8ab08f1092cce44d1373bc46240"
+    },
+    {
+      "id": "128fc734b531a5d5bb1cea2a",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c149df744aed3e2e0f6c92e5873c0f8f93dfac857bc1277cff60c1e1289f1c6b"
+    },
+    {
+      "id": "c4166a6e4251ff5840f06c36",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "81f4eacf28711ac77637ead8972655a1d4a7b640517a2fbd230cce916dd548ab"
+    },
+    {
+      "id": "a2dca16c59a9907eed4c37d0",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "04951ab9c1a0183b20097cf7aaf49364bf83d54bdbb758a7c377030ba076e70a"
+    },
+    {
+      "id": "87ca4303d72e414f569ba110",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 11,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8588f1f8c6f747ab51b5305a775119ab9b625e7ea9ecfdd838123abcba6c9ac3"
+    }
+  ]
+}

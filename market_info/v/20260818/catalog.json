@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260818",
+  "items": [
+    {
+      "id": "75698c798c42edfe2370655e",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8a19723b86c991196048a2c5bbdd90ac56cdd1bf701da43d67f1620b46ca3616"
+    },
+    {
+      "id": "45b2aa915414c03dc360a650",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c1557940c4922daf99e3225fce996f4d1693b40bcb0b94c02beca93c15091472"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260706",
+  "items": [
+    {
+      "id": "80f4997e90a86f3d576cd7cf",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "389fa48adf5dd176d700caf375be0dc091147fe4e03a718d291f1561d98c37c6"
+    },
+    {
+      "id": "8d1c3084191bf38db75f6a29",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fe8c5385d328af0175647117f5a587fd2886b451b80d51f41ed8c5748bed3edf"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260922",
+  "items": [
+    {
+      "id": "163090a247c85e67f542b8e8",
+      "item_key": "11dd1cc51ed5",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "[致命打抵抗 ULT][ソラ][致命打抵抗 DX]ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 999,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2273994f998fe2e03211dc5bc5faacdcac8a713c3fa01d461d0377b98043861d"
+    },
+    {
+      "id": "99103f860d6bb7ac251f22d8",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ff9196e80194817244c5faac72ea7c074b0cfcb932f5998f35228c71956fd293"
+    },
+    {
+      "id": "de49e35db758a5159dc6638d",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "640f4988459e6a5f318c9ff51815ce945d5dcf4b4471325760c728ec16e9fb5f"
+    },
+    {
+      "id": "493c9124a3a6349186d8a8c9",
+      "item_key": "e310dc1fae97",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "[致命打抵抗 DX][団長][団長]クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 999,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "963b24049efeb2fb01afecb1e8f182e5e999e8ab08f1092cce44d1373bc46240"
+    },
+    {
+      "id": "0de59546bb4a1517b1de18f7",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "beca61ad1d171f7e5d6e72e6cda0c53e066442a9ca89c8a21aa27f43663adbb4"
+    },
+    {
+      "id": "bb6b84fdbb51fcf2565cc625",
+      "item_key": "bf4693ea6dca",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[船長][船長]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 40,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d9e6a6f3cbbf194217663df4df51e19558d2897cf11f0bc437fbf819179ad7df"
+    }
+  ]
+}

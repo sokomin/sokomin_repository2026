@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20260820",
+  "items": [
+    {
+      "id": "45a2f279d28946743620119a",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f0a3c919d0f270b59a19351ab220749614c3b9f4d5d0eb822bc0b2354c63af1d"
+    },
+    {
+      "id": "e2dab526ec1d28984060d08c",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1b9b1c812aec04f3f8720d22bc05c0f9697ea7441e3c252e002919dfd8cc5e54"
+    },
+    {
+      "id": "62f6f8f08f0a3015d8710233",
+      "item_key": "379edf222e11",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "[銀狼]シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 6,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "88b3168d39b57831dc7ef4d942214df898f75bac42d83cedb741810a7dd85f40"
+    },
+    {
+      "id": "81f95b2a10688ab74cd01488",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0d49cf48db1c2ca268f01866e4a3a440142855fc806f648e3924d65e085778d7"
+    },
+    {
+      "id": "69435d65fc857d681025c699",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1be8e50fe0d9dce448c2f937fb8807144b3b307217f25cbd2b230e90f0d17928"
+    }
+  ]
+}

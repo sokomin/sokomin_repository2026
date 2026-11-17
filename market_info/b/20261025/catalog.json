@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261025",
+  "items": [
+    {
+      "id": "1156e50d2449a5067a396529",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "26108c64eae55e6f8396174df651d67c0c352da62053292815da51f0bc1b4614"
+    },
+    {
+      "id": "b320c810108ac70c9feb8c7b",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "53df80e6522c63d3d663e0677bfc44cd76631d3ffdb759eaf98d74d13f62baf4"
+    },
+    {
+      "id": "ffb85f2d83219209c4f23ea4",
+      "item_key": "fb2e1bcadd66",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "[極意の]グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "39d3f5df6f9a92bcd23600a993666925b5e88116f07c95aaa10a00a0bb416713"
+    },
+    {
+      "id": "d5795a2b867fbec6103cb778",
+      "item_key": "87477043e346",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "[極意の]スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "7c171bf28405bcc9e79eb6eb4c538eb65b5b09775e8cfd4231ce723d65b6e9bc"
+    },
+    {
+      "id": "48d25024fa8d6ba7648eefed",
+      "item_key": "b411c8609fc9",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[敏捷Lv2][力Lv2]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 110,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cfb388697bbf96d82b8106556a018fc37f647f316b0f40abf6879ea12e0346e7"
+    },
+    {
+      "id": "7e32a70705419493f68e5db1",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3f721fa146b1e25bb16ef6402c85a7f0997be83eba7d2f2b2ed147e267d87131"
+    }
+  ]
+}

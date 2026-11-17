@@ -1,0 +1,331 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20260906",
+  "items": [
+    {
+      "id": "4e05efed9e90b14dd8658886",
+      "item_key": "7002b7f42374",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "[攻撃Lv4][攻撃Lv3][攻撃Lv4]アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bf780b3bc8eb46c5a452bcb7bcc80a07cf619b1e07e6be3f82c890e14986dbc7"
+    },
+    {
+      "id": "0011c37936b62d48ea36b7f7",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "512643343dae5f6852cd6122124b73e64515bf04216a8459dac52053c41bb0ad"
+    },
+    {
+      "id": "3ab9f85df5c1a903d144f27f",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 40,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ec6bb093141fc88af6f47aa69d9cbaf5a48414b6ea58dfa726147d075d36eb10"
+    },
+    {
+      "id": "51833de9a60715d77657b2f5",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "26108c64eae55e6f8396174df651d67c0c352da62053292815da51f0bc1b4614"
+    },
+    {
+      "id": "a6b2892c29f02f36410dac6c",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "53df80e6522c63d3d663e0677bfc44cd76631d3ffdb759eaf98d74d13f62baf4"
+    },
+    {
+      "id": "6fd0a1d91136032405ef29aa",
+      "item_key": "413740e871a3",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "[極意の]カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b7ebd6f42aa18e580f054ec8c7b5c95bd434557f1ecc50e5ba2c67b9cb4f6172"
+    },
+    {
+      "id": "07b37ca21d53790b5ec5f243",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5f9ed4feb2dd537d8907cc4fb6f66f182c50a34b2e7bd39d915531bc2f003e4b"
+    },
+    {
+      "id": "0c4fd9f8c36b356b7eb50edc",
+      "item_key": "ed9de7d132fd",
+      "item_id": 13355,
+      "name": "クロスオブアルカナ",
+      "display_name": "クロスオブアルカナ",
+      "item_type": "十字架",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e9db1b9ad98fd74973ed5087bb6f0263d2df6b8d3622d52113f1fa6f8bb06798"
+    },
+    {
+      "id": "ed89ef4703d6bc43f905a896",
+      "item_key": "93eebf096e0f",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "[狙撃砲兵]グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2cc7056bf4671c63d1142e5a949de34e8725805c289fcc78dde9f69dd520a3e2"
+    },
+    {
+      "id": "45feca7449f726195aa79c5b",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "918cd55330e0d72dd534d8a5511aa3983bbb6babd9718bc1ac3efb5757fd3519"
+    },
+    {
+      "id": "24b7974e20b1ea9823b46407",
+      "item_key": "fa195a4a7b34",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイド長][メイド長][極意の]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5516a7db522b16c935cfd3d24ba2950cc53f839ac213d62d0520c1ce3c9ccd83"
+    },
+    {
+      "id": "94f1e147a6756669146fb154",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "73db20ee2e9e51190ee47ec096233e7a30b576f6d4bed7719c7ddc5fa9be094d"
+    },
+    {
+      "id": "c3dba2dc5792ca4d4c81ad46",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 50000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e11d2733a54c661cbceba8db34b4bce96f90c7131c619bda6678eabe307abcbc"
+    },
+    {
+      "id": "72cccf5fc062b7ab6493c69e",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0d49cf48db1c2ca268f01866e4a3a440142855fc806f648e3924d65e085778d7"
+    },
+    {
+      "id": "95cf28c11e61537d0638d505",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ac6e33a7acf7580fccb64ada3b56619bd01975a9022a65993c194d44135524fb"
+    },
+    {
+      "id": "8e6b561658b873e299f17916",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "17432f752b2dc4d035c3f2e17914649a6a9615c75e8b7a0bb84621b664b015d5"
+    },
+    {
+      "id": "8328f28b02ac5d7908c6f465",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 40,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3cc53786b55643bba0ff93d7a44d472e0db345af53ddc38fb2998e3ba4f2610d"
+    },
+    {
+      "id": "8ce0f10b99c1a86ae4e78b42",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "40b86032f8c726ca78c3c2e613dd0ff96a6aa30be5a7db89ba48ff8f44c64c35"
+    }
+  ]
+}

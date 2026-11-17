@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260715",
+  "items": [
+    {
+      "id": "7ffdb9c9a9b2eab156ea1855",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 120,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "25e9132945e19753583d7f16bae19ac9b47033a4bc06b29e47e60c1df6a733d7"
+    },
+    {
+      "id": "74e93ed44af36b0920d12305",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "791c930d1ccbca1c97ed0b2ad855843411497c576f7f183f700971abe5332f0e"
+    },
+    {
+      "id": "1a747e5c1cb66ca7145197bf",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "50ed6a6b28dcff600d507bad1203e17a92c21546c2da2021700d7364ecd4c464"
+    },
+    {
+      "id": "038a4bdf8d56e2d6d901d9fa",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 30000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3bcc53695c8c13a4c059189402801a400080d2b258540a188196bb8dff003868"
+    }
+  ]
+}

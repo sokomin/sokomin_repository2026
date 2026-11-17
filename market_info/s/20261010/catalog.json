@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261010",
+  "items": [
+    {
+      "id": "0654344bc6267bb35ad3a5b5",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "357d9e74855d8c20f9ca95adf3faf5249d26e6267e511fb7de478dc12ca86b69"
+    },
+    {
+      "id": "8b72a28f41a30e98aeccd542",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "09c9f544bcabf14fd8cfc0a3a283aac9c2b696745be8edbed813c70ca384bc9d"
+    },
+    {
+      "id": "9c8484b868911b950039bbf9",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f1f136d8a9e0915d2449e0e1d1677498590e7fcd60d0ca3b4585e04d794d9b5c"
+    },
+    {
+      "id": "f2a36e3ba5003c8bae781c8b",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "583cea4c81d6f638bec6e00c808e22aa8a51e567771864de3ef2f9f49633d274"
+    },
+    {
+      "id": "f012cee72144b331c40628e4",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "db67152ac875f5471bacc3cfc5e896ef1ebea91bf23f1a0623ab53a6897f43ed"
+    },
+    {
+      "id": "3f5bb022aa5112c24ea5ef6c",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2cbc835df2b88b57291ec99d248ea018a2d220bee191b5afe5554e85595f4070"
+    },
+    {
+      "id": "79ab60627ec5a480d2a08630",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3bcc53695c8c13a4c059189402801a400080d2b258540a188196bb8dff003868"
+    },
+    {
+      "id": "cc43101249c7a75cf38dbe88",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fb217621638368fd764109c94f10c0c93e51590ae702efa43d52fbe9c2cbf523"
+    }
+  ]
+}

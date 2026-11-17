@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261003",
+  "items": [
+    {
+      "id": "7b4fcfe2282a90109fc9a0a5",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f9f6823730010e2eabd5d77475a1a368650847b5d47918ba28d6b3f6fa5e0c0c"
+    },
+    {
+      "id": "8ff3928aac08c462d1a6bb42",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ac61ffb48a8336451abd8c0326650eb1964f6741ee991f196dea8321e3bfebe3"
+    },
+    {
+      "id": "bd776e4070f6459b3997477e",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "07fffea6243780a6703a935ad5ae33a23859a92d1ee8ea579738d2b868bf65e0"
+    },
+    {
+      "id": "21f810d82c8c3bdd5792e819",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "791c930d1ccbca1c97ed0b2ad855843411497c576f7f183f700971abe5332f0e"
+    },
+    {
+      "id": "193354e18b2ff873e4ff43c9",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "81f4eacf28711ac77637ead8972655a1d4a7b640517a2fbd230cce916dd548ab"
+    },
+    {
+      "id": "2c7fd70dd31f2d02539f61cf",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d26504ba30b6f38e1d856fe0ec1385ed2508500bde06e469cfd296b83e833d6c"
+    }
+  ]
+}

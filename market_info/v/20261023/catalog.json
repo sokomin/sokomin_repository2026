@@ -1,0 +1,133 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261023",
+  "items": [
+    {
+      "id": "16e64e792dc96038ddff1b03",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9c537ace19e621e23436712a80e9a4709c74a7822c9865564d492a3b0c372794"
+    },
+    {
+      "id": "a7ca079b2252face25f0a8fc",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2b6311709b45212b530e36f870f35b1ff5f7b277dc63a463d278b3e18f846dc4"
+    },
+    {
+      "id": "76a6212234db310e55c22493",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8293df5dbabe08c6298049a4cb2e2bf9b34669d79e9b57b3e2426cfac28be5bb"
+    },
+    {
+      "id": "5c380a86746cda7abb140119",
+      "item_key": "3a6b3cf66ca7",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "19c21eda71b5d0c8a14f1db810dc8a2aee9c89ab2782c73b012f2dff2e0f6720"
+    },
+    {
+      "id": "32337f625ef8d36dd3b88d6a",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 27,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c17fd1b60ceab8aac60f91091faf571cd9bd79f640c5c5c19310dec4513322c1"
+    },
+    {
+      "id": "dfb99744ae9781233f653f4e",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "59fe7f3f19679d15de5842f7c26c6e37491007932b041fa2e083daa7da715301"
+    },
+    {
+      "id": "3c31b1c8c79cc818a451c63a",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "938bcd0308b442e4dcf85deb17eba9cac319d919d50fdbd8d4b2aa21fa2786db"
+    }
+  ]
+}

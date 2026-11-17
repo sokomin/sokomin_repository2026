@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261017",
+  "items": [
+    {
+      "id": "d8ec61743044515cee7bb26d",
+      "item_key": "e4971b26ece0",
+      "item_id": 13355,
+      "name": "クロスオブアルカナ",
+      "display_name": "[水属性抵抗Lv6][致命打抵抗 DX][リラ]クロスオブアルカナ",
+      "item_type": "十字架",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "67e5fa33c541abd8df3ffea2cb1da9f5455a38e56d9e9c332f0f306c953e6bf6"
+    },
+    {
+      "id": "2aba18663032deb1800a5d7c",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "918cd55330e0d72dd534d8a5511aa3983bbb6babd9718bc1ac3efb5757fd3519"
+    },
+    {
+      "id": "6670ffd014412fa6475f276e",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d327c3c78084767fff2fa7e2e3c7f4b28533924ad2dfb3911bb77c02aa25feb6"
+    },
+    {
+      "id": "6cace29a53641ed7e7783ae9",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0ec0224df2e52868d42ad4ecb6258d8a656fa2bddd3524911509d7fc964263a6"
+    },
+    {
+      "id": "daca1550442cb89890fde473",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "94cfcafd64f89aabe5ae2acb29ec55ce9e202e57492ab3651259a0946693c490"
+    }
+  ]
+}

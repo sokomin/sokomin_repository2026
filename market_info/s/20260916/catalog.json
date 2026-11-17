@@ -1,0 +1,187 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260916",
+  "items": [
+    {
+      "id": "98c74491cf96e6c920d6a1dc",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0e19d427845f8925247f05cd5ed5e8ead4c660ab05662bf2b2f58ddfe8ce1c15"
+    },
+    {
+      "id": "9a9b1abe955c7c6ec2c66bc3",
+      "item_key": "a4275aac126d",
+      "item_id": 13355,
+      "name": "クロスオブアルカナ",
+      "display_name": "[浮遊]クロスオブアルカナ",
+      "item_type": "十字架",
+      "price": {
+        "amount": 250,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "315eea9cb2496a07f4f7f6c609019a3f018101c2dca2785fe0c744d2a4883187"
+    },
+    {
+      "id": "0ee32277933c32379d389136",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c149df744aed3e2e0f6c92e5873c0f8f93dfac857bc1277cff60c1e1289f1c6b"
+    },
+    {
+      "id": "53fc450076bf7179e5078cc0",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "16d3ebe0c2ccf8223902874ecef7f1f7eb1c681071d436607fe2c88c6d8c144a"
+    },
+    {
+      "id": "bac0f588bb09df4cb6acc8d2",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "aa2102427231afe43a8e09095bf88c48692bd4359e59127e6fe8ff459e5830f5"
+    },
+    {
+      "id": "6956aa776d0e69ac906a0ded",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "014de5ab0e19ebc54e41a2a6aca117113d916995ef44c7e900f2ead81e6664b1"
+    },
+    {
+      "id": "e498c8ba91659cbd500348bf",
+      "item_key": "963a94cfe64c",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[全属性吸収Lv1][全属性吸収Lv1][恩寵の]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 1300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bfec4ea471965f547fc1fe323ea24d6090d69dce251aa1f4cf8f46faaafe7557"
+    },
+    {
+      "id": "15740f69627e37567d056725",
+      "item_key": "307a68fab3df",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "[浮遊]ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 250,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "205d7954ce5a14814356372cf7bb0b960050f1ebb0b75d771e8ed75c884fa66b"
+    },
+    {
+      "id": "98a571c28876ab92f35c0e8e",
+      "item_key": "307a68fab3df",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "[浮遊]ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 150,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c68138ce28b7ae0c721b7b292b67c3ae8b6337801582b7eeae82025d7c0b3529"
+    },
+    {
+      "id": "2065dc46397eb3484d519a83",
+      "item_key": "22739d0c7ec7",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[大海賊][大海賊][大海賊]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 70,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "48fc976beb86a76601334f69f44a53db41817b4a4c45459bb629381ac0d9d066"
+    }
+  ]
+}

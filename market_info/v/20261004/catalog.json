@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261004",
+  "items": [
+    {
+      "id": "0eb7758d29c5ac3867af4927",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "649c386b1dfd749e8cd662563e932b0c3a42f0e350a97bc8a0d66d72f5419c61"
+    },
+    {
+      "id": "3a03092e072f66538b16c4bd",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "88fa7d1e06bc56a72720a4f3b2b426f805f42e28f2829e80569c78075cb9294b"
+    },
+    {
+      "id": "6f9d049fddc1ebab50ba3383",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f9f6823730010e2eabd5d77475a1a368650847b5d47918ba28d6b3f6fa5e0c0c"
+    },
+    {
+      "id": "d35317a681635c54b253229c",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ac61ffb48a8336451abd8c0326650eb1964f6741ee991f196dea8321e3bfebe3"
+    },
+    {
+      "id": "fc145a0ff4665ba2aae929ea",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c17fd1b60ceab8aac60f91091faf571cd9bd79f640c5c5c19310dec4513322c1"
+    },
+    {
+      "id": "46163432c6953fdfa85a0124",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "81f4eacf28711ac77637ead8972655a1d4a7b640517a2fbd230cce916dd548ab"
+    },
+    {
+      "id": "5d332919831d6f5adec70a01",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d26504ba30b6f38e1d856fe0ec1385ed2508500bde06e469cfd296b83e833d6c"
+    },
+    {
+      "id": "13bcb657f83d3b6c8d71311a",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fff275e4a0ec22cb6f3c084bd23d1870fbce529c0a1514040fab487d79330453"
+    }
+  ]
+}

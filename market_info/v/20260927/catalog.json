@@ -1,0 +1,133 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260927",
+  "items": [
+    {
+      "id": "0ca3a3266002773148390504",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 250,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "649c386b1dfd749e8cd662563e932b0c3a42f0e350a97bc8a0d66d72f5419c61"
+    },
+    {
+      "id": "3f0da2a0506906f8449ba8d0",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ff9196e80194817244c5faac72ea7c074b0cfcb932f5998f35228c71956fd293"
+    },
+    {
+      "id": "fc532dc25197335cb9d4272d",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "39fc1938b594403d61b091812fb2fc6c739ffc2f93794530bbeed1112bb0f22c"
+    },
+    {
+      "id": "eb94712f57edd82fae08bde6",
+      "item_key": "e310dc1fae97",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "[致命打抵抗 DX][団長][団長]クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "963b24049efeb2fb01afecb1e8f182e5e999e8ab08f1092cce44d1373bc46240"
+    },
+    {
+      "id": "2644e3b327d5873e5a283b3b",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8eddea1ec42d9e5cd603148762e61730752fc454619ecae425c8c1a8593bb11a"
+    },
+    {
+      "id": "f06aa5ca508597aee889993c",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "791c930d1ccbca1c97ed0b2ad855843411497c576f7f183f700971abe5332f0e"
+    },
+    {
+      "id": "4c2dfb72fe8ec002f4e2bc90",
+      "item_key": "bf4693ea6dca",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[船長][船長]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d9e6a6f3cbbf194217663df4df51e19558d2897cf11f0bc437fbf819179ad7df"
+    }
+  ]
+}

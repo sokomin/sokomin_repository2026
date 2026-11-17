@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20260828",
+  "items": [
+    {
+      "id": "efe1df34588ab25d180aff16",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "16cea4bc5a6da9988d68f4b489689fa1f1c07cc22b013902f674739835defcfe"
+    },
+    {
+      "id": "55864bcc42f0e45ef61ff3da",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e11d2733a54c661cbceba8db34b4bce96f90c7131c619bda6678eabe307abcbc"
+    }
+  ]
+}

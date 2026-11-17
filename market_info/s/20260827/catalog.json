@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260827",
+  "items": [
+    {
+      "id": "b3d0e83be5bcf7d30691798f",
+      "item_key": "8d8f2bc2209e",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "[恩寵の][狙撃砲兵][狙撃砲兵]グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1cd67fcfc94d06d3fb006f65dfe362fa6dae31e9c6f639a867804dfc28814a80"
+    },
+    {
+      "id": "f8331941819509e49a17325d",
+      "item_key": "08396e2c0f4f",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[浮遊][致命打抵抗 DX]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "94cb2bb650ccd50f7bcd77e6d591a2e030008e72084ac54f3c8d8f757c2b6715"
+    }
+  ]
+}

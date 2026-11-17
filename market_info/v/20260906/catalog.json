@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260906",
+  "items": [
+    {
+      "id": "5255bd8520fbd4e9599c8e1a",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b92aab2089a1a925a1954cbe930487673097e14d943dd17fe0fa7b4a697d2fd6"
+    },
+    {
+      "id": "4ac7ba2cc8bc612ede9b8f3d",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "742f4942caa169b43a4922e54a5bb3344cd90a25aac70ba923d5d5c0992fe9fe"
+    },
+    {
+      "id": "6ee122cf8bde65d647f42173",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ada60087ee02ddd6feee624d10d9f8ea9fc52473226370b221690cd29b782f18"
+    },
+    {
+      "id": "eedce4fe7467b710bf18fb32",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9563edb9003146671d2fd85edaa39ec5a14b99f3eda52e2245b33c56c0984853"
+    }
+  ]
+}

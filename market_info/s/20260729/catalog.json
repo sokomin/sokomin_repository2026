@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260729",
+  "items": [
+    {
+      "id": "998463018bd1aca9feb3d54b",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1e7e044a43d8a9f76c941d128cbdc162962b47844a3ebd699a82facf380e631a"
+    },
+    {
+      "id": "da1636cba5f34020adc00a0b",
+      "item_key": "0e229dac6115",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[大海賊]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cb36005f470b9e9a4040ef02915bd83302e296ce3248252edc1f9aea2c99238b"
+    }
+  ]
+}

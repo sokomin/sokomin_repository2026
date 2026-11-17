@@ -1,0 +1,133 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261004",
+  "items": [
+    {
+      "id": "5bbe3d5aadccd5448af05f0b",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 30000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f4456ec9cb141432a1711c7a7f016637d794aa12d1f0dbd68a8aff49a359f1ef"
+    },
+    {
+      "id": "bd8fb0eb27e7e2337f339724",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 35000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c120d141a6c8a9702d8f6fb4c40d24db63a169b0384ffddaba2498147ae4ba36"
+    },
+    {
+      "id": "e51e595f8b804389532b9573",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "583cea4c81d6f638bec6e00c808e22aa8a51e567771864de3ef2f9f49633d274"
+    },
+    {
+      "id": "425001b296e73e8cbad73188",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9150fefbfd8fbc1725995271fade9ba5b7be48f6c2fb7b59210ec663dd4f824b"
+    },
+    {
+      "id": "5b0753cf424e4ed5786d7cd4",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "626d331d2ea354e82b40cd02271c3c968db47d70e17be278afae0f1328eff802"
+    },
+    {
+      "id": "d5b46edb234600f016abc03e",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cddd2fa539e74e6ed0a18fd6699ca76f71883ac0b407d9fa1969f37239d5fda3"
+    },
+    {
+      "id": "cd9f19fb03f16fe1edfa4217",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fb217621638368fd764109c94f10c0c93e51590ae702efa43d52fbe9c2cbf523"
+    }
+  ]
+}

@@ -3,6 +3,21 @@
   "captures": [
     {
       "server": "v",
+      "date": "20261118",
+      "count": 57
+    },
+    {
+      "server": "s",
+      "date": "20261118",
+      "count": 154
+    },
+    {
+      "server": "b",
+      "date": "20261118",
+      "count": 267
+    },
+    {
+      "server": "v",
       "date": "20261117",
       "count": 50
     },
@@ -34,7 +49,7 @@
     {
       "server": "v",
       "date": "20261115",
-      "count": 44
+      "count": 45
     },
     {
       "server": "s",
@@ -74,17 +89,17 @@
     {
       "server": "b",
       "date": "20261113",
-      "count": 76
+      "count": 77
     },
     {
       "server": "v",
       "date": "20261112",
-      "count": 44
+      "count": 45
     },
     {
       "server": "s",
       "date": "20261112",
-      "count": 284
+      "count": 285
     },
     {
       "server": "b",
@@ -99,7 +114,7 @@
     {
       "server": "s",
       "date": "20261111",
-      "count": 343
+      "count": 345
     },
     {
       "server": "b",
@@ -109,17 +124,17 @@
     {
       "server": "v",
       "date": "20261110",
-      "count": 9
+      "count": 15
     },
     {
       "server": "s",
       "date": "20261110",
-      "count": 337
+      "count": 343
     },
     {
       "server": "b",
       "date": "20261110",
-      "count": 55
+      "count": 69
     },
     {
       "server": "v",
@@ -129,7 +144,7 @@
     {
       "server": "s",
       "date": "20261109",
-      "count": 271
+      "count": 274
     },
     {
       "server": "b",
@@ -144,7 +159,7 @@
     {
       "server": "s",
       "date": "20261108",
-      "count": 355
+      "count": 358
     },
     {
       "server": "b",
@@ -174,12 +189,12 @@
     {
       "server": "s",
       "date": "20261106",
-      "count": 342
+      "count": 343
     },
     {
       "server": "b",
       "date": "20261106",
-      "count": 264
+      "count": 265
     },
     {
       "server": "v",
@@ -189,12 +204,12 @@
     {
       "server": "s",
       "date": "20261105",
-      "count": 371
+      "count": 372
     },
     {
       "server": "b",
       "date": "20261105",
-      "count": 311
+      "count": 312
     },
     {
       "server": "v",
@@ -204,7 +219,7 @@
     {
       "server": "s",
       "date": "20261104",
-      "count": 401
+      "count": 403
     },
     {
       "server": "b",
@@ -234,7 +249,7 @@
     {
       "server": "s",
       "date": "20261102",
-      "count": 351
+      "count": 353
     },
     {
       "server": "b",
@@ -244,32 +259,1532 @@
     {
       "server": "v",
       "date": "20261101",
-      "count": 56
+      "count": 59
     },
     {
       "server": "s",
       "date": "20261101",
-      "count": 319
+      "count": 324
     },
     {
       "server": "b",
       "date": "20261101",
-      "count": 389
+      "count": 395
+    },
+    {
+      "server": "v",
+      "date": "20261031",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20261031",
+      "count": 9
     },
     {
       "server": "b",
       "date": "20261031",
+      "count": 16
+    },
+    {
+      "server": "v",
+      "date": "20261030",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20261030",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20261030",
+      "count": 14
+    },
+    {
+      "server": "v",
+      "date": "20261029",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20261029",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20261029",
+      "count": 14
+    },
+    {
+      "server": "s",
+      "date": "20261028",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20261028",
+      "count": 7
+    },
+    {
+      "server": "v",
+      "date": "20261026",
+      "count": 5
+    },
+    {
+      "server": "s",
+      "date": "20261026",
       "count": 3
     },
     {
       "server": "b",
+      "date": "20261026",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20261025",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20261025",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20261025",
+      "count": 6
+    },
+    {
+      "server": "v",
+      "date": "20261024",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20261024",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20261024",
+      "count": 4
+    },
+    {
+      "server": "v",
+      "date": "20261023",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20261023",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20261023",
+      "count": 13
+    },
+    {
+      "server": "v",
+      "date": "20261022",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20261022",
+      "count": 4
+    },
+    {
+      "server": "v",
+      "date": "20261021",
+      "count": 10
+    },
+    {
+      "server": "s",
+      "date": "20261021",
+      "count": 7
+    },
+    {
+      "server": "b",
+      "date": "20261021",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20261020",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20261020",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20261020",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20261019",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20261019",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20261019",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20261018",
+      "count": 6
+    },
+    {
+      "server": "s",
+      "date": "20261018",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20261018",
+      "count": 14
+    },
+    {
+      "server": "v",
+      "date": "20261017",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20261017",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20261017",
+      "count": 5
+    },
+    {
+      "server": "v",
+      "date": "20261016",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20261016",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20261016",
+      "count": 11
+    },
+    {
+      "server": "v",
+      "date": "20261015",
+      "count": 3
+    },
+    {
+      "server": "s",
+      "date": "20261015",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20261015",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20261014",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20261014",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20261014",
+      "count": 12
+    },
+    {
+      "server": "v",
+      "date": "20261013",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20261013",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20261013",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20261012",
+      "count": 5
+    },
+    {
+      "server": "s",
+      "date": "20261012",
+      "count": 9
+    },
+    {
+      "server": "b",
+      "date": "20261012",
+      "count": 15
+    },
+    {
+      "server": "v",
+      "date": "20261011",
+      "count": 12
+    },
+    {
+      "server": "s",
+      "date": "20261011",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20261011",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20261010",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20261010",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20261010",
+      "count": 5
+    },
+    {
+      "server": "v",
+      "date": "20261009",
+      "count": 9
+    },
+    {
+      "server": "s",
+      "date": "20261009",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20261009",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20261008",
+      "count": 9
+    },
+    {
+      "server": "s",
+      "date": "20261008",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20261008",
+      "count": 4
+    },
+    {
+      "server": "v",
+      "date": "20261007",
+      "count": 6
+    },
+    {
+      "server": "s",
+      "date": "20261007",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20261007",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20261006",
+      "count": 3
+    },
+    {
+      "server": "s",
+      "date": "20261006",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20261006",
+      "count": 9
+    },
+    {
+      "server": "s",
+      "date": "20261005",
+      "count": 7
+    },
+    {
+      "server": "b",
+      "date": "20261005",
+      "count": 11
+    },
+    {
+      "server": "v",
+      "date": "20261004",
+      "count": 8
+    },
+    {
+      "server": "s",
+      "date": "20261004",
+      "count": 7
+    },
+    {
+      "server": "b",
+      "date": "20261004",
+      "count": 7
+    },
+    {
+      "server": "v",
+      "date": "20261003",
+      "count": 6
+    },
+    {
+      "server": "s",
+      "date": "20261003",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20261003",
+      "count": 11
+    },
+    {
+      "server": "v",
+      "date": "20261002",
+      "count": 10
+    },
+    {
+      "server": "s",
+      "date": "20261002",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20261002",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20261001",
+      "count": 5
+    },
+    {
+      "server": "s",
+      "date": "20261001",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20261001",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20260930",
+      "count": 6
+    },
+    {
+      "server": "s",
+      "date": "20260930",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260930",
+      "count": 13
+    },
+    {
+      "server": "v",
+      "date": "20260929",
+      "count": 15
+    },
+    {
+      "server": "s",
+      "date": "20260929",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20260929",
+      "count": 7
+    },
+    {
+      "server": "v",
+      "date": "20260928",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20260928",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260928",
+      "count": 6
+    },
+    {
+      "server": "v",
+      "date": "20260927",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20260927",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260927",
+      "count": 14
+    },
+    {
+      "server": "v",
+      "date": "20260926",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20260926",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260926",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20260925",
+      "count": 3
+    },
+    {
+      "server": "s",
+      "date": "20260925",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260925",
+      "count": 7
+    },
+    {
+      "server": "v",
+      "date": "20260924",
+      "count": 8
+    },
+    {
+      "server": "s",
+      "date": "20260924",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260924",
+      "count": 10
+    },
+    {
+      "server": "v",
       "date": "20260923",
+      "count": 11
+    },
+    {
+      "server": "s",
+      "date": "20260923",
+      "count": 6
+    },
+    {
+      "server": "b",
+      "date": "20260923",
+      "count": 14
+    },
+    {
+      "server": "v",
+      "date": "20260922",
+      "count": 6
+    },
+    {
+      "server": "s",
+      "date": "20260922",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20260922",
+      "count": 10
+    },
+    {
+      "server": "v",
+      "date": "20260921",
+      "count": 8
+    },
+    {
+      "server": "s",
+      "date": "20260921",
+      "count": 9
+    },
+    {
+      "server": "b",
+      "date": "20260921",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20260920",
+      "count": 11
+    },
+    {
+      "server": "s",
+      "date": "20260920",
+      "count": 7
+    },
+    {
+      "server": "b",
+      "date": "20260920",
+      "count": 7
+    },
+    {
+      "server": "v",
+      "date": "20260919",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20260919",
+      "count": 11
+    },
+    {
+      "server": "b",
+      "date": "20260919",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20260918",
+      "count": 6
+    },
+    {
+      "server": "s",
+      "date": "20260918",
+      "count": 6
+    },
+    {
+      "server": "b",
+      "date": "20260918",
+      "count": 15
+    },
+    {
+      "server": "v",
+      "date": "20260916",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20260916",
+      "count": 10
+    },
+    {
+      "server": "b",
+      "date": "20260916",
+      "count": 12
+    },
+    {
+      "server": "s",
+      "date": "20260915",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20260915",
+      "count": 4
+    },
+    {
+      "server": "v",
+      "date": "20260914",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260914",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260914",
+      "count": 7
+    },
+    {
+      "server": "v",
+      "date": "20260913",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260913",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20260913",
+      "count": 6
+    },
+    {
+      "server": "v",
+      "date": "20260912",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260912",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260912",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20260911",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260911",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260911",
+      "count": 11
+    },
+    {
+      "server": "b",
+      "date": "20260910",
+      "count": 10
+    },
+    {
+      "server": "v",
+      "date": "20260909",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260909",
+      "count": 7
+    },
+    {
+      "server": "b",
+      "date": "20260909",
+      "count": 11
+    },
+    {
+      "server": "v",
+      "date": "20260908",
+      "count": 3
+    },
+    {
+      "server": "s",
+      "date": "20260908",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260908",
+      "count": 2
+    },
+    {
+      "server": "v",
+      "date": "20260907",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20260907",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260907",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20260906",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20260906",
+      "count": 6
+    },
+    {
+      "server": "b",
+      "date": "20260906",
+      "count": 18
+    },
+    {
+      "server": "v",
+      "date": "20260905",
+      "count": 9
+    },
+    {
+      "server": "s",
+      "date": "20260905",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20260905",
+      "count": 12
+    },
+    {
+      "server": "v",
+      "date": "20260904",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260904",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20260904",
+      "count": 5
+    },
+    {
+      "server": "v",
+      "date": "20260903",
+      "count": 5
+    },
+    {
+      "server": "s",
+      "date": "20260903",
+      "count": 3
+    },
+    {
+      "server": "v",
+      "date": "20260902",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260902",
+      "count": 7
+    },
+    {
+      "server": "b",
+      "date": "20260902",
+      "count": 10
+    },
+    {
+      "server": "s",
+      "date": "20260831",
+      "count": 11
+    },
+    {
+      "server": "b",
+      "date": "20260831",
+      "count": 7
+    },
+    {
+      "server": "v",
+      "date": "20260830",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260830",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260830",
+      "count": 11
+    },
+    {
+      "server": "s",
+      "date": "20260829",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260829",
+      "count": 18
+    },
+    {
+      "server": "s",
+      "date": "20260828",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260828",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260827",
       "count": 2
     },
     {
       "server": "b",
       "date": "20260827",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20260826",
       "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260826",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260826",
+      "count": 17
+    },
+    {
+      "server": "b",
+      "date": "20260824",
+      "count": 16
+    },
+    {
+      "server": "s",
+      "date": "20260823",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260823",
+      "count": 5
+    },
+    {
+      "server": "s",
+      "date": "20260822",
+      "count": 7
+    },
+    {
+      "server": "b",
+      "date": "20260822",
+      "count": 11
+    },
+    {
+      "server": "s",
+      "date": "20260821",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260821",
+      "count": 2
+    },
+    {
+      "server": "v",
+      "date": "20260820",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20260820",
+      "count": 5
+    },
+    {
+      "server": "v",
+      "date": "20260819",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260819",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20260819",
+      "count": 12
+    },
+    {
+      "server": "v",
+      "date": "20260818",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260818",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260818",
+      "count": 13
+    },
+    {
+      "server": "b",
+      "date": "20260817",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20260816",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20260816",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260816",
+      "count": 7
+    },
+    {
+      "server": "v",
+      "date": "20260815",
+      "count": 8
+    },
+    {
+      "server": "s",
+      "date": "20260815",
+      "count": 1
+    },
+    {
+      "server": "b",
+      "date": "20260815",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20260814",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260814",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20260814",
+      "count": 12
+    },
+    {
+      "server": "s",
+      "date": "20260813",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260813",
+      "count": 6
+    },
+    {
+      "server": "s",
+      "date": "20260812",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20260812",
+      "count": 12
+    },
+    {
+      "server": "s",
+      "date": "20260811",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260811",
+      "count": 12
+    },
+    {
+      "server": "v",
+      "date": "20260810",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260810",
+      "count": 9
+    },
+    {
+      "server": "b",
+      "date": "20260810",
+      "count": 15
+    },
+    {
+      "server": "v",
+      "date": "20260809",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260809",
+      "count": 6
+    },
+    {
+      "server": "b",
+      "date": "20260809",
+      "count": 17
+    },
+    {
+      "server": "s",
+      "date": "20260808",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20260808",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260807",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260807",
+      "count": 4
+    },
+    {
+      "server": "v",
+      "date": "20260806",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260806",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260806",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20260805",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260805",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20260805",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20260804",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260804",
+      "count": 5
+    },
+    {
+      "server": "v",
+      "date": "20260803",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260803",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20260803",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20260802",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260802",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20260802",
+      "count": 8
+    },
+    {
+      "server": "s",
+      "date": "20260801",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260801",
+      "count": 7
+    },
+    {
+      "server": "v",
+      "date": "20260731",
+      "count": 3
+    },
+    {
+      "server": "s",
+      "date": "20260731",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20260731",
+      "count": 10
+    },
+    {
+      "server": "v",
+      "date": "20260729",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260729",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20260729",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20260728",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20260728",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260728",
+      "count": 11
+    },
+    {
+      "server": "s",
+      "date": "20260727",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260727",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20260726",
+      "count": 2
+    },
+    {
+      "server": "b",
+      "date": "20260726",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20260725",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260725",
+      "count": 7
+    },
+    {
+      "server": "b",
+      "date": "20260725",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20260724",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20260724",
+      "count": 1
+    },
+    {
+      "server": "v",
+      "date": "20260723",
+      "count": 5
+    },
+    {
+      "server": "s",
+      "date": "20260723",
+      "count": 9
+    },
+    {
+      "server": "b",
+      "date": "20260723",
+      "count": 6
+    },
+    {
+      "server": "v",
+      "date": "20260721",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260721",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20260721",
+      "count": 13
+    },
+    {
+      "server": "v",
+      "date": "20260720",
+      "count": 10
+    },
+    {
+      "server": "s",
+      "date": "20260720",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20260720",
+      "count": 18
+    },
+    {
+      "server": "v",
+      "date": "20260719",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260719",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20260719",
+      "count": 13
+    },
+    {
+      "server": "v",
+      "date": "20260717",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260717",
+      "count": 10
+    },
+    {
+      "server": "b",
+      "date": "20260717",
+      "count": 14
+    },
+    {
+      "server": "v",
+      "date": "20260716",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260716",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260716",
+      "count": 14
+    },
+    {
+      "server": "v",
+      "date": "20260715",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20260715",
+      "count": 4
+    },
+    {
+      "server": "b",
+      "date": "20260715",
+      "count": 19
+    },
+    {
+      "server": "v",
+      "date": "20260713",
+      "count": 4
+    },
+    {
+      "server": "s",
+      "date": "20260713",
+      "count": 5
+    },
+    {
+      "server": "v",
+      "date": "20260712",
+      "count": 3
+    },
+    {
+      "server": "s",
+      "date": "20260712",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260712",
+      "count": 11
+    },
+    {
+      "server": "v",
+      "date": "20260711",
+      "count": 6
+    },
+    {
+      "server": "s",
+      "date": "20260711",
+      "count": 9
+    },
+    {
+      "server": "b",
+      "date": "20260711",
+      "count": 10
+    },
+    {
+      "server": "v",
+      "date": "20260710",
+      "count": 6
+    },
+    {
+      "server": "s",
+      "date": "20260710",
+      "count": 6
+    },
+    {
+      "server": "b",
+      "date": "20260710",
+      "count": 5
+    },
+    {
+      "server": "v",
+      "date": "20260709",
+      "count": 7
+    },
+    {
+      "server": "s",
+      "date": "20260709",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20260709",
+      "count": 9
+    },
+    {
+      "server": "v",
+      "date": "20260708",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260708",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20260708",
+      "count": 8
+    },
+    {
+      "server": "v",
+      "date": "20260707",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260707",
+      "count": 3
+    },
+    {
+      "server": "b",
+      "date": "20260707",
+      "count": 18
+    },
+    {
+      "server": "v",
+      "date": "20260706",
+      "count": 2
+    },
+    {
+      "server": "s",
+      "date": "20260706",
+      "count": 5
+    },
+    {
+      "server": "b",
+      "date": "20260706",
+      "count": 13
+    },
+    {
+      "server": "v",
+      "date": "20260705",
+      "count": 1
+    },
+    {
+      "server": "s",
+      "date": "20260705",
+      "count": 8
+    },
+    {
+      "server": "b",
+      "date": "20260705",
+      "count": 14
     }
   ]
 }

@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260912",
+  "items": [
+    {
+      "id": "c94faa124fb74910fefdc09e",
+      "item_key": "b8aa931d2690",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイドマスター][メイドマスター][恩寵の]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a9191cc990c0177ae117934103c180af8a8f8e5cd42e36059fb6afeaed3cc970"
+    },
+    {
+      "id": "0b78a9db73338d5b09230647",
+      "item_key": "e984bfda0b2b",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "[恩寵の][致命打抵抗 DX]ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "968b1950c5802bfb52cdee6dae32fe3cf6ed83da1e82ef9188593b345a3245b4"
+    }
+  ]
+}

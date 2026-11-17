@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260716",
+  "items": [
+    {
+      "id": "887f7fd79b29285e6479a7b0",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 120,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "25e9132945e19753583d7f16bae19ac9b47033a4bc06b29e47e60c1df6a733d7"
+    },
+    {
+      "id": "323e8e754d13aa40de887688",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "791c930d1ccbca1c97ed0b2ad855843411497c576f7f183f700971abe5332f0e"
+    },
+    {
+      "id": "2bf6fd015c284c055ce4c4a7",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "50ed6a6b28dcff600d507bad1203e17a92c21546c2da2021700d7364ecd4c464"
+    }
+  ]
+}

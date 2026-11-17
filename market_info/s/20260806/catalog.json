@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260806",
+  "items": [
+    {
+      "id": "b2588dff5be65f6992b1798f",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1e7e044a43d8a9f76c941d128cbdc162962b47844a3ebd699a82facf380e631a"
+    },
+    {
+      "id": "38cbb96066b3c4efcd266e6f",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 90,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a06153a04ae0317e47dabdea4bd0e93a8b70b3359c2783fddebd703f3283e506"
+    },
+    {
+      "id": "6267f2357c34bd1f25895b8d",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c1557940c4922daf99e3225fce996f4d1693b40bcb0b94c02beca93c15091472"
+    }
+  ]
+}

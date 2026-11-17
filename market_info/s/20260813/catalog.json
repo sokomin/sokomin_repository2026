@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260813",
+  "items": [
+    {
+      "id": "33a46fcb5aedfacc2c2b60e9",
+      "item_key": "8d8f2bc2209e",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "[恩寵の][狙撃砲兵][狙撃砲兵]グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5914c8a219375cc7946dbace155be0922cf03fdf08fd6d36b963be92b2c5eaa7"
+    },
+    {
+      "id": "d18c41bf7e10d32257ab6b20",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c1557940c4922daf99e3225fce996f4d1693b40bcb0b94c02beca93c15091472"
+    },
+    {
+      "id": "7034aff20096e1947b4f77db",
+      "item_key": "963a94cfe64c",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[全属性吸収Lv1][全属性吸収Lv1][恩寵の]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 1100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bfec4ea471965f547fc1fe323ea24d6090d69dce251aa1f4cf8f46faaafe7557"
+    },
+    {
+      "id": "99e8b0f9833e83c65594a714",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bde73ee5ac44033b89dd173c15a1ca825733f9febac5053271673361b8f1b44b"
+    },
+    {
+      "id": "828884c18285ea57674b48c0",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0da22759289e372ccfae18663c55476da6a0d34253f37a5294f9e330eae6ef9e"
+    }
+  ]
+}

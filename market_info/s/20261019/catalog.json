@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261019",
+  "items": [
+    {
+      "id": "bda2d0745dab836e00048f3b",
+      "item_key": "11c62019bdf9",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "[恩寵の]アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d855a73b4ead83fc5480ef671747bf19ede5ff7bd7c2a190e91bcf93c6249ed0"
+    },
+    {
+      "id": "2755ffb326f021bedcc0181d",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 77,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "01695549bf71f061592a5342f34e12427714360c59d91fc63f58feac17d1f30e"
+    },
+    {
+      "id": "b4f3976ed936bda8d6143e13",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c5df404fcbbea1573c874a0f9a75ebd7747887b4c3837083c9ed50bc6a8f423e"
+    },
+    {
+      "id": "2eb1f7323671a95a8b599536",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2a489821867b190b6e3740bf93651f6ba84566206a4f562c8994cfe23c62d566"
+    }
+  ]
+}

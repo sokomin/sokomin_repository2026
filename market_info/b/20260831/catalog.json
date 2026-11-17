@@ -1,0 +1,133 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20260831",
+  "items": [
+    {
+      "id": "6a142d499c8b16f07f151e14",
+      "item_key": "7002b7f42374",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "[攻撃Lv4][攻撃Lv3][攻撃Lv4]アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 35,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "bf780b3bc8eb46c5a452bcb7bcc80a07cf619b1e07e6be3f82c890e14986dbc7"
+    },
+    {
+      "id": "5150feb0fb8465865f1bc1cf",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "71fc4e9127eb0c196032f424c17e3fb3f86d6c577dfbed77d5777087ca405b06"
+    },
+    {
+      "id": "60f12ac8a3e404cb5f5a1f2f",
+      "item_key": "413740e871a3",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "[極意の]カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b7ebd6f42aa18e580f054ec8c7b5c95bd434557f1ecc50e5ba2c67b9cb4f6172"
+    },
+    {
+      "id": "2bcc64a022ad2c3ea5439b08",
+      "item_key": "62481fc3e91b",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f0f8ac430a9f821143eca50b2102f074ca3a40cd8a1e38e8ab487c4f2e93d0bd"
+    },
+    {
+      "id": "993e264a45a7037d2a4a9abc",
+      "item_key": "fa195a4a7b34",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイド長][メイド長][極意の]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 35,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5516a7db522b16c935cfd3d24ba2950cc53f839ac213d62d0520c1ce3c9ccd83"
+    },
+    {
+      "id": "5137f623daf5cbc75ba98e6f",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "73db20ee2e9e51190ee47ec096233e7a30b576f6d4bed7719c7ddc5fa9be094d"
+    },
+    {
+      "id": "0e0ec4afaab84f40d43140e4",
+      "item_key": "d0e76de516d0",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "[風属性攻撃Lv3][極意の][風属性攻撃Lv2]フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4bd00e49b78451c4a91821c4c9a7745f23bf4503be0ec8a2fe1982ceaab190e0"
+    }
+  ]
+}

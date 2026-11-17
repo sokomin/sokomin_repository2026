@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261029",
+  "items": [
+    {
+      "id": "862273a7f9e0559c9fa5233c",
+      "item_key": "4d487845b1d9",
+      "item_id": 13355,
+      "name": "クロスオブアルカナ",
+      "display_name": "[恩寵の][暗黒魔女][暗黒魔女]クロスオブアルカナ",
+      "item_type": "十字架",
+      "price": {
+        "amount": 400,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "e821db8cb05f8b1cdc763a358244c7eef45d67c334684944087eba187f3fd5ae"
+    },
+    {
+      "id": "122ee4b813da3b32ac378b5b",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c4545992cad4e551a8bb3c3492c210bc7cb00a3096cc1df70f53d5f1ab107c9a"
+    }
+  ]
+}

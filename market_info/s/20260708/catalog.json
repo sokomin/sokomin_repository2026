@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260708",
+  "items": [
+    {
+      "id": "d65b90565eda7acdc3afbea9",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cfc7c32be09034d2686e2c2912c15368517c6dac20e6b39642527d9be26d72be"
+    },
+    {
+      "id": "d55a196fce59d8efe4f044a2",
+      "item_key": "3a6b3cf66ca7",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 20,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2a0ca5435ae2a3a87de487a359f1992d309742a9db08041c23c1c1b33efe6213"
+    },
+    {
+      "id": "b7a0283f1a65599fb376c96a",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "583cea4c81d6f638bec6e00c808e22aa8a51e567771864de3ef2f9f49633d274"
+    },
+    {
+      "id": "d90a0d064cd1c2e206153351",
+      "item_key": "36b37f25bea1",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイド長]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b75c234455cc55648cfb819e26927fa2632182ba96658a5a01e9a4ec12afdec4"
+    },
+    {
+      "id": "a142f5b61027c45de8a66222",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "aec1aaff70274bec494b05ffd8bbb134324de118b85d6ae8b664ca7d9e2c5c12"
+    },
+    {
+      "id": "7603beba0b98b37eddb4838a",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2a489821867b190b6e3740bf93651f6ba84566206a4f562c8994cfe23c62d566"
+    },
+    {
+      "id": "b0c76d45163514cfd9ab0c75",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ad689320b0ac451eb3feedbcd097fe0751db672a6d1d104e195f5508adc67b56"
+    },
+    {
+      "id": "b6c788d6972138f4d0730ab7",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0da22759289e372ccfae18663c55476da6a0d34253f37a5294f9e330eae6ef9e"
+    }
+  ]
+}

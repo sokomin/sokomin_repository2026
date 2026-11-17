@@ -1,0 +1,169 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260723",
+  "items": [
+    {
+      "id": "830075a8be030a920da2f26f",
+      "item_key": "62481fc3e91b",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8ddb677e192cf2b1d4cf88aee955d740dc11a640a097e1ed46db91aaeb2d7187"
+    },
+    {
+      "id": "6be8e840c768a68fe5531e87",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2810839154d995f0c08e08afc6580735f30b8db05c100486ee3282fae8908f7a"
+    },
+    {
+      "id": "70049500452019590d641254",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3dcb0249f1b5eddbc1703ee16a99e3cf0e75a6bf040c3cc5e7206cb871dfd60c"
+    },
+    {
+      "id": "e85ac8f69c812c8ba466cf95",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "22b9d3aea07d59662275f8633a101d3fbab5626d00f48d1ede308acee6f3dbf4"
+    },
+    {
+      "id": "6458d17d26345601f5435277",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "963cf61bab5610f19b439182dcad6c0bed662163692f1ca6cb7eb30d602d825f"
+    },
+    {
+      "id": "c01ecaf881f2fde3e50b9240",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "84d0d259c46ebd86d0aec0e27b768fd478d07b5a9fd1ea16da5937a2a44c2944"
+    },
+    {
+      "id": "2076733476755e56b82478bd",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ad689320b0ac451eb3feedbcd097fe0751db672a6d1d104e195f5508adc67b56"
+    },
+    {
+      "id": "4501112101d32fc93429b8b9",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0da22759289e372ccfae18663c55476da6a0d34253f37a5294f9e330eae6ef9e"
+    },
+    {
+      "id": "413604ef17afdb55081d1e2b",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8f34bff8eac1685c1146201b4c4807a0bb353d17b31ae5fd7c3e4a5fe2eb6f1a"
+    }
+  ]
+}

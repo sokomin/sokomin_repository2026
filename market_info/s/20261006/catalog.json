@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261006",
+  "items": [
+    {
+      "id": "cf95067927b7a9c0aea82a65",
+      "item_key": "0cde98af85ab",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイドマスター][メイドマスター][メイドマスター]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8e4c4314be1a96ab1b66d8daf1127711306b62616166e9ab675594d3aba0a3fd"
+    },
+    {
+      "id": "beca45457cce41d79413fa99",
+      "item_key": "a2f169e75f2c",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "[魔槍兵]ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "98467af5a7f25c770134f3130763acaf99cd8bb2d081d8b8e962a84b3dbfdd65"
+    }
+  ]
+}

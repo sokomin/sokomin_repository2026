@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261007",
+  "items": [
+    {
+      "id": "f95571dadaaf078bf94b436c",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ff9196e80194817244c5faac72ea7c074b0cfcb932f5998f35228c71956fd293"
+    },
+    {
+      "id": "309bae39e291a300a934f424",
+      "item_key": "ed9de7d132fd",
+      "item_id": 13355,
+      "name": "クロスオブアルカナ",
+      "display_name": "クロスオブアルカナ",
+      "item_type": "十字架",
+      "price": {
+        "amount": 6,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "427ac14b6b19bfd49fcb65dfe934c6e282ea895e452a5d7ff4b776a283aaa007"
+    },
+    {
+      "id": "d87c09cbee07e4dbf1ac774c",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1b959ee5cf98ca4e98db6e4a99d6924c3e1a86b7b09054c87072db1523cfd59f"
+    },
+    {
+      "id": "d88e6608aa1c4cad1d8a73c6",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f2003c170ff305c1cb4d594685fb237e10f388688cbb34179957e43cd5b302ae"
+    },
+    {
+      "id": "405cbe3f00d53600bc04dd67",
+      "item_key": "22739d0c7ec7",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[大海賊][大海賊][大海賊]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "48fc976beb86a76601334f69f44a53db41817b4a4c45459bb629381ac0d9d066"
+    }
+  ]
+}

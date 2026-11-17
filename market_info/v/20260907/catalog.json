@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260907",
+  "items": [
+    {
+      "id": "7aabd346d14d3aa56070614d",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "649c386b1dfd749e8cd662563e932b0c3a42f0e350a97bc8a0d66d72f5419c61"
+    },
+    {
+      "id": "fee91181c3dcc39400feea4f",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8c24f9cd71eebeae13560c6bcaf042f10d32fcf8fd4739e864e7c6e96738d5ab"
+    },
+    {
+      "id": "ebd3a53a3b23083ac68848ae",
+      "item_key": "2ef84a08dc51",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[致命打抵抗 DX]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d079fee8d985feb637246e0861f4b7966ac4cc4d6896f9b057d76dd23ad6b82c"
+    },
+    {
+      "id": "e61e3a319df8f82972e156b9",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "92f1cc05d71ee7ba17fc2d612d7c2394d041ff24a5f7e6f7125c43d6d8e806ea"
+    }
+  ]
+}

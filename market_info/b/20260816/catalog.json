@@ -1,0 +1,133 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20260816",
+  "items": [
+    {
+      "id": "8d2539efaa492044d0770226",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ec6bb093141fc88af6f47aa69d9cbaf5a48414b6ea58dfa726147d075d36eb10"
+    },
+    {
+      "id": "778ad9bd8e61a3be836726ae",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "777f23fc11e5b7979fed0d5143fc00b3f2843747d82bf8b38bd1b38c5d4bf816"
+    },
+    {
+      "id": "952ba318580f9bbf64007bd9",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3a4a3d42b4836191fd18e308976e2cf6e0303a214037a6300ca96ee0a83e5af4"
+    },
+    {
+      "id": "da906475e67ddfbd146a7e10",
+      "item_key": "1046a8566bda",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "[闘犬]シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0cf5ca1e0e053796a85127a87f891f0492b65a8ebf27befce74e5a4aef52b78c"
+    },
+    {
+      "id": "e4b129e7f74c370ae76475ec",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ac6e33a7acf7580fccb64ada3b56619bd01975a9022a65993c194d44135524fb"
+    },
+    {
+      "id": "d0930fba1d724cdb56d3b53a",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 90,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "17432f752b2dc4d035c3f2e17914649a6a9615c75e8b7a0bb84621b664b015d5"
+    },
+    {
+      "id": "933f07e86c91c4145205b0f9",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3cc53786b55643bba0ff93d7a44d472e0db345af53ddc38fb2998e3ba4f2610d"
+    }
+  ]
+}

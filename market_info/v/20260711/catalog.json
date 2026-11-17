@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260711",
+  "items": [
+    {
+      "id": "dd9a4b6d6121a2ebe416f14a",
+      "item_key": "06e57cd0a679",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "[司教][司祭]ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 180,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c7450bd7597aba7ea2ff9a772c1c852e17188fd2326cc894b0ee9954aa572bc7"
+    },
+    {
+      "id": "82738ea71aa225881b848db1",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "389fa48adf5dd176d700caf375be0dc091147fe4e03a718d291f1561d98c37c6"
+    },
+    {
+      "id": "71f1282826d8a0a5c872575d",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "01695549bf71f061592a5342f34e12427714360c59d91fc63f58feac17d1f30e"
+    },
+    {
+      "id": "ebddcd23e9d7538e0d6a1e5b",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a2fad226db7d87b2838f3f6d338ea1be3bc2e0db9653f73ae392ed6192a947f6"
+    },
+    {
+      "id": "73e47e4fe3706b77fa641586",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3e99766f83558c83130a0236d62c74e9cc5689cffc4e90a73a21f7e09c733fc5"
+    },
+    {
+      "id": "df8b0dd17631e6fae09fff1e",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6ef1cb446ea96cb95d5d80c450426a990a49230e20fa4a1fd1a0fa3f77ac9388"
+    }
+  ]
+}

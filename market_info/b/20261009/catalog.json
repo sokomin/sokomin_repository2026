@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261009",
+  "items": [
+    {
+      "id": "b156d9f89b0f1d0f72cb02ee",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "918cd55330e0d72dd534d8a5511aa3983bbb6babd9718bc1ac3efb5757fd3519"
+    },
+    {
+      "id": "98a545423f5358ed236166d9",
+      "item_key": "379edf222e11",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "[銀狼]シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 6,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "88b3168d39b57831dc7ef4d942214df898f75bac42d83cedb741810a7dd85f40"
+    },
+    {
+      "id": "e512652d043195212397089f",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "acd1cf83e27dd4cd092023b2b5d3cc900071ed272949ee5b7593d3953d7d2fe0"
+    },
+    {
+      "id": "e584a59f877e407afa35b32e",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ac6e33a7acf7580fccb64ada3b56619bd01975a9022a65993c194d44135524fb"
+    },
+    {
+      "id": "458476eadc03e765a9049915",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "548eb1729a8ccb3b5d335a669e3b612f073840c29c575842c4a5a1ca2e505df2"
+    },
+    {
+      "id": "6814ade852b9f1e7a348b0d9",
+      "item_key": "559a8ead42ec",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "[獣王][猛獣]ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 15,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ca51c2fcd429a2141d70e003b2a71f687db3fbfefa0892a7ea0a2fa7793cf8c7"
+    },
+    {
+      "id": "ddf33a6d0eeda8b7c951d572",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c9523b63486d30747db77491caafedbf4260b8906103ede1c468b23198e6e0c8"
+    },
+    {
+      "id": "6a091ce1b78443c5ae7e4a06",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0e0f4d69a5978d6637d9e15ac870c0e82491c30738e86fc51955907e8acd3249"
+    }
+  ]
+}

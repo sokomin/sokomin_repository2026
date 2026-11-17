@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261015",
+  "items": [
+    {
+      "id": "150c00d933c8845e2cb77bfb",
+      "item_key": "8fbd93589267",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "[恩寵の][致命打抵抗 DX]クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 999,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0dd67f1f1b63366d1ade11cf74b35b06a0ef00a5aafeb4926b08f8d442789278"
+    },
+    {
+      "id": "eef4da5ed7f4d7734f31ee48",
+      "item_key": "c2840d916e27",
+      "item_id": 13351,
+      "name": "フラスコオブアルカナ",
+      "display_name": "フラスコオブアルカナ",
+      "item_type": "スリング弾丸",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d2925b2b235e16d74db968c93ee9dce5084d3c8c178f9424ddb8e30f9f771065"
+    },
+    {
+      "id": "6fe25e7123923b9b83c63c69",
+      "item_key": "bf4693ea6dca",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[船長][船長]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d9e6a6f3cbbf194217663df4df51e19558d2897cf11f0bc437fbf819179ad7df"
+    }
+  ]
+}

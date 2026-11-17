@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261020",
+  "items": [
+    {
+      "id": "555fff5c8a6cda12cf4622bb",
+      "item_key": "11c62019bdf9",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "[恩寵の]アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d855a73b4ead83fc5480ef671747bf19ede5ff7bd7c2a190e91bcf93c6249ed0"
+    },
+    {
+      "id": "0050fb611c803b558eadaf12",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c5df404fcbbea1573c874a0f9a75ebd7747887b4c3837083c9ed50bc6a8f423e"
+    },
+    {
+      "id": "0191325c083b9b4f2982f797",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "38c8ac01b7794129cd9b88946277339e68e4b48264ce1e4668d0be8fecb98810"
+    },
+    {
+      "id": "5cbb446396ccfb3aea1b2f30",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 50000000,
+        "currency": "gold"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "626d331d2ea354e82b40cd02271c3c968db47d70e17be278afae0f1328eff802"
+    }
+  ]
+}

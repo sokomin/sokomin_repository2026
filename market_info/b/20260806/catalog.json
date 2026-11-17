@@ -1,0 +1,151 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20260806",
+  "items": [
+    {
+      "id": "d44845de4aa1c7f16e86487e",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 60,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ec6bb093141fc88af6f47aa69d9cbaf5a48414b6ea58dfa726147d075d36eb10"
+    },
+    {
+      "id": "b9eab110b9625688b29cb36f",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4a86e2174b31f93946820e810a3ca8039f192a53215216d1cc73da1695d0284d"
+    },
+    {
+      "id": "0db0045be55228c7ca9f61e5",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 70,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8293df5dbabe08c6298049a4cb2e2bf9b34669d79e9b57b3e2426cfac28be5bb"
+    },
+    {
+      "id": "3d376681fe02f45d91a6c327",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2fe9c7803fb9fcd0caf3832ab6b72d8c023051d61061ee0071cefe0b34285ebc"
+    },
+    {
+      "id": "9ca51482da9a538695da5ea9",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "777f23fc11e5b7979fed0d5143fc00b3f2843747d82bf8b38bd1b38c5d4bf816"
+    },
+    {
+      "id": "d5028e4cfb18448adbf4fdf7",
+      "item_key": "5b6c7088726f",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイドマスター][メイドマスター]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b2b7e6a1b9950599ebc0f724a47ef532da0d10e56e7d2e19651c3f88ec55f205"
+    },
+    {
+      "id": "d83e941e3143e5ef91e22586",
+      "item_key": "9be060966fcf",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 40,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "25e9132945e19753583d7f16bae19ac9b47033a4bc06b29e47e60c1df6a733d7"
+    },
+    {
+      "id": "beef0fcd9c8ced6556054912",
+      "item_key": "0a6705fba9ee",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[大海賊][大海賊]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cf9c27d5019188d13ba75c52cae88694b1afba69fec3a86653424d3482e9a630"
+    }
+  ]
+}

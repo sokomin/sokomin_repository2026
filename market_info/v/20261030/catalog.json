@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261030",
+  "items": [
+    {
+      "id": "794d26af626d18160a2d8901",
+      "item_key": "6d74ace165ed",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[神巫女][神巫女]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "eeeb44a49196946fb3217723050fdf2a8b46734694fffd78e23aff83c52bc891"
+    },
+    {
+      "id": "8a3e69096038dc472f1c1ff7",
+      "item_key": "b5360cd0a7ae",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[恩寵の][神巫女][神巫女]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 600,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "7916fdbb2ad6aa3799bbce688a8cf19123c06b2975e7442d2f841eb5435acbf2"
+    },
+    {
+      "id": "61d19f28ec020cf433199729",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "59fe7f3f19679d15de5842f7c26c6e37491007932b041fa2e083daa7da715301"
+    },
+    {
+      "id": "686f579d8b279cbfb6163241",
+      "item_key": "bf4693ea6dca",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "[船長][船長]ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 8,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d9e6a6f3cbbf194217663df4df51e19558d2897cf11f0bc437fbf819179ad7df"
+    }
+  ]
+}

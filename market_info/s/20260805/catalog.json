@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260805",
+  "items": [
+    {
+      "id": "d83123119a0305b0dc30d4b8",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d30d0f1f7ac1d0c77e3c3fe74251d394b79f8c5ef968a5ef3fbe56bb688d1844"
+    },
+    {
+      "id": "d6af50bb3e1358e2e09722eb",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1e7e044a43d8a9f76c941d128cbdc162962b47844a3ebd699a82facf380e631a"
+    },
+    {
+      "id": "8b421ab4ce722aabcc367a12",
+      "item_key": "fa856460ccdf",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[致命打抵抗 DX][致命打抵抗 DX][恩寵の]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 1500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2e41edf0ce3101b448b48de08aef029cfb3c6ea258b61b50a32dae4c3830d80b"
+    },
+    {
+      "id": "58854565d8f6f6c0f56920c6",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "703d7ae6b3ccc15201f769564878e90f6448cb58a9a615a767d59bce4c5ad459"
+    }
+  ]
+}

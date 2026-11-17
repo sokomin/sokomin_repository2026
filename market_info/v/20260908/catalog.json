@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260908",
+  "items": [
+    {
+      "id": "5e649d9296f997838e80ac72",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8c24f9cd71eebeae13560c6bcaf042f10d32fcf8fd4739e864e7c6e96738d5ab"
+    },
+    {
+      "id": "a4b88a51e2baf13abdb7eae9",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "649c386b1dfd749e8cd662563e932b0c3a42f0e350a97bc8a0d66d72f5419c61"
+    },
+    {
+      "id": "4caafb093c026f1080e865a0",
+      "item_key": "b8aa931d2690",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイドマスター][メイドマスター][恩寵の]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 500,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a9191cc990c0177ae117934103c180af8a8f8e5cd42e36059fb6afeaed3cc970"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260906",
+  "items": [
+    {
+      "id": "f2ed2612a1a2990ede974ce4",
+      "item_key": "62481fc3e91b",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6df3db188c73fcada2616ce187f61204bae5e63feeb750885745439c9f500354"
+    },
+    {
+      "id": "153a6c69a8f089131047b819",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6ed57dbc77e014b71b03191b2d3271699dbcf09e6dceeb1dc5df813295a6c148"
+    },
+    {
+      "id": "8bb63667ace74ff2d7422d01",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5a3b5366336033daeb14fd0a1206556f7207380a515f09a9543931a8a4963980"
+    },
+    {
+      "id": "5035206c89ac5e8923001352",
+      "item_key": "a32933369415",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "[狙撃砲兵][致命打抵抗 DX][新兵]グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8a73583a79a82ea88ca3ccc793573714d20a8c86aec5472131c2b89d3882d759"
+    },
+    {
+      "id": "64048985e1a436b69472eb68",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "963cf61bab5610f19b439182dcad6c0bed662163692f1ca6cb7eb30d602d825f"
+    },
+    {
+      "id": "34d66c8aca4f7ef6825e09dc",
+      "item_key": "a9d77dedfc44",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "[健康比率上昇Lv1][攻撃Lv2]ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "4bfc0be1c2a03d51de9c9a499758d4674bd988f1e2c348301100697fe1710407"
+    }
+  ]
+}

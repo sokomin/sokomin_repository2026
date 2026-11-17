@@ -1,0 +1,133 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261031",
+  "items": [
+    {
+      "id": "d36eaaa15ef1dc22f112aa9c",
+      "item_key": "c16a130546c1",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f40f1d9eadf57f5b18fe9818ba3dc834d6490e408a2dc54c416804d0faaadfc5"
+    },
+    {
+      "id": "9b1b70c5cbd53136fbbf1d61",
+      "item_key": "62481fc3e91b",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "380743cfbccfc092b8e99a9b9380784f64f51a78eda7f9c505e204b9636c5984"
+    },
+    {
+      "id": "51bb37a65daa6385d9002bf7",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "777f23fc11e5b7979fed0d5143fc00b3f2843747d82bf8b38bd1b38c5d4bf816"
+    },
+    {
+      "id": "63332b7fae79bf5bb3b2eaf7",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0a2656dac260c24c08f223c2af742e8de0d0c74451ae7fb08d52905cfbac329f"
+    },
+    {
+      "id": "506708e62ee529bbd0613aa5",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a03f6e3d0422fb64605dd70cea5409470334799ae14c553136ba59abb55f8cd5"
+    },
+    {
+      "id": "fd2a122a63a8b79684402139",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d1c906526e9656054009cc892bedf5e81c7735271e81f26ddacad77b7a227a8e"
+    },
+    {
+      "id": "b203b2f86112793b25269729",
+      "item_key": "548cb51dcb2e",
+      "item_id": 13365,
+      "name": "ラムオブアルカナ",
+      "display_name": "ラムオブアルカナ",
+      "item_type": "酒瓶",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a1f277e979ba1dcdf50b2cf651bcbc8fe41ba401d6deefc78d6b9c4f29f9d46c"
+    }
+  ]
+}

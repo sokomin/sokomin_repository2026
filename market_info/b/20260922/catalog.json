@@ -1,0 +1,187 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20260922",
+  "items": [
+    {
+      "id": "8e1cbd26611077f7e9778677",
+      "item_key": "62481fc3e91b",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3bf153a119f557291fe8e5864a2785452e09a39dd0071cf3c8347bf96d35d07c"
+    },
+    {
+      "id": "1281e49f668942648d6f38bd",
+      "item_key": "386ff3f4a946",
+      "item_id": 13358,
+      "name": "キーオブアルカナ",
+      "display_name": "キーオブアルカナ",
+      "item_type": "マスターキー",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "938ac982a453206d4ebfcd4883a686d53c8b0f3ea1501e0bdfc03cf5fdd8a950"
+    },
+    {
+      "id": "00c8fc65724eef4833bcecef",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f1f136d8a9e0915d2449e0e1d1677498590e7fcd60d0ca3b4585e04d794d9b5c"
+    },
+    {
+      "id": "19ed4d1e8e9daa31809342e0",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "742f4942caa169b43a4922e54a5bb3344cd90a25aac70ba923d5d5c0992fe9fe"
+    },
+    {
+      "id": "b0b8257bcc69d84d8c15127d",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "918cd55330e0d72dd534d8a5511aa3983bbb6babd9718bc1ac3efb5757fd3519"
+    },
+    {
+      "id": "2fef2ad698f3c3f321dc5722",
+      "item_key": "863ac1bea6eb",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "[恩寵の][大スター][大スター]スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 150,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ad4cb41f85cc317d299a6a164b6f86676a2e4b3ab2b66c5e6fe587bae4605262"
+    },
+    {
+      "id": "19ee36ab25eed0c3a3b77b9a",
+      "item_key": "ffcaff55ac34",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "[大スター]スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 60,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1837f1f339946afd0839c2cabaee7cb62e04f656c2b24c7c5280df49000ac679"
+    },
+    {
+      "id": "25360483569ca0d5233c03ba",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 2,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "40b86032f8c726ca78c3c2e613dd0ff96a6aa30be5a7db89ba48ff8f44c64c35"
+    },
+    {
+      "id": "adf1aaef3a6dd6cfc7bc90ca",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "38c8ac01b7794129cd9b88946277339e68e4b48264ce1e4668d0be8fecb98810"
+    },
+    {
+      "id": "60bf99ef43470c49826e02e9",
+      "item_key": "c9154bbc3228",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a86cdc96ae77b24b90392e677fe3cd4cba91ee18707ab0e1326a0cb84fc67c67"
+    }
+  ]
+}

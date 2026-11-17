@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260928",
+  "items": [
+    {
+      "id": "abc62da0f4cf34916cf1569c",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b6357382bb24c1a0a061b8d1032b2800aef45092f58d98a9783b30a3f14936c5"
+    }
+  ]
+}

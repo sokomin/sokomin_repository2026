@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261013",
+  "items": [
+    {
+      "id": "65b678a4327a538596950795",
+      "item_key": "11c62019bdf9",
+      "item_id": 13349,
+      "name": "アローオブアルカナ",
+      "display_name": "[恩寵の]アローオブアルカナ",
+      "item_type": "矢",
+      "price": {
+        "amount": 350,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d855a73b4ead83fc5480ef671747bf19ede5ff7bd7c2a190e91bcf93c6249ed0"
+    },
+    {
+      "id": "58b1d77aa456053900f4040e",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 4,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "196e47b321f42b2c07e3d394e8f2eb4f117c7a4aa8cd3d3cc8c0db4569ff255e"
+    },
+    {
+      "id": "b0ed2acc8d4684242b6f1898",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 47,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f2003c170ff305c1cb4d594685fb237e10f388688cbb34179957e43cd5b302ae"
+    },
+    {
+      "id": "d8dbcfa0549c0a7f2d397b85",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 4,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1b959ee5cf98ca4e98db6e4a99d6924c3e1a86b7b09054c87072db1523cfd59f"
+    }
+  ]
+}

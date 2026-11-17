@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261016",
+  "items": [
+    {
+      "id": "2d0bb03ab68b9bba212b7acb",
+      "item_key": "20ffbfd9a95c",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "[教主][教主][教主]ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 400,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "1ef2c65ef7587cf40ea904dcb9ea710679db0c640c87b4e39852156f13c0a27b"
+    },
+    {
+      "id": "44c70d31962b4cd636850e63",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "04951ab9c1a0183b20097cf7aaf49364bf83d54bdbb758a7c377030ba076e70a"
+    }
+  ]
+}

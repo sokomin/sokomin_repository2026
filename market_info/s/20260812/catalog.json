@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260812",
+  "items": [
+    {
+      "id": "8e812ce6a957e4d9d9c13a1c",
+      "item_key": "d22354138512",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "[武装の]クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 150,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "dd40ffa32bc9459b20f283afbc309a1c3f49dce064727bb82f273f77204141b1"
+    },
+    {
+      "id": "1fafba38d6eaff9c1d4d27c8",
+      "item_key": "3a6b3cf66ca7",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f686a9af43850017ea537674948d5671ae66e5e1fa6ab10b70229fc0cdacbe8b"
+    }
+  ]
+}

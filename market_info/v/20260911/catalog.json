@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260911",
+  "items": [
+    {
+      "id": "a4a961070f80938473826734",
+      "item_key": "e310dc1fae97",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "[致命打抵抗 DX][団長][団長]クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 999,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "963b24049efeb2fb01afecb1e8f182e5e999e8ab08f1092cce44d1373bc46240"
+    },
+    {
+      "id": "20e23bbd9c1ea067852d7aab",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 150,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9563edb9003146671d2fd85edaa39ec5a14b99f3eda52e2245b33c56c0984853"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20261005",
+  "items": [
+    {
+      "id": "ed4242d792fd0d00ca39a517",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d2a1d13ab51376b4bd167a70f0aeec9594be8ce7b0a05613c30483c0ec0e39b8"
+    },
+    {
+      "id": "78b9a7167e38c698e7b1dea6",
+      "item_key": "110f3fb72c46",
+      "item_id": 13356,
+      "name": "カタリストオブアルカナ",
+      "display_name": "カタリストオブアルカナ",
+      "item_type": "触媒石",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "69b297888011bd825a4282b0b6a48f0adb04bfb1460dfb33c629c287c5dcdc8e"
+    },
+    {
+      "id": "38fe130b32cf9cbc1270ee18",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "aee85627ed1945fd104b1a42ea57b1571975c3e985dc9234411f44f1d3cc1339"
+    },
+    {
+      "id": "31e76982ec2362bbc4ab7557",
+      "item_key": "0cde98af85ab",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイドマスター][メイドマスター][メイドマスター]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8e4c4314be1a96ab1b66d8daf1127711306b62616166e9ab675594d3aba0a3fd"
+    },
+    {
+      "id": "490c98e134e2888ccd4f5765",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "db67152ac875f5471bacc3cfc5e896ef1ebea91bf23f1a0623ab53a6897f43ed"
+    },
+    {
+      "id": "15cd293d81a3e24207e9c168",
+      "item_key": "4d88f3a32819",
+      "item_id": 13352,
+      "name": "ヘナオブアルカナ",
+      "display_name": "ヘナオブアルカナ",
+      "item_type": "腕刺青",
+      "price": {
+        "amount": 3,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2b49354daba7d54ac59bf96d856cec651ba60915bd8ba56d112c0ae1a52e6bbe"
+    },
+    {
+      "id": "839621f31dfea1db237e6115",
+      "item_key": "ad8ec9279662",
+      "item_id": 13363,
+      "name": "ペイントオブアルカナ",
+      "display_name": "[拳聖][拳聖]ペイントオブアルカナ",
+      "item_type": "ウォーペイント",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f617253e71974325f0a850c00f813c7a09cd702e973d292f7e9b8e0ddfb1ca51"
+    }
+  ]
+}

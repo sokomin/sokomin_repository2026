@@ -148,6 +148,24 @@
       "variant_key": "75520e9161c32a6a6c84431dc504ed16732575cad3c3779fbb6adb705fab01b9"
     },
     {
+      "id": "e14a505981b9d33ef499cafb",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b5becee265eb85e1563744d4be1a6ca9eb19fcbdb0e109803570c843556ef917"
+    },
+    {
       "id": "fc1ed7e5013b1e0e93f19a1a",
       "item_key": "24423dbc12ed",
       "item_id": 14207,
@@ -200,6 +218,24 @@
       "opened": 0,
       "available": 1,
       "variant_key": "5a17253bd4aaa8441ef6f00b274f58d74f059bb9526641b3eee3ca480c4defe7"
+    },
+    {
+      "id": "f110b342a9678fee908ce681",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 40,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "a9d0a5b5240e3eabd57436e6a30e8fd40d9a06a0f0b7a5582a35d04dee4db06d"
     },
     {
       "id": "36d9e3707e8ae956a0e5e31a",
@@ -488,6 +524,24 @@
       "opened": null,
       "available": null,
       "variant_key": "ba8e6e640dd2f25e49e797c1379338831159b034ef557b1b4047ddaa5f95a204"
+    },
+    {
+      "id": "f87daab280fdbcf20250f59f",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "04951ab9c1a0183b20097cf7aaf49364bf83d54bdbb758a7c377030ba076e70a"
     },
     {
       "id": "084f1971830e70da941695f7",

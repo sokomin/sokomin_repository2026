@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261006",
+  "items": [
+    {
+      "id": "2c6fe7c600e6efb7a806870e",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 700,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "17432f752b2dc4d035c3f2e17914649a6a9615c75e8b7a0bb84621b664b015d5"
+    },
+    {
+      "id": "4047126c943dcaff04ce4349",
+      "item_key": "41b02eea83f6",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "[獣王][獣王][熱狂的な]ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "de8a8735eb55de38a288d5b39189de9d14b63fbeb2c245cc1c66045304782a88"
+    },
+    {
+      "id": "52248f28340b2a481bce17fb",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 200,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "04951ab9c1a0183b20097cf7aaf49364bf83d54bdbb758a7c377030ba076e70a"
+    }
+  ]
+}

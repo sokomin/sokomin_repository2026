@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261022",
+  "items": [
+    {
+      "id": "b0311576733c5949807ab86b",
+      "item_key": "20ffbfd9a95c",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "[教主][教主][教主]ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 700,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "62316937b0fd8072d9bbab0e98a183377e1afeb0f7b6df7cfa49d69620e79cfe"
+    },
+    {
+      "id": "29191159b99ce6043c5e802d",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 30,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c17fd1b60ceab8aac60f91091faf571cd9bd79f640c5c5c19310dec4513322c1"
+    },
+    {
+      "id": "44d4957632a0aff88c3aaf8d",
+      "item_key": "befd2387b290",
+      "item_id": 13353,
+      "name": "ブローチオブアルカナ",
+      "display_name": "ブローチオブアルカナ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "aff643ed005e49930aeed5bd94e3270d9a5f73cb18b389424e777ea1155b95c4"
+    }
+  ]
+}

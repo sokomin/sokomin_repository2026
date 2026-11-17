@@ -1,0 +1,97 @@
+{
+  "schema": 1,
+  "server": "s",
+  "date": "20260811",
+  "items": [
+    {
+      "id": "943d7f9a4f18b0530fd337c0",
+      "item_key": "790fd10a36c2",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "[節制の]クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 180,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "fec790d0589773c1aef7097547141a0fd6d698361651dd9db47c4afaa792594d"
+    },
+    {
+      "id": "4a73bfb8d5d2e9b9eccf5094",
+      "item_key": "d22354138512",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "[武装の]クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 180,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "dd40ffa32bc9459b20f283afbc309a1c3f49dce064727bb82f273f77204141b1"
+    },
+    {
+      "id": "9a69db44022a4f571e176f65",
+      "item_key": "3a6b3cf66ca7",
+      "item_id": 13354,
+      "name": "クレストオブアルカナ",
+      "display_name": "クレストオブアルカナ",
+      "item_type": "肩刺青",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "f686a9af43850017ea537674948d5671ae66e5e1fa6ab10b70229fc0cdacbe8b"
+    },
+    {
+      "id": "82ec3ff309317a4ccf82220b",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "742f4942caa169b43a4922e54a5bb3344cd90a25aac70ba923d5d5c0992fe9fe"
+    },
+    {
+      "id": "c8c3ff048b3aecc129215ad1",
+      "item_key": "c1ef9da8c5be",
+      "item_id": 13360,
+      "name": "シャードオブアルカナ",
+      "display_name": "シャードオブアルカナ",
+      "item_type": "獣毛装飾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c1557940c4922daf99e3225fce996f4d1693b40bcb0b94c02beca93c15091472"
+    }
+  ]
+}

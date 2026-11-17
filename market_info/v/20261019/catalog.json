@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20261019",
+  "items": [
+    {
+      "id": "55a2779ab9ed917b6e023f2c",
+      "item_key": "20ffbfd9a95c",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "[教主][教主][教主]ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 1000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "62316937b0fd8072d9bbab0e98a183377e1afeb0f7b6df7cfa49d69620e79cfe"
+    },
+    {
+      "id": "0b74db5f11fbd45d89703fc6",
+      "item_key": "8fbd93589267",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "[恩寵の][致命打抵抗 DX]クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 600,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "0dd67f1f1b63366d1ade11cf74b35b06a0ef00a5aafeb4926b08f8d442789278"
+    },
+    {
+      "id": "332ad34824fa9d061af93a97",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "777f23fc11e5b7979fed0d5143fc00b3f2843747d82bf8b38bd1b38c5d4bf816"
+    },
+    {
+      "id": "e27834ebf78b59211bb693b3",
+      "item_key": "518dfce5518c",
+      "item_id": 13357,
+      "name": "シスオブアルカナ",
+      "display_name": "[恩寵の]シスオブアルカナ",
+      "item_type": "鞘",
+      "price": {
+        "amount": 300,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "d1984d397dbd5487e468bb50e1214280ffa28c0eebc82aa10166c378a0dd483c"
+    }
+  ]
+}

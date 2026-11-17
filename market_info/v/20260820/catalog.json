@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "server": "v",
+  "date": "20260820",
+  "items": [
+    {
+      "id": "0ef9fed666911a35715b7326",
+      "item_key": "73dea0c2f7b3",
+      "item_id": 13359,
+      "name": "ガードオブアルカナ",
+      "display_name": "[攻撃Lv4][攻撃Lv4]ガードオブアルカナ",
+      "item_type": "保護帯",
+      "price": {
+        "amount": 25,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "60da149e26c50a6e3a823ada191f9e12c182d41e15f12075f65597acb440958f"
+    },
+    {
+      "id": "8a79773fd1835ff8d8a331db",
+      "item_key": "407d2f4df980",
+      "item_id": 13851,
+      "name": "グライドオブアルカナ",
+      "display_name": "グライドオブアルカナ",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 9,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "09c9f544bcabf14fd8cfc0a3a283aac9c2b696745be8edbed813c70ca384bc9d"
+    }
+  ]
+}
