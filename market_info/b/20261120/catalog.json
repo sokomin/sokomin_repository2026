@@ -1,0 +1,457 @@
+{
+  "schema": 1,
+  "server": "b",
+  "date": "20261120",
+  "items": [
+    {
+      "id": "9e8eceebe5296962f225fafb",
+      "item_key": "a19c7adfd844",
+      "item_id": 13849,
+      "name": "アクセラレーター",
+      "display_name": "アクセラレーター",
+      "item_type": "エネルギーチャージャー",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "9b1622a605e431086101ce1057bf8291377f8e82d3701182a634042f738c68c1"
+    },
+    {
+      "id": "5708b335d06d7fac57c1a476",
+      "item_key": "cdcdeefabec2",
+      "item_id": 13348,
+      "name": "ウォールオブアルカナ",
+      "display_name": "ウォールオブアルカナ",
+      "item_type": "盾",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "b8c515ff76fe2b8e6ebc30e410bd921943a2271abbf20848eb4a9c64d054079c"
+    },
+    {
+      "id": "f87825fdc63fe64c43b78e0c",
+      "item_key": "1d62b70416ee",
+      "item_id": 13350,
+      "name": "クリスタラインオブアルカナ",
+      "display_name": "クリスタラインオブアルカナ",
+      "item_type": "魔弾石",
+      "price": {
+        "amount": 110,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "5f9ed4feb2dd537d8907cc4fb6f66f182c50a34b2e7bd39d915531bc2f003e4b"
+    },
+    {
+      "id": "41e5be7d1e478e402afa7094",
+      "item_key": "72567aab8f46",
+      "item_id": 1304,
+      "name": "ケンタウロス紋章のブローチ",
+      "display_name": "[大魔導師]ケンタウロス紋章のブローチ",
+      "item_type": "ブローチ",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6ea595cae7385246fb47b48b86ca2eb53ca4660416a3d1c386511aa53d371b32"
+    },
+    {
+      "id": "3995b550f23ff1975cb4609e",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 60,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "918cd55330e0d72dd534d8a5511aa3983bbb6babd9718bc1ac3efb5757fd3519"
+    },
+    {
+      "id": "79e3c22378be6335206d53e8",
+      "item_key": "7eca56b9b412",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "ebdf04ef41aa801412e49222f650a675b54200782e6cd5b3ed493871ec1294f9"
+    },
+    {
+      "id": "9d601ffb9159481708dac1ee",
+      "item_key": "eb8177228b36",
+      "item_id": 13364,
+      "name": "コサージュオブアルカナ",
+      "display_name": "[メイド長][メイド見習い]コサージュオブアルカナ",
+      "item_type": "コサージュ",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "343ada5291ca233b9c99d587217a32e98c88af9698b050e7ea54dc173929280a"
+    },
+    {
+      "id": "7af35ff875fa0f27b1ab7566",
+      "item_key": "e5ebda3be784",
+      "item_id": 13361,
+      "name": "スターダストオブアルカナ",
+      "display_name": "スターダストオブアルカナ",
+      "item_type": "星群",
+      "price": {
+        "amount": 5,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "93b3a8f6c83010f57518b89eaa556aa3c6ae083ea747b341e59305f9f1ed40f4"
+    },
+    {
+      "id": "004681a7932b8c1ff8ba5359",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 100,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "17432f752b2dc4d035c3f2e17914649a6a9615c75e8b7a0bb84621b664b015d5"
+    },
+    {
+      "id": "7f227c32b0477a33e5a96d21",
+      "item_key": "161531343c2a",
+      "item_id": 13362,
+      "name": "ソウルオブアルカナ",
+      "display_name": "ソウルオブアルカナ",
+      "item_type": "契約霊",
+      "price": {
+        "amount": 10,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "22edc5965824bcd217b56b07a35e4b9af4da9ee2ccc5ed98556c62cd5483aacd"
+    },
+    {
+      "id": "f359983722b8508f266979bd",
+      "item_key": "32582f506425",
+      "item_id": 1371,
+      "name": "ペイルライト装飾の十字架 XLS",
+      "display_name": "ペイルライト装飾の十字架 XLS",
+      "item_type": "十字架",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "2fcfda21aeb14d3efc99fd06a50525e40f8e0a70d92070d5576906c3e7c4d116"
+    },
+    {
+      "id": "3700e18ccfda9fb0935a2161",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 800,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8f7c94890355bed9eb38f8cd991660f98964d4442e81c5e409aadc149759b342"
+    },
+    {
+      "id": "42e0d3700b071aebb8437bd0",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 7000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "8f29cb5e2973b796ed6bda0231ed5b285e977be45a4804ab45d720fc90d60186"
+    },
+    {
+      "id": "4f5ab12771e28648206884a2",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 900,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cb288839c1f87d1363fb3c19bdebb4b6411f48c3a374e0d90e7e7c6016809d3e"
+    },
+    {
+      "id": "61786367d6115c7e673f39ee",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 6900,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "cced561411d11a29ca269a84e0323ea460d154f0f03db8c75f3164e33872c4c0"
+    },
+    {
+      "id": "7f34a0a8c77e1119e7a62cf9",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 1998,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "42d08c5c61194e6ae559c417acce76b2085deec6c8f94f056c0fb689ca6a158c"
+    },
+    {
+      "id": "8e63326f00ec76cc9902398a",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 777,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "3e40ddcaa1fc966fc8e81cab0de08de1c957cd37dcdba18e9e0d5d03432250fb"
+    },
+    {
+      "id": "9056b890b4cf8eefc5b299b0",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 3000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "6fb0c4e4bca107af130e871c12b089cbc61e20ef9513844b626c53465cc441c2"
+    },
+    {
+      "id": "ac58b7ff92af551d80c0c7fb",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 2000,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "044aeab1e2e029037c677b0403b0971a67bbb4c5d85691639aa6b26d03a7889f"
+    },
+    {
+      "id": "be6017cf4d0ef8eaab6fac7d",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 6550,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c911680726306ab1580d074a4ada1146670cfe62134e19dd9b8fd97483d72c2a"
+    },
+    {
+      "id": "de5a9b9c0b45d645680948c4",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 900,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "af5da33b5a0c8e7bc9bb6ebca59b60c5b444bcf138a5b23edf9cee63b1113d69"
+    },
+    {
+      "id": "eb0373af34117312c59c2d54",
+      "item_key": "81bbb68632ee",
+      "item_id": 6312,
+      "name": "ミニペットポーチ",
+      "display_name": "ミニペットポーチ",
+      "item_type": "課金アイテム",
+      "price": {
+        "amount": 700,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "640b08a0650f7ab06215e3e0b17f5553af780be765f3c8bccb3baba9c701a91b"
+    },
+    {
+      "id": "55b1cd6dad6cdc39ae3337bd",
+      "item_key": "c063f5fab10b",
+      "item_id": 11115,
+      "name": "深海の鞘",
+      "display_name": "[火属性攻撃Lv3][最高攻撃Lv1]深海の鞘",
+      "item_type": "鞘",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "206407bb91883bd3a90f9cb2b3589d35baa93c841ac35be484164a631c9e92b0"
+    },
+    {
+      "id": "5d04e7eec3e5510b5c26aebf",
+      "item_key": "f98b4c1424f6",
+      "item_id": 3161,
+      "name": "片箭",
+      "display_name": "[攻撃Lv4][攻撃Lv4][攻撃Lv4]片箭",
+      "item_type": "矢",
+      "price": {
+        "amount": 50,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "dabe9e82c1a167ad7cf26405981a33a57c184326e23b64299214cefd71e588b4"
+    },
+    {
+      "id": "aae87add15364caf804e3cb6",
+      "item_key": "52395d5d37e2",
+      "item_id": 3052,
+      "name": "知識の盾",
+      "display_name": "[最大HPLv7]知識の盾",
+      "item_type": "盾",
+      "price": {
+        "amount": 1,
+        "currency": "ingot"
+      },
+      "quantity": 1,
+      "smelting_level": 0,
+      "complex": false,
+      "opened": null,
+      "available": null,
+      "variant_key": "c0d1b55cf45c44761688c1952398175b23b96dba8ede4fc1c4621c807f230ed3"
+    }
+  ]
+}
